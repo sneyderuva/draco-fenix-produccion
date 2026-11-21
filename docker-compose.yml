@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    ports:
+      - "${PUERTO:-3000}:3000"
+    volumes:
+      # Los datos se leen del repositorio; cada "git pull" actualiza la app sin reiniciarla.
+      - ./data:/app/data:ro

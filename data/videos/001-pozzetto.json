@@ -1,0 +1,89 @@
+{
+  "id": "001-pozzetto",
+  "numero": 1,
+  "caso": "Masacre de Pozzetto (Bogotá, 1986)",
+  "titulo_trabajo": "Avisó lo que iba a hacer y nadie lo detuvo",
+  "titulo_nota": "Título provisional: depende de lo que confirme la verificación de hechos.",
+  "angulo": "Las señales que se ignoraron y el recorrido de ese día, paso a paso.",
+  "duracion_objetivo_min": 23,
+  "formato": "Solo audio con montaje de documentos, mapas y material de apoyo",
+  "demanda": "5.502 búsquedas mensuales estimadas; competencia 57 de 100 (vidIQ, 21 nov 2026)",
+  "fecha_publicacion_plan": null,
+  "pasos": {
+    "1": {
+      "estado": "hecho",
+      "plan": "2026-11-21",
+      "real": "2026-11-21",
+      "nota": "Caso elegido con datos de demanda."
+    },
+    "2": {
+      "estado": "en_curso",
+      "plan": "2026-11-22",
+      "real": null,
+      "nota": "Ángulo definido; falta el concepto de miniatura."
+    },
+    "3": {
+      "estado": "pendiente",
+      "plan": "2026-11-23",
+      "real": null,
+      "nota": ""
+    },
+    "4": {
+      "estado": "pendiente",
+      "plan": "2026-11-24",
+      "real": null,
+      "nota": ""
+    },
+    "5": {
+      "estado": "pendiente",
+      "plan": "2026-11-24",
+      "real": null,
+      "nota": ""
+    },
+    "6": {
+      "estado": "pendiente",
+      "plan": "2026-11-25",
+      "real": null,
+      "nota": ""
+    },
+    "7": {
+      "estado": "pendiente",
+      "plan": "2026-11-26",
+      "real": null,
+      "nota": "Requiere la interfaz de audio para el micrófono SM58."
+    },
+    "8": {
+      "estado": "pendiente",
+      "plan": "2026-11-28",
+      "real": null,
+      "nota": ""
+    },
+    "9": {
+      "estado": "pendiente",
+      "plan": "2026-11-29",
+      "real": null,
+      "nota": ""
+    },
+    "10": {
+      "estado": "pendiente",
+      "plan": null,
+      "real": null,
+      "nota": "Se publica cuando haya tres videos producidos."
+    },
+    "11": {
+      "estado": "pendiente",
+      "plan": null,
+      "real": null,
+      "nota": ""
+    }
+  },
+  "fuentes": [],
+  "enlaces": {},
+  "metricas": null,
+  "bitacora": [
+    {
+      "fecha": "2026-11-21",
+      "texto": "Se definió la fórmula de producción, se eligió el caso y se preparó el canal (portada, descripción y foto de perfil)."
+    }
+  ]
+}

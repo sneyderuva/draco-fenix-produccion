@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Ingreso · Draco Fénix producción</title>
+<link rel="stylesheet" href="/estilos.css">
+</head>
+<body>
+<form class="login" method="post" action="/login">
+  <div class="marca">DRACO <span>FÉNIX</span></div>
+  <p class="lema">Producción del canal</p>
+  <label for="clave">Contraseña</label>
+  <input id="clave" name="clave" type="password" autocomplete="current-password" required autofocus>
+  <button type="submit">Ingresar</button>
+  <p class="error" id="error" hidden>Contraseña incorrecta.</p>
+</form>
+<script>
+if (new URLSearchParams(location.search).has('error')) document.getElementById('error').hidden = false;
+</script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+:root {
+  --fondo: #0e0e11; --panel: #17171c; --panel2: #1f1f26; --borde: #2c2c36;
+  --texto: #f1ece2; --suave: #a9a39a; --rojo: #c0282a; --ambar: #d8a642; --verde: #4caf7d;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--fondo); color: var(--texto); font: 16px/1.5 system-ui, "Segoe UI", Roboto, sans-serif; }
+a { color: var(--ambar); }
+header { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 24px; padding: 16px 24px; border-bottom: 1px solid var(--borde); }
+.marca { font-weight: 800; letter-spacing: .04em; font-size: 20px; }
+.marca span { color: var(--ambar); }
+.lema { color: var(--suave); font-size: 14px; }
+nav { display: flex; gap: 6px; margin-left: auto; flex-wrap: wrap; }
+nav button, .btn { background: transparent; color: var(--suave); border: 1px solid transparent; padding: 8px 14px; border-radius: 8px; font: inherit; cursor: pointer; text-decoration: none; }
+nav button:hover, .btn:hover { color: var(--texto); border-color: var(--borde); }
+nav button[aria-selected="true"] { color: var(--texto); background: var(--panel2); border-color: var(--borde); }
+main { max-width: 1100px; margin: 0 auto; padding: 24px; }
+h1 { font-size: 24px; margin: 0 0 4px; }
+h2 { font-size: 18px; margin: 28px 0 12px; }
+.sub { color: var(--suave); margin: 0 0 20px; }
+.tarjeta { background: var(--panel); border: 1px solid var(--borde); border-radius: 12px; padding: 20px; margin-bottom: 16px; }
+.tarjeta h3 { margin: 0 0 2px; font-size: 18px; }
+.fila { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: baseline; justify-content: space-between; }
+.barra { height: 8px; background: var(--panel2); border-radius: 99px; overflow: hidden; margin: 14px 0 6px; }
+.barra i { display: block; height: 100%; background: var(--ambar); }
+.pasos { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; margin-top: 14px; padding: 0; list-style: none; }
+.paso { border: 1px solid var(--borde); border-radius: 8px; padding: 10px 12px; background: var(--panel2); font-size: 14px; }
+.paso b { display: block; font-weight: 600; }
+.paso small { color: var(--suave); }
+.paso.hecho { border-color: var(--verde); }
+.paso.hecho small { color: var(--verde); }
+.paso.en_curso { border-color: var(--ambar); background: #2a2415; }
+.paso.en_curso small { color: var(--ambar); }
+.paso.espera { border-color: var(--rojo); background: #2a1516; }
+.paso.espera small { color: #ef8b8b; }
+.etiqueta { display: inline-block; font-size: 12px; padding: 2px 8px; border-radius: 99px; border: 1px solid var(--borde); color: var(--suave); }
+.aviso { border-left: 3px solid var(--rojo); background: #2a1516; padding: 12px 16px; margin-bottom: 16px; }
+.aviso.ok { border-color: var(--verde); background: #14241c; }
+table { width: 100%; border-collapse: collapse; font-size: 14px; }
+th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--borde); vertical-align: top; }
+th { color: var(--suave); font-weight: 500; }
+.semana { display: grid; grid-template-columns: repeat(7, minmax(120px, 1fr)); gap: 8px; overflow-x: auto; }
+.dia { background: var(--panel); border: 1px solid var(--borde); border-radius: 10px; padding: 10px; min-height: 130px; }
+.dia.hoy { border-color: var(--ambar); }
+.dia h4 { margin: 0 0 8px; font-size: 13px; color: var(--suave); font-weight: 500; }
+.evento { font-size: 13px; background: var(--panel2); border-left: 3px solid var(--borde); padding: 6px 8px; margin-bottom: 6px; border-radius: 0 6px 6px 0; }
+.evento.hecho { border-color: var(--verde); } .evento.en_curso { border-color: var(--ambar); } .evento.espera { border-color: var(--rojo); }
+.evento small { display: block; color: var(--suave); }
+.cifras { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; }
+.cifra b { display: block; font-size: 28px; }
+.cifra span { color: var(--suave); font-size: 14px; }
+dl { display: grid; grid-template-columns: max-content 1fr; gap: 6px 16px; margin: 0; }
+dt { color: var(--suave); } dd { margin: 0; }
+.pie { color: var(--suave); font-size: 13px; text-align: center; padding: 24px; }
+.login { max-width: 360px; margin: 14vh auto; padding: 0 24px; }
+.login input { width: 100%; padding: 12px; border-radius: 8px; border: 1px solid var(--borde); background: var(--panel); color: var(--texto); font: inherit; margin: 12px 0; }
+.login button { width: 100%; padding: 12px; border: 0; border-radius: 8px; background: var(--ambar); color: #1c1503; font: inherit; font-weight: 700; cursor: pointer; }
+.error { color: #ef8b8b; }
+@media (max-width: 600px) { main { padding: 16px; } nav { margin-left: 0; } }
