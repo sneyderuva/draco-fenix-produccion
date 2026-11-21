@@ -29,16 +29,16 @@
       "nota": "Inventario listo y prensa de 1986 leída: ediciones del 5 y del 8 de diciembre y carta de registros militares."
     },
     "4": {
-      "estado": "en_curso",
+      "estado": "hecho",
       "plan": "2026-11-24",
-      "real": null,
-      "nota": "16 de 29 nombres confirmados en dos fuentes; falta la lista oficial del 6 de diciembre."
+      "real": "2026-11-21",
+      "nota": "Lista de hechos aprobada por el creador. 16 de 29 nombres confirmados en dos fuentes; los demás no se nombran hasta confirmarlos."
     },
     "5": {
-      "estado": "en_curso",
+      "estado": "espera",
       "plan": "2026-11-26",
       "real": null,
-      "nota": "Estructura aprobada: siete bloques, con biografía narrada en el bloque 2. Sigue la redacción del guion."
+      "nota": "Borrador 1 entregado: 3.039 palabras en siete bloques. Espera lectura y ajustes del creador."
     },
     "6": {
       "estado": "pendiente",
@@ -162,6 +162,10 @@
     {
       "fecha": "2026-11-21",
       "texto": "Se agregó el paso 7, Insumos visuales y sonoros, entre el guion y el montaje. El flujo queda en 12 pasos."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "El creador aprobó la verificación de hechos. Se entregó el primer borrador del guion."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
