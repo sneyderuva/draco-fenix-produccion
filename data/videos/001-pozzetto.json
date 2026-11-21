@@ -41,10 +41,10 @@
       "nota": "Guion versión 1 aprobado por el creador: 3.039 palabras en siete bloques."
     },
     "6": {
-      "estado": "en_curso",
+      "estado": "espera",
       "plan": "2026-11-27",
       "real": null,
-      "nota": "Opciones de título puntuadas y conceptos de miniatura a partir del inventario de evidencias."
+      "nota": "Título elegido: «Pasó el día despidiéndose y nadie entendió por qué». Miniatura en dos versiones para prueba A/B: A «Mesa 20» y B «¿De viaje?». Espera la elección del creador."
     },
     "7": {
       "estado": "pendiente",
@@ -170,6 +170,10 @@
     {
       "fecha": "2026-11-21",
       "texto": "El creador aprobó el guion. Empieza el paso 6, título y miniatura."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "Se crearon las miniaturas del video: hombre de espaldas y desenfocado, maletín nítido y la mesa 20 al fondo."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
