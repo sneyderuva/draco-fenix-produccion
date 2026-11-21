@@ -2,9 +2,9 @@
   "id": "001-pozzetto",
   "numero": 1,
   "caso": "Masacre de Pozzetto (Bogotá, 1986)",
-  "titulo_trabajo": "Avisó lo que iba a hacer y nadie lo detuvo",
-  "titulo_nota": "Título provisional: depende de lo que confirme la verificación de hechos.",
-  "angulo": "Las señales que se ignoraron y el recorrido de ese día, paso a paso.",
+  "titulo_trabajo": "Pasó el día despidiéndose y nadie entendió por qué | Caso Pozzetto",
+  "titulo_nota": "Opción con mejor puntaje (89 de 100 en vidIQ). Pendiente de que el creador elija entre tres opciones. El título anterior se descartó: ninguna fuente dice que anunciara sus planes.",
+  "angulo": "Las señales de ese día (cerró su cuenta, buscó a un conocido, se despidió) y lo que la investigación nunca aclaró.",
   "duracion_objetivo_min": 23,
   "formato": "Solo audio con montaje de documentos, mapas y material de apoyo",
   "demanda": "5.502 búsquedas mensuales estimadas; competencia 57 de 100 (vidIQ, 21 nov 2026)",
@@ -17,16 +17,16 @@
       "nota": "Caso elegido con datos de demanda."
     },
     "2": {
-      "estado": "en_curso",
+      "estado": "espera",
       "plan": "2026-11-22",
       "real": null,
-      "nota": "Ángulo definido; falta el concepto de miniatura."
+      "nota": "El creador debe elegir el título entre tres opciones; luego se genera la miniatura."
     },
     "3": {
-      "estado": "pendiente",
+      "estado": "en_curso",
       "plan": "2026-11-23",
       "real": null,
-      "nota": ""
+      "nota": "Primera pasada hecha: 8 fuentes y 5 discrepancias por resolver."
     },
     "4": {
       "estado": "pendiente",
@@ -77,7 +77,33 @@
       "nota": ""
     }
   },
-  "fuentes": [],
+  "fuentes": [
+    {
+      "titulo": "El Espectador: Hace tres décadas fue la masacre de Pozzetto (2016)",
+      "url": "https://www.elespectador.com/colombia/mas-regiones/hace-tres-decadas-fue-la-masacre-de-pozzetto-article-668816/",
+      "nota": "Consultada; falta verificación"
+    },
+    {
+      "titulo": "Semana: La masacre (1987)",
+      "url": "https://www.semana.com/especiales/articulo/la-masacre/8529-3/",
+      "nota": "Consultada; falta verificación"
+    },
+    {
+      "titulo": "El Tiempo: los crímenes previos a la masacre",
+      "url": "https://www.eltiempo.com/cultura/gente/masacre-de-pozzetto-campo-elias-delgado-y-sus-asesinatos-previos-757978",
+      "nota": "Consultada; falta verificación"
+    },
+    {
+      "titulo": "BBC Mundo: qué fue la masacre de Pozzetto",
+      "url": "https://www.t13.cl/noticia/mundo/bbc/que-fue-la-masacre-de-pozzetto-que-estremecio-a-bogota-hace-32-anos",
+      "nota": "Consultada; falta verificación"
+    },
+    {
+      "titulo": "Pulzo: Mario Mendoza recuerda cómo conoció al autor",
+      "url": "https://www.pulzo.com/nacion/bogota/masacre-pozzetto-mario-mendoza-recuerda-como-conocio-campo-elias-delgado-PP4945765A",
+      "nota": "Consultada; falta verificación"
+    }
+  ],
   "enlaces": {},
   "metricas": null,
   "bitacora": [
@@ -88,6 +114,11 @@
     {
       "fecha": "2026-11-21",
       "texto": "Se creó la app de seguimiento y se publicó el tablero en GitHub Pages."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "Primera pasada de investigación. Se descartó el título inicial por falta de respaldo y se detectó el aniversario 40 del caso (4 de diciembre de 2026)."
     }
-  ]
+  ],
+  "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
 }
