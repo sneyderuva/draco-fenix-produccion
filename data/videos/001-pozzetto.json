@@ -84,6 +84,10 @@
     {
       "fecha": "2026-11-21",
       "texto": "Se definió la fórmula de producción, se eligió el caso y se preparó el canal (portada, descripción y foto de perfil)."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "Se creó la app de seguimiento y se publicó el tablero en GitHub Pages."
     }
   ]
 }
