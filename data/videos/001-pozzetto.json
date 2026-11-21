@@ -3,12 +3,12 @@
   "numero": 1,
   "caso": "Masacre de Pozzetto (Bogotá, 1986)",
   "titulo_trabajo": "Pasó el día despidiéndose y nadie entendió por qué | Caso Pozzetto",
-  "titulo_nota": "Opción con mejor puntaje (89 de 100 en vidIQ). Pendiente de que el creador elija entre tres opciones. El título anterior se descartó: ninguna fuente dice que anunciara sus planes.",
+  "titulo_nota": "Elegido por el creador el 21 de noviembre (89 de 100 en vidIQ).",
   "angulo": "Las señales de ese día (cerró su cuenta, buscó a un conocido, se despidió) y lo que la investigación nunca aclaró.",
   "duracion_objetivo_min": 23,
   "formato": "Solo audio con montaje de documentos, mapas y material de apoyo",
   "demanda": "5.502 búsquedas mensuales estimadas; competencia 57 de 100 (vidIQ, 21 nov 2026)",
-  "fecha_publicacion_plan": null,
+  "fecha_publicacion_plan": "2026-12-04",
   "pasos": {
     "1": {
       "estado": "hecho",
@@ -17,20 +17,20 @@
       "nota": "Caso elegido con datos de demanda."
     },
     "2": {
-      "estado": "espera",
+      "estado": "en_curso",
       "plan": "2026-11-22",
       "real": null,
-      "nota": "El creador debe elegir el título entre tres opciones; luego se genera la miniatura."
+      "nota": "Título elegido; falta la miniatura."
     },
     "3": {
       "estado": "en_curso",
-      "plan": "2026-11-23",
+      "plan": "2026-11-22",
       "real": null,
       "nota": "Primera pasada hecha: 8 fuentes y 5 discrepancias por resolver."
     },
     "4": {
       "estado": "pendiente",
-      "plan": "2026-11-24",
+      "plan": "2026-11-23",
       "real": null,
       "nota": ""
     },
@@ -38,41 +38,41 @@
       "estado": "pendiente",
       "plan": "2026-11-24",
       "real": null,
-      "nota": ""
+      "nota": "El creador aprueba la lista de hechos el martes 24."
     },
     "6": {
       "estado": "pendiente",
-      "plan": "2026-11-25",
+      "plan": "2026-11-26",
       "real": null,
-      "nota": ""
+      "nota": "Guion listo el miércoles 25; el creador lo aprueba el jueves 26."
     },
     "7": {
       "estado": "pendiente",
-      "plan": "2026-11-26",
+      "plan": "2026-11-29",
       "real": null,
-      "nota": "Requiere la interfaz de audio para el micrófono SM58."
+      "nota": "Fecha límite: domingo 29. Requiere la interfaz de audio para el micrófono SM58."
     },
     "8": {
       "estado": "pendiente",
-      "plan": "2026-11-28",
+      "plan": "2026-11-30",
       "real": null,
       "nota": ""
     },
     "9": {
       "estado": "pendiente",
-      "plan": "2026-11-29",
+      "plan": "2026-12-02",
       "real": null,
-      "nota": ""
+      "nota": "El creador aprueba el corte final el jueves 3 de diciembre."
     },
     "10": {
       "estado": "pendiente",
-      "plan": null,
+      "plan": "2026-12-04",
       "real": null,
-      "nota": "Se publica cuando haya tres videos producidos."
+      "nota": "Publicación en el aniversario 40 del caso."
     },
     "11": {
       "estado": "pendiente",
-      "plan": null,
+      "plan": "2026-12-11",
       "real": null,
       "nota": ""
     }
@@ -118,6 +118,10 @@
     {
       "fecha": "2026-11-21",
       "texto": "Primera pasada de investigación. Se descartó el título inicial por falta de respaldo y se detectó el aniversario 40 del caso (4 de diciembre de 2026)."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "El creador eligió el título y fijó la publicación para el 4 de diciembre, aniversario 40 del caso."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
