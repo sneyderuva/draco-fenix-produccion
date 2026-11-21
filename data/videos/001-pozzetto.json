@@ -35,10 +35,10 @@
       "nota": "16 de 29 nombres confirmados en dos fuentes; falta la lista oficial del 6 de diciembre."
     },
     "5": {
-      "estado": "pendiente",
+      "estado": "en_curso",
       "plan": "2026-11-26",
       "real": null,
-      "nota": "Guion listo el miércoles 25; el creador lo aprueba el jueves 26."
+      "nota": "Estructura aprobada: siete bloques, con biografía narrada en el bloque 2. Sigue la redacción del guion."
     },
     "6": {
       "estado": "pendiente",
@@ -148,6 +148,10 @@
     {
       "fecha": "2026-11-21",
       "texto": "Se leyó El Tiempo del 5 y del 8 de diciembre de 1986. La primera edición ya decía que el autor presumía de ser veterano de Vietnam."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "El creador aprobó la estructura del guion: 7 bloques, 23 minutos, 3.450 palabras. El bloque 2 es la biografía del protagonista en seis escenas."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
