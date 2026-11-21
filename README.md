@@ -11,7 +11,7 @@ App privada del canal [Draco Fénix](https://www.youtube.com/@Draco-fenix): tabl
 
 ## Despliegue automático con GitHub Actions
 
-Cada cambio en `main` ejecuta el flujo `.github/workflows/desplegar.yml`: copia el código y los datos al VPS por SSH y levanta la app con Docker. No hace falta clonar el repositorio en el VPS ni programar tareas.
+El flujo `.github/workflows/desplegar.yml` se ejecuta a mano desde la pestaña Actions (se puede activar para que corra con cada cambio en `main`): copia el código y los datos al VPS por SSH y levanta la app con Docker. No hace falta clonar el repositorio en el VPS ni programar tareas.
 
 GitHub Actions no aloja la app; solo la instala y actualiza en el VPS, que es donde queda corriendo.
 
@@ -35,7 +35,7 @@ GitHub Actions no aloja la app; solo la instala y actualiza en el VPS, que es do
    | `APP_PASSWORD` | Contraseña de la app, mínimo 8 caracteres, sin comillas ni el signo `$` |
    | `VPS_PORT` | Opcional; puerto de SSH si no es el 22 |
 
-4. Ejecutar el flujo: pestaña Actions → "Desplegar en el VPS" → Run workflow. Desde ahí se ejecuta solo con cada cambio.
+4. Ejecutar el flujo: pestaña Actions → "Desplegar en el VPS" → Run workflow.
 
 La app queda en `http://IP-DEL-VPS:3000`, en la carpeta `~/draco` del usuario. La carpeta y el puerto se cambian con las variables `VPS_RUTA` y `APP_PUERTO` del repositorio.
 
