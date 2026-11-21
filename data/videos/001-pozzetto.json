@@ -23,16 +23,16 @@
       "nota": "9 fuentes leídas; 14 hechos confirmados y 9 en disputa."
     },
     "3": {
-      "estado": "en_curso",
+      "estado": "hecho",
       "plan": "2026-11-23",
-      "real": null,
-      "nota": "El creador revisó la carta de registros militares: muestra ingreso el 12 de agosto de 1975. Faltan el escaneo de El Tiempo y la captura de la carta."
+      "real": "2026-11-21",
+      "nota": "Inventario listo y prensa de 1986 leída: ediciones del 5 y del 8 de diciembre y carta de registros militares."
     },
     "4": {
       "estado": "en_curso",
       "plan": "2026-11-24",
       "real": null,
-      "nota": "Hechos aprobados por el creador. Falta confirmar en dos fuentes el nombre de cada víctima."
+      "nota": "16 de 29 nombres confirmados en dos fuentes; falta la lista oficial del 6 de diciembre."
     },
     "5": {
       "estado": "pendiente",
@@ -144,6 +144,10 @@
     {
       "fecha": "2026-11-21",
       "texto": "Cambio de fórmula: el título y la miniatura pasan a hacerse después del guion."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "Se leyó El Tiempo del 5 y del 8 de diciembre de 1986. La primera edición ya decía que el autor presumía de ser veterano de Vietnam."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
