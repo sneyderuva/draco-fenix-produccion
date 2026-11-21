@@ -13,7 +13,11 @@ const DATA_DIR = path.resolve(process.env.DATA_DIR || path.join(__dirname, 'data
 const PUBLIC_DIR = path.join(__dirname, 'public');
 const SESSION_DAYS = 30;
 
-if (PASSWORD.length < 8 || SECRET.length < 16) {
+// Modo local: sin contraseña y accesible solo desde este mismo computador.
+const LOCAL = process.env.LOCAL === '1';
+const HOST = process.env.HOST || (LOCAL ? '127.0.0.1' : '0.0.0.0');
+
+if (!LOCAL && (PASSWORD.length < 8 || SECRET.length < 16)) {
   console.error('Faltan APP_PASSWORD (mínimo 8 caracteres) o SESSION_SECRET (mínimo 16). Ver README.');
   process.exit(1);
 }
@@ -92,8 +96,9 @@ const server = http.createServer((req, res) => {
 
   if (url.pathname === '/salud') return send(res, 200, 'ok');
 
-  if (url.pathname === '/login' && req.method === 'GET') return serveStatic(res, 'login.html');
   if (url.pathname === '/estilos.css') return serveStatic(res, 'estilos.css');
+  if (LOCAL && (url.pathname === '/login' || url.pathname === '/salir')) return send(res, 302, '', { Location: '/' });
+  if (url.pathname === '/login' && req.method === 'GET') return serveStatic(res, 'login.html');
 
   if (url.pathname === '/login' && req.method === 'POST') {
     if (throttled(ip)) return send(res, 429, 'Demasiados intentos. Espere 15 minutos.');
@@ -114,7 +119,7 @@ const server = http.createServer((req, res) => {
     return send(res, 302, '', { Location: '/login', 'Set-Cookie': `sesion=; Max-Age=0; ${cookieFlags}` });
   }
 
-  if (!validSession(req)) {
+  if (!LOCAL && !validSession(req)) {
     if (url.pathname.startsWith('/api/')) return send(res, 401, '{"error":"sin sesión"}', { 'Content-Type': TYPES['.json'] });
     return send(res, 302, '', { Location: '/login' });
   }
@@ -132,4 +137,7 @@ const server = http.createServer((req, res) => {
   serveStatic(res, url.pathname === '/' ? 'index.html' : url.pathname.slice(1));
 });
 
-server.listen(PORT, () => console.log(`Draco Fénix · producción en el puerto ${PORT}`));
+server.listen(PORT, HOST, () => {
+  console.log(`Draco Fénix · producción en http://${HOST === '0.0.0.0' ? 'localhost' : HOST}:${PORT}`);
+  if (LOCAL) console.log('Modo local: sin contraseña. No usar este modo en un servidor público.');
+});

@@ -51,8 +51,8 @@ git commit -am "Pozzetto: paso 3 hecho" && git push
 
 Estados: `hecho`, `en_curso`, `espera` (falta una aprobación o tarea del creador) y `pendiente`.
 
-## Prueba local
+## Uso local en Windows
 
-```bash
-APP_PASSWORD=una-clave-larga SESSION_SECRET=$(openssl rand -hex 32) node server.js
-```
+Doble clic en `iniciar.bat`. Abre la app en `http://localhost:3000`, sin contraseña y visible solo desde ese computador. Usa Node.js si está instalado y, si no, Docker.
+
+El modo local (`LOCAL=1`) desactiva la contraseña: no debe usarse en un servidor público.
