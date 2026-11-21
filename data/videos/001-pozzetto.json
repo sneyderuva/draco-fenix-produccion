@@ -4,7 +4,7 @@
   "caso": "Masacre de Pozzetto (Bogotá, 1986)",
   "titulo_trabajo": "Pasó el día despidiéndose y nadie entendió por qué | Caso Pozzetto",
   "titulo_nota": "Elegido por el creador el 21 de noviembre (89 de 100 en vidIQ).",
-  "angulo": "Las señales de ese día (cerró su cuenta, buscó a un conocido, se despidió) y lo que la investigación nunca aclaró.",
+  "angulo": "Las despedidas de ese día y la pregunta que la prensa dio por resuelta: ¿de verdad fue veterano de Vietnam?",
   "duracion_objetivo_min": 23,
   "formato": "Solo audio con montaje de documentos, mapas y material de apoyo",
   "demanda": "5.502 búsquedas mensuales estimadas; competencia 57 de 100 (vidIQ, 21 nov 2026)",
@@ -23,10 +23,10 @@
       "nota": "Título elegido; falta la miniatura."
     },
     "3": {
-      "estado": "en_curso",
+      "estado": "hecho",
       "plan": "2026-11-22",
-      "real": null,
-      "nota": "Primera pasada hecha: 8 fuentes y 5 discrepancias por resolver."
+      "real": "2026-11-21",
+      "nota": "9 fuentes leídas; 14 hechos confirmados y 9 en disputa."
     },
     "4": {
       "estado": "pendiente",
@@ -35,10 +35,10 @@
       "nota": ""
     },
     "5": {
-      "estado": "pendiente",
+      "estado": "espera",
       "plan": "2026-11-24",
       "real": null,
-      "nota": "El creador aprueba la lista de hechos el martes 24."
+      "nota": "Lista de hechos lista en 01_Investigacion; el creador debe aprobarla."
     },
     "6": {
       "estado": "pendiente",
@@ -81,27 +81,37 @@
     {
       "titulo": "El Espectador: Hace tres décadas fue la masacre de Pozzetto (2016)",
       "url": "https://www.elespectador.com/colombia/mas-regiones/hace-tres-decadas-fue-la-masacre-de-pozzetto-article-668816/",
-      "nota": "Consultada; falta verificación"
+      "nota": "Leída"
     },
     {
       "titulo": "Semana: La masacre (1987)",
       "url": "https://www.semana.com/especiales/articulo/la-masacre/8529-3/",
-      "nota": "Consultada; falta verificación"
+      "nota": "Leída"
     },
     {
       "titulo": "El Tiempo: los crímenes previos a la masacre",
       "url": "https://www.eltiempo.com/cultura/gente/masacre-de-pozzetto-campo-elias-delgado-y-sus-asesinatos-previos-757978",
-      "nota": "Consultada; falta verificación"
+      "nota": "Leída"
     },
     {
       "titulo": "BBC Mundo: qué fue la masacre de Pozzetto",
       "url": "https://www.t13.cl/noticia/mundo/bbc/que-fue-la-masacre-de-pozzetto-que-estremecio-a-bogota-hace-32-anos",
-      "nota": "Consultada; falta verificación"
+      "nota": "Leída"
     },
     {
       "titulo": "Pulzo: Mario Mendoza recuerda cómo conoció al autor",
       "url": "https://www.pulzo.com/nacion/bogota/masacre-pozzetto-mario-mendoza-recuerda-como-conocio-campo-elias-delgado-PP4945765A",
-      "nota": "Consultada; falta verificación"
+      "nota": "Leída"
+    },
+    {
+      "titulo": "UPI: Death toll up to 30 in Bogota rampage (6 dic 1986)",
+      "url": "https://www.upi.com/Archives/1986/12/06/Death-toll-up-to-30-in-Bogota-rampage/4932534229200/",
+      "nota": "Versión de 1986 sobre su servicio en Vietnam"
+    },
+    {
+      "titulo": "Wikipedia en inglés: Pozzetto massacre",
+      "url": "https://en.wikipedia.org/wiki/Pozzetto_massacre",
+      "nota": "Fuente terciaria; cita registros militares de EE. UU. que contradicen la versión de 1986"
     }
   ],
   "enlaces": {},
@@ -122,6 +132,10 @@
     {
       "fecha": "2026-11-21",
       "texto": "El creador eligió el título y fijó la publicación para el 4 de diciembre, aniversario 40 del caso."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "Investigación terminada. Hallazgo principal: los registros militares de EE. UU. citados por Wikipedia contradicen la versión de 1986 sobre Vietnam."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
