@@ -35,16 +35,16 @@
       "nota": "Lista de hechos aprobada por el creador. 16 de 29 nombres confirmados en dos fuentes; los demás no se nombran hasta confirmarlos."
     },
     "5": {
-      "estado": "espera",
+      "estado": "hecho",
       "plan": "2026-11-26",
-      "real": null,
-      "nota": "Borrador 1 entregado: 3.039 palabras en siete bloques. Espera lectura y ajustes del creador."
+      "real": "2026-11-21",
+      "nota": "Guion versión 1 aprobado por el creador: 3.039 palabras en siete bloques."
     },
     "6": {
-      "estado": "pendiente",
+      "estado": "en_curso",
       "plan": "2026-11-27",
       "real": null,
-      "nota": "Título de trabajo elegido; el definitivo y la miniatura se hacen después del guion."
+      "nota": "Opciones de título puntuadas y conceptos de miniatura a partir del inventario de evidencias."
     },
     "7": {
       "estado": "pendiente",
@@ -166,6 +166,10 @@
     {
       "fecha": "2026-11-21",
       "texto": "El creador aprobó la verificación de hechos. Se entregó el primer borrador del guion."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "El creador aprobó el guion. Empieza el paso 6, título y miniatura."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
