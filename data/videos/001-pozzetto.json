@@ -35,10 +35,10 @@
       "nota": ""
     },
     "5": {
-      "estado": "espera",
+      "estado": "en_curso",
       "plan": "2026-11-24",
       "real": null,
-      "nota": "Lista de hechos lista en 01_Investigacion; el creador debe aprobarla."
+      "nota": "Hechos aprobados por el creador. Falta confirmar en dos fuentes el nombre de cada víctima."
     },
     "6": {
       "estado": "pendiente",
@@ -136,6 +136,10 @@
     {
       "fecha": "2026-11-21",
       "texto": "Investigación terminada. Hallazgo principal: los registros militares de EE. UU. citados por Wikipedia contradicen la versión de 1986 sobre Vietnam."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "El creador aprobó la lista de hechos y decidió nombrar a las víctimas para dar voz a sus historias."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
