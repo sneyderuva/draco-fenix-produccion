@@ -6,39 +6,40 @@ App privada del canal [Draco Fénix](https://www.youtube.com/@Draco-fenix): tabl
 
 - Los datos viven en `data/`: `canal.json`, `pasos.json` y un archivo por video en `data/videos/`.
 - La sesión de Claude publica el avance con un cambio en este repositorio.
-- El VPS descarga los cambios cada minuto; la app lee los archivos en cada consulta, así que se actualiza sin reiniciar.
+- GitHub Actions copia cada cambio al VPS; la app lee los archivos en cada consulta, así que los datos se actualizan solos.
 - El acceso exige contraseña. La contraseña se define en el VPS, en `.env`, y nunca se sube al repositorio.
 
-## Despliegue en el VPS (Linux con Docker)
+## Despliegue automático con GitHub Actions
 
-1. Crear una llave de despliegue de solo lectura y registrarla en GitHub (Settings → Deploy keys del repositorio):
+Cada cambio en `main` ejecuta el flujo `.github/workflows/desplegar.yml`: copia el código y los datos al VPS por SSH y levanta la app con Docker. No hace falta clonar el repositorio en el VPS ni programar tareas.
 
-   ```bash
-   ssh-keygen -t ed25519 -f ~/.ssh/draco_deploy -N ""
-   cat ~/.ssh/draco_deploy.pub
-   ```
+GitHub Actions no aloja la app; solo la instala y actualiza en el VPS, que es donde queda corriendo.
 
-2. Clonar y configurar:
+### Preparación, una sola vez
 
-   ```bash
-   GIT_SSH_COMMAND="ssh -i ~/.ssh/draco_deploy" git clone git@github.com:sneyderuva/draco-fenix-produccion.git /opt/draco
-   cd /opt/draco
-   git config core.sshCommand "ssh -i ~/.ssh/draco_deploy"
-   cp .env.example .env
-   nano .env   # definir APP_PASSWORD (mínimo 8 caracteres)
-   echo "SESSION_SECRET=$(openssl rand -hex 32)" >> .env   # y borrar la línea SESSION_SECRET vacía
-   ```
-
-3. Levantar la app y programar la actualización cada minuto:
+1. En el VPS deben estar instalados Docker (con `docker compose`) y `rsync`, y el usuario de despliegue debe poder ejecutar Docker.
+2. Crear una llave solo para el despliegue y autorizarla en el VPS. Desde cualquier computador:
 
    ```bash
-   docker compose up -d --build
-   (crontab -l 2>/dev/null; echo "* * * * * cd /opt/draco && git pull -q --ff-only") | crontab -
+   ssh-keygen -t ed25519 -f draco_actions -N ""
+   ssh-copy-id -i draco_actions.pub usuario@IP-DEL-VPS
    ```
 
-La app queda en `http://IP-DEL-VPS:3000`. Los cambios de datos se ven solos; si cambia el código (`server.js` o `public/`), hay que ejecutar de nuevo `docker compose up -d --build`.
+3. En GitHub, en Settings → Secrets and variables → Actions del repositorio, crear estos secretos:
 
-**HTTPS:** sin HTTPS la contraseña viaja sin cifrar. Conviene poner la app detrás de un proxy con certificado (Caddy o Nginx) y entonces definir `COOKIE_SECURE=1`.
+   | Secreto | Valor |
+   | --- | --- |
+   | `VPS_HOST` | Dirección IP o dominio del VPS |
+   | `VPS_USER` | Usuario de SSH |
+   | `VPS_SSH_KEY` | Contenido completo del archivo `draco_actions` (la llave privada) |
+   | `APP_PASSWORD` | Contraseña de la app, mínimo 8 caracteres, sin comillas ni el signo `$` |
+   | `VPS_PORT` | Opcional; puerto de SSH si no es el 22 |
+
+4. Ejecutar el flujo: pestaña Actions → "Desplegar en el VPS" → Run workflow. Desde ahí se ejecuta solo con cada cambio.
+
+La app queda en `http://IP-DEL-VPS:3000`, en la carpeta `~/draco` del usuario. La carpeta y el puerto se cambian con las variables `VPS_RUTA` y `APP_PUERTO` del repositorio.
+
+**HTTPS:** sin HTTPS la contraseña viaja sin cifrar. Conviene poner la app detrás de un proxy con certificado (Caddy o Nginx).
 
 ## Registrar avance
 
