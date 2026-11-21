@@ -48,29 +48,35 @@
     },
     "7": {
       "estado": "pendiente",
+      "plan": "2026-11-30",
+      "real": null,
+      "nota": "Tabla de planos bloque por bloque: documentos, mapas, material de apoyo, música y rótulos, con fuente y licencia. Va en paralelo con la grabación de voz."
+    },
+    "8": {
+      "estado": "pendiente",
       "plan": "2026-11-29",
       "real": null,
       "nota": "Fecha límite: domingo 29. Requiere la interfaz de audio para el micrófono SM58."
     },
-    "8": {
+    "9": {
       "estado": "pendiente",
       "plan": "2026-11-30",
       "real": null,
       "nota": ""
     },
-    "9": {
+    "10": {
       "estado": "pendiente",
       "plan": "2026-12-02",
       "real": null,
       "nota": "El creador aprueba el corte final el jueves 3 de diciembre."
     },
-    "10": {
+    "11": {
       "estado": "pendiente",
       "plan": "2026-12-04",
       "real": null,
       "nota": "Publicación en el aniversario 40 del caso."
     },
-    "11": {
+    "12": {
       "estado": "pendiente",
       "plan": "2026-12-11",
       "real": null,
@@ -152,6 +158,10 @@
     {
       "fecha": "2026-11-21",
       "texto": "El creador aprobó la estructura del guion: 7 bloques, 23 minutos, 3.450 palabras. El bloque 2 es la biografía del protagonista en seis escenas."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "Se agregó el paso 7, Insumos visuales y sonoros, entre el guion y el montaje. El flujo queda en 12 pasos."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
