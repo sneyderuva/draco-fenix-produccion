@@ -51,6 +51,12 @@ git commit -am "Pozzetto: paso 3 hecho" && git push
 
 Estados: `hecho`, `en_curso`, `espera` (falta una aprobación o tarea del creador) y `pendiente`.
 
+## Página pública en GitHub Pages
+
+El flujo `.github/workflows/pages.yml` genera una versión estática del tablero (`node scripts/construir.mjs`) y la publica con cada cambio en `main`. Requiere que el repositorio sea público y que en Settings → Pages la fuente sea "GitHub Actions".
+
+Esa página no tiene contraseña: cualquiera con el enlace ve los casos en producción y el cronograma.
+
 ## Uso local en Windows
 
 Doble clic en `iniciar.bat`. Abre la app en `http://localhost:3000`, sin contraseña y visible solo desde ese computador. Usa Node.js si está instalado y, si no, Docker.

@@ -123,9 +123,14 @@ function pintar() {
 
 async function cargar() {
   try {
-    const r = await fetch('/api/estado', { cache: 'no-store' });
-    if (r.status === 401) { location.href = '/login'; return; }
-    if (!r.ok) throw new Error(r.status);
+    let r = await fetch('api/estado', { cache: 'no-store' });
+    if (r.status === 401) { location.href = 'login'; return; }
+    if (!r.ok) {
+      // Versión estática (GitHub Pages): los datos vienen en un archivo y no hay sesión.
+      r = await fetch('estado.json', { cache: 'no-store' });
+      if (!r.ok) throw new Error(r.status);
+      $('#salir').hidden = true;
+    }
     datos = await r.json();
     pintar();
   } catch (e) {
