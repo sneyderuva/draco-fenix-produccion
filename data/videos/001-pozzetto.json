@@ -3,7 +3,7 @@
   "numero": 1,
   "caso": "Masacre de Pozzetto (Bogotá, 1986)",
   "titulo_trabajo": "Pasó el día despidiéndose y nadie entendió por qué | Caso Pozzetto",
-  "titulo_nota": "Elegido por el creador el 21 de noviembre (89 de 100 en vidIQ).",
+  "titulo_nota": "Título de trabajo elegido por el creador (89 de 100 en vidIQ). Se confirma después del guion.",
   "angulo": "Las despedidas de ese día y la pregunta que la prensa dio por resuelta: ¿de verdad fue veterano de Vietnam?",
   "duracion_objetivo_min": 23,
   "formato": "Solo audio con montaje de documentos, mapas y material de apoyo",
@@ -14,37 +14,37 @@
       "estado": "hecho",
       "plan": "2026-11-21",
       "real": "2026-11-21",
-      "nota": "Caso elegido con datos de demanda."
+      "nota": "Caso y ángulo elegidos con datos de demanda."
     },
     "2": {
-      "estado": "en_curso",
-      "plan": "2026-11-22",
-      "real": null,
-      "nota": "Título elegido; falta la miniatura."
-    },
-    "3": {
       "estado": "hecho",
       "plan": "2026-11-22",
       "real": "2026-11-21",
       "nota": "9 fuentes leídas; 14 hechos confirmados y 9 en disputa."
     },
-    "4": {
-      "estado": "pendiente",
+    "3": {
+      "estado": "en_curso",
       "plan": "2026-11-23",
       "real": null,
-      "nota": ""
+      "nota": "Inventario de evidencias con origen y derechos; falta que el creador abra los documentos clave."
     },
-    "5": {
+    "4": {
       "estado": "en_curso",
       "plan": "2026-11-24",
       "real": null,
       "nota": "Hechos aprobados por el creador. Falta confirmar en dos fuentes el nombre de cada víctima."
     },
-    "6": {
+    "5": {
       "estado": "pendiente",
       "plan": "2026-11-26",
       "real": null,
       "nota": "Guion listo el miércoles 25; el creador lo aprueba el jueves 26."
+    },
+    "6": {
+      "estado": "pendiente",
+      "plan": "2026-11-27",
+      "real": null,
+      "nota": "Título de trabajo elegido; el definitivo y la miniatura se hacen después del guion."
     },
     "7": {
       "estado": "pendiente",
@@ -140,6 +140,10 @@
     {
       "fecha": "2026-11-21",
       "texto": "El creador aprobó la lista de hechos y decidió nombrar a las víctimas para dar voz a sus historias."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "Cambio de fórmula: el título y la miniatura pasan a hacerse después del guion."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."

@@ -1,13 +1,68 @@
 [
-  { "id": 1, "nombre": "Idea y caso", "responsable": "IA", "aprueba_creador": true },
-  { "id": 2, "nombre": "Título y miniatura", "responsable": "IA", "aprueba_creador": true },
-  { "id": 3, "nombre": "Investigación", "responsable": "IA", "aprueba_creador": false },
-  { "id": 4, "nombre": "Evidencias", "responsable": "IA", "aprueba_creador": false },
-  { "id": 5, "nombre": "Verificación de hechos", "responsable": "IA", "aprueba_creador": true },
-  { "id": 6, "nombre": "Guion", "responsable": "IA", "aprueba_creador": true },
-  { "id": 7, "nombre": "Grabación de voz", "responsable": "Creador", "aprueba_creador": false },
-  { "id": 8, "nombre": "Limpieza de audio", "responsable": "IA", "aprueba_creador": false },
-  { "id": 9, "nombre": "Montaje y subtítulos", "responsable": "IA y creador", "aprueba_creador": true },
-  { "id": 10, "nombre": "Publicación y recortes", "responsable": "IA", "aprueba_creador": true },
-  { "id": 11, "nombre": "Análisis de resultados", "responsable": "IA", "aprueba_creador": false }
+  {
+    "id": 1,
+    "nombre": "Idea y ángulo",
+    "responsable": "IA",
+    "aprueba_creador": true
+  },
+  {
+    "id": 2,
+    "nombre": "Investigación",
+    "responsable": "IA",
+    "aprueba_creador": false
+  },
+  {
+    "id": 3,
+    "nombre": "Evidencias",
+    "responsable": "IA",
+    "aprueba_creador": false
+  },
+  {
+    "id": 4,
+    "nombre": "Verificación de hechos",
+    "responsable": "IA",
+    "aprueba_creador": true
+  },
+  {
+    "id": 5,
+    "nombre": "Guion",
+    "responsable": "IA",
+    "aprueba_creador": true
+  },
+  {
+    "id": 6,
+    "nombre": "Título y miniatura",
+    "responsable": "IA",
+    "aprueba_creador": true
+  },
+  {
+    "id": 7,
+    "nombre": "Grabación de voz",
+    "responsable": "Creador",
+    "aprueba_creador": false
+  },
+  {
+    "id": 8,
+    "nombre": "Limpieza de audio",
+    "responsable": "IA",
+    "aprueba_creador": false
+  },
+  {
+    "id": 9,
+    "nombre": "Montaje y subtítulos",
+    "responsable": "IA y creador",
+    "aprueba_creador": true
+  },
+  {
+    "id": 10,
+    "nombre": "Publicación y recortes",
+    "responsable": "IA",
+    "aprueba_creador": true
+  },
+  {
+    "id": 11,
+    "nombre": "Análisis de resultados",
+    "responsable": "IA",
+    "aprueba_creador": false
+  }
 ]
