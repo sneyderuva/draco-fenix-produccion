@@ -38,7 +38,7 @@
       "estado": "espera",
       "plan": "2026-11-26",
       "real": null,
-      "nota": "Versión 2 con voz parcera y sellos de marca («Abramos el expediente», «el dato que no cuadra», «detectives»): 3.214 palabras. Espera lectura del creador."
+      "nota": "Versión 3: voz parcera contada de corrido, con conectores, y presentación nueva («Aquí no le cuento el cuento: le cuento la historia y la investigación»). Espera lectura del creador."
     },
     "6": {
       "estado": "espera",
@@ -178,6 +178,10 @@
     {
       "fecha": "2026-11-21",
       "texto": "El creador pidió una voz más coloquial: se reescribió el guion en tono parcero con los sellos del canal. Se agregó la miniatura C, hecha con la carta de 2019 y el titular de 1986."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "El creador pidió más naturalidad: se reescribió el guion de corrido y se cambió la presentación del canal."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
