@@ -65,10 +65,10 @@
       "nota": ""
     },
     "10": {
-      "estado": "pendiente",
+      "estado": "en_curso",
       "plan": "2026-12-02",
       "real": null,
-      "nota": "El creador aprueba el corte final el jueves 3 de diciembre."
+      "nota": "Montaje guía preparado: 113 clips cortados y numerados en el orden del guion (22,5 min), en la carpeta montaje_orden. Falta abrir el proyecto en Filmora y, después, poner la voz y ajustar los cortes."
     },
     "11": {
       "estado": "pendiente",
@@ -220,6 +220,10 @@
     {
       "fecha": "2026-11-22",
       "texto": "Se animaron en video todas las piezas y las fotos. Se descartó una foto de la Javeriana que no era de la sede de Bogotá y un clip con caras de personas en primer plano."
+    },
+    {
+      "fecha": "2026-11-22",
+      "texto": "Se preparó el montaje guía por orden de guion. No se alcanzó a abrir Filmora: se perdió la conexión con el computador del creador."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
