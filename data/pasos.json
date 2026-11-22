@@ -61,12 +61,18 @@
   },
   {
     "id": 11,
-    "nombre": "Publicación y recortes",
+    "nombre": "Publicación",
     "responsable": "IA",
     "aprueba_creador": true
   },
   {
     "id": 12,
+    "nombre": "Recortes verticales (Shorts, Reels y TikTok)",
+    "responsable": "IA y creador",
+    "aprueba_creador": true
+  },
+  {
+    "id": 13,
     "nombre": "Análisis de resultados",
     "responsable": "IA",
     "aprueba_creador": false

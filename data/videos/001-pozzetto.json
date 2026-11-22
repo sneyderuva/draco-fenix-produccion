@@ -47,10 +47,10 @@
       "nota": "Título: «Pasó el día despidiéndose y nadie entendió por qué | Caso Pozzetto». Van las tres miniaturas a la prueba A/B de YouTube: A «Mesa 20», B «¿De viaje?» y C «La carta». La portada del canal no cambia."
     },
     "7": {
-      "estado": "espera",
+      "estado": "en_curso",
       "plan": "2026-11-30",
       "real": null,
-      "nota": "77 insumos gráficos listos, más 28 fotos reales a pantalla completa (Pozzetto, Séptima, Chapinero, Javeriana, Chinácota, Durania, Saigón 1975 y tres de prensa de 1986) y la primera animación (plano 45). Faltan la grabación del creador en los lugares, la cortinilla, la música y los efectos."
+      "nota": "77 insumos gráficos, 28 fotos reales y 8 videos reales con licencia libre (reemplazan la grabación en Bogotá). En curso: versiones animadas en video de las piezas y de las fotos. Faltan del creador la cortinilla, la música y los efectos."
     },
     "8": {
       "estado": "pendiente",
@@ -77,6 +77,12 @@
       "nota": "Publicación en el aniversario 40 del caso."
     },
     "12": {
+      "estado": "pendiente",
+      "plan": "2026-12-05",
+      "real": null,
+      "nota": "De un video largo salen de 5 a 8 recortes en 9:16 para Shorts, Reels y TikTok, cada uno con gancho propio y cierre «Mírelo completo en YouTube». Se publican uno por día desde el 4 de diciembre."
+    },
+    "13": {
       "estado": "pendiente",
       "plan": "2026-12-11",
       "real": null,
@@ -206,6 +212,10 @@
     {
       "fecha": "2026-11-21",
       "texto": "El creador pidió más material real y más dinamismo. Se descargaron, con su permiso, fotos con licencia libre de Wikimedia Commons; se prepararon las fotos de prensa de 1986 y la lista de tomas para grabar los lugares; se hizo la primera pieza animada en video."
+    },
+    {
+      "fecha": "2026-11-22",
+      "texto": "El creador no puede grabar en Bogotá: se buscaron videos reales con licencia libre y se animan las fotos. Pidió sumar al flujo los recortes verticales para Shorts, Reels y TikTok; quedó como paso 12."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
