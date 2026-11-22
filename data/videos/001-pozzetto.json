@@ -47,10 +47,10 @@
       "nota": "Título: «Pasó el día despidiéndose y nadie entendió por qué | Caso Pozzetto». Van las tres miniaturas a la prueba A/B de YouTube: A «Mesa 20», B «¿De viaje?» y C «La carta». La portada del canal no cambia."
     },
     "7": {
-      "estado": "en_curso",
+      "estado": "espera",
       "plan": "2026-11-30",
       "real": null,
-      "nota": "Tabla de planos lista: 67 planos; 13 piezas listas, 46 por producir, 7 del creador y 1 por decidir. Sigue la producción de cartelas, mapas y líneas de tiempo."
+      "nota": "76 insumos gráficos listos en la carpeta de edición; cubren 61 de los 67 planos. Faltan del creador la cortinilla, la música y los efectos (fotos del lugar, opcionales). Por decidir: portada antigua de «Jekyll y Hyde». Espera la revisión del creador."
     },
     "8": {
       "estado": "pendiente",
@@ -194,6 +194,10 @@
     {
       "fecha": "2026-11-21",
       "texto": "El creador decidió publicar con las tres miniaturas en prueba A/B y dejar la portada del canal como está."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "Se produjeron los 76 insumos gráficos del video (sellos, rótulos de nivel, nombres, mapas, líneas de tiempo, recortes de prensa y de la carta, y la recreación), con su índice por plano. La tabla de planos quedó al día."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
