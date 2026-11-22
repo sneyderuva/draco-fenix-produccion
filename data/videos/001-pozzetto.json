@@ -38,7 +38,7 @@
       "estado": "espera",
       "plan": "2026-11-26",
       "real": null,
-      "nota": "Versión 3: voz parcera contada de corrido, con conectores, y presentación nueva («Aquí no le cuento el cuento: le cuento la historia y la investigación»). Espera lectura del creador."
+      "nota": "Versión 4: gancho nuevo, con los cuarenta años en la primera frase y el dato que no cuadra dicho con fecha. Espera lectura del creador."
     },
     "6": {
       "estado": "espera",
@@ -182,6 +182,10 @@
     {
       "fecha": "2026-11-21",
       "texto": "El creador pidió más naturalidad: se reescribió el guion de corrido y se cambió la presentación del canal."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "El creador pidió un gancho más fuerte y mencionar los cuarenta años: se reescribió el bloque 1 y se ajustaron los bloques 3, 5 y 7."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
