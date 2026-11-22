@@ -50,7 +50,7 @@
       "estado": "espera",
       "plan": "2026-11-30",
       "real": null,
-      "nota": "77 insumos gráficos listos en la carpeta de edición, con índice por plano; cubren 62 de los 67 planos. Faltan del creador la cortinilla, la música y los efectos (las fotos del lugar son opcionales). Espera la revisión del creador."
+      "nota": "77 insumos gráficos listos, más 21 fotos reales a pantalla completa (Pozzetto, Séptima, Chapinero, Chinácota, Durania, Saigón 1975 y tres de prensa de 1986) y la primera animación (plano 45). Faltan 7 fotos que Wikimedia limitó por ahora, la grabación del creador en los lugares, la cortinilla, la música y los efectos."
     },
     "8": {
       "estado": "pendiente",
@@ -202,6 +202,10 @@
     {
       "fecha": "2026-11-21",
       "texto": "El creador autorizó descargar la página de título de 1886 de «Jekyll y Hyde» (Wikimedia Commons, dominio público); con ella quedó la cartela del plano 22."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "El creador pidió más material real y más dinamismo. Se descargaron, con su permiso, fotos con licencia libre de Wikimedia Commons; se prepararon las fotos de prensa de 1986 y la lista de tomas para grabar los lugares; se hizo la primera pieza animada en video."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
