@@ -50,7 +50,7 @@
       "estado": "espera",
       "plan": "2026-11-30",
       "real": null,
-      "nota": "Listos en la carpeta de edición: 77 insumos gráficos, 27 fotos reales, 8 videos reales con licencia libre y 104 clips animados (piezas, fotos y sellos transparentes). Faltan del creador la cortinilla, la música y los efectos. Espera su revisión."
+      "nota": "Insumos gráficos, fotos y videos reales, cortinilla de 17 s hecha con la portada del canal, música base, pista de efectos, rótulos y créditos listos. Solo falta la voz (29 nov)."
     },
     "8": {
       "estado": "pendiente",
@@ -68,7 +68,7 @@
       "estado": "en_curso",
       "plan": "2026-12-02",
       "real": null,
-      "nota": "Montaje guía armado en Filmora (proyecto pozzeto.wfp): 113 clips en la pista de video, 22:34, a 30 cuadros por segundo. Falta la voz, ajustar cada corte a su frase, la cortinilla, los sellos transparentes, la música y los subtítulos."
+      "nota": "Montaje guía en Filmora con 4 pistas: sellos y rótulos (Video 2), 114 clips con rótulo y crédito en fotos y videos reales (Video 1), música base (Audio 1) y efectos (Audio 2). Dura 22:45. Falta ajustar cortes a la voz y subtítulos."
     },
     "11": {
       "estado": "pendiente",
@@ -224,6 +224,10 @@
     {
       "fecha": "2026-11-22",
       "texto": "Se preparó el montaje guía por orden de guion. No se alcanzó a abrir Filmora: se perdió la conexión con el computador del creador."
+    },
+    {
+      "fecha": "2026-11-22",
+      "texto": "Montaje guía completo en Filmora: cortinilla, pista superior de sellos y rótulos, música, efectos, rótulos en fotos y tarjeta de créditos. Proyecto guardado."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
