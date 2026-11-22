@@ -35,10 +35,10 @@
       "nota": "Lista de hechos aprobada por el creador. 16 de 29 nombres confirmados en dos fuentes; los demás no se nombran hasta confirmarlos."
     },
     "5": {
-      "estado": "espera",
+      "estado": "hecho",
       "plan": "2026-11-26",
-      "real": null,
-      "nota": "Versión 4: gancho nuevo, con los cuarenta años en la primera frase y el dato que no cuadra dicho con fecha. Espera lectura del creador."
+      "real": "2026-11-21",
+      "nota": "Guion versión 4 aprobado por el creador: voz parcera, gancho con los cuarenta años y 3.703 palabras. Hay copia limpia para grabar."
     },
     "6": {
       "estado": "espera",
@@ -47,10 +47,10 @@
       "nota": "Título elegido: «Pasó el día despidiéndose y nadie entendió por qué». Tres miniaturas para prueba A/B: A «Mesa 20», B «¿De viaje?» y C «La carta». Espera la elección del creador."
     },
     "7": {
-      "estado": "pendiente",
+      "estado": "en_curso",
       "plan": "2026-11-30",
       "real": null,
-      "nota": "Tabla de planos bloque por bloque: documentos, mapas, material de apoyo, música y rótulos, con fuente y licencia. Va en paralelo con la grabación de voz."
+      "nota": "Tabla de planos lista: 67 planos; 13 piezas listas, 46 por producir, 7 del creador y 1 por decidir. Sigue la producción de cartelas, mapas y líneas de tiempo."
     },
     "8": {
       "estado": "pendiente",
@@ -186,6 +186,10 @@
     {
       "fecha": "2026-11-21",
       "texto": "El creador pidió un gancho más fuerte y mencionar los cuarenta años: se reescribió el bloque 1 y se ajustaron los bloques 3, 5 y 7."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "El creador aprobó el guion. Arrancó el paso 7 con la tabla de planos, bloque por bloque."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
