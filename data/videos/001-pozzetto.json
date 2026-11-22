@@ -50,7 +50,7 @@
       "estado": "espera",
       "plan": "2026-11-30",
       "real": null,
-      "nota": "Insumos gráficos, fotos y videos reales, cortinilla de 17 s hecha con la portada del canal, música base, pista de efectos, rótulos y créditos listos. Solo falta la voz (29 nov)."
+      "nota": "Insumos listos, con la cortinilla en versión 2: de la escena del crimen al tablero (cinta policial, balas, cuchillos, pastillas, destellos de cámara y sirenas), con la canción «Southern Gothic» de Kevin MacLeod (CC BY 4.0, crédito obligatorio). Solo falta la voz (29 nov)."
     },
     "8": {
       "estado": "pendiente",
@@ -68,7 +68,7 @@
       "estado": "en_curso",
       "plan": "2026-12-02",
       "real": null,
-      "nota": "Montaje guía en Filmora con 4 pistas: sellos y rótulos (Video 2), 114 clips con rótulo y crédito en fotos y videos reales (Video 1), música base (Audio 1) y efectos (Audio 2). Dura 22:45. Falta ajustar cortes a la voz y subtítulos."
+      "nota": "Montaje guía en Filmora con 4 pistas y 22:45 de duración. La cortinilla nueva ya está en el clip 011 y su sonido en las pistas de música y efectos. Falta ajustar cortes a la voz y subtítulos."
     },
     "11": {
       "estado": "pendiente",
@@ -228,6 +228,10 @@
     {
       "fecha": "2026-11-22",
       "texto": "Montaje guía completo en Filmora: cortinilla, pista superior de sellos y rótulos, música, efectos, rótulos en fotos y tarjeta de créditos. Proyecto guardado."
+    },
+    {
+      "fecha": "2026-11-22",
+      "texto": "Cortinilla v2: las pruebas viajan en profundidad hasta el tablero, el fondo se ve desde el primer cuadro y entra una canción country de licencia libre (Southern Gothic, Kevin MacLeod, CC BY 4.0). Crédito agregado a la tarjeta final y al texto de la descripción."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
