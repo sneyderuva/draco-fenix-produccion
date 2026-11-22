@@ -68,7 +68,7 @@
       "estado": "en_curso",
       "plan": "2026-12-02",
       "real": null,
-      "nota": "Montaje guía en Filmora con 4 pistas y 22:45 de duración. La cortinilla nueva ya está en el clip 011 y su sonido en las pistas de música y efectos. Falta ajustar cortes a la voz y subtítulos."
+      "nota": "Montaje guía en Filmora (proyecto pozzeto_v5_recreaciones), 22:38 de duración. Cortinilla recortada a 11,5 s, efectos y sonidos gratuitos de Filmora en todo el video y cuatro recreaciones con rótulo «RECREACIÓN» (calle, escalera, pasillo y sala) en lugar de la pantalla en negro y de parte de las fichas. Las evidencias no se tocaron. Faltan dos recreaciones, ajustar cortes a la voz y subtítulos."
     },
     "11": {
       "estado": "pendiente",
@@ -232,6 +232,10 @@
     {
       "fecha": "2026-11-22",
       "texto": "Cortinilla v2: las pruebas viajan en profundidad hasta el tablero, el fondo se ve desde el primer cuadro y entra una canción country de licencia libre (Southern Gothic, Kevin MacLeod, CC BY 4.0). Crédito agregado a la tarjeta final y al texto de la descripción."
+    },
+    {
+      "fecha": "2026-11-22",
+      "texto": "Montaje v5: cortinilla recortada, efectos de suspenso de Filmora (solo gratuitos), cuatro recreaciones sin personas con rótulo «RECREACIÓN» y corrección del plano de la carrera Séptima que se veía aplastado. Al publicar se debe marcar en YouTube el aviso de contenido alterado o sintético."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
