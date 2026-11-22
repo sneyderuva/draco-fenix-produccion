@@ -41,10 +41,10 @@
       "nota": "Guion versión 4 aprobado por el creador: voz parcera, gancho con los cuarenta años y 3.703 palabras. Hay copia limpia para grabar."
     },
     "6": {
-      "estado": "espera",
+      "estado": "hecho",
       "plan": "2026-11-27",
-      "real": null,
-      "nota": "Título elegido: «Pasó el día despidiéndose y nadie entendió por qué». Tres miniaturas para prueba A/B: A «Mesa 20», B «¿De viaje?» y C «La carta». Espera la elección del creador."
+      "real": "2026-11-21",
+      "nota": "Título: «Pasó el día despidiéndose y nadie entendió por qué | Caso Pozzetto». Van las tres miniaturas a la prueba A/B de YouTube: A «Mesa 20», B «¿De viaje?» y C «La carta». La portada del canal no cambia."
     },
     "7": {
       "estado": "en_curso",
@@ -190,6 +190,10 @@
     {
       "fecha": "2026-11-21",
       "texto": "El creador aprobó el guion. Arrancó el paso 7 con la tabla de planos, bloque por bloque."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "El creador decidió publicar con las tres miniaturas en prueba A/B y dejar la portada del canal como está."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
