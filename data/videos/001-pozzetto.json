@@ -71,10 +71,10 @@
       "nota": "Montaje v7 (pozzeto_v7_efectos), 24:31: blanco y negro solo en las recreaciones del bloque 4 (84 s), textura de película antigua en seis tramos de material de 1986, fundidos a negro entre bloques, parpadeos y negativos en frases clave, sonido de proyector en 28 evidencias y fotos antiguas, efectos de suspenso nuevos y la carta de 2019 entrando en «apareció un papel». Exportado en 1080p, H.264 y AAC de 320 kbps en 07_Exportados. Subtítulos: los automáticos de YouTube."
     },
     "11": {
-      "estado": "pendiente",
+      "estado": "en_curso",
       "plan": "2026-12-04",
       "real": null,
-      "nota": "Publicación en el aniversario 40 del caso."
+      "nota": "Subido a YouTube y programado para el viernes 4 de diciembre de 2026 a las 6:00 p. m. (Bogotá), sin estreno: https://youtu.be/mJqhICvbff0. Título «Pasó el día despidiéndose y nadie entendió por qué | Caso Pozzetto» (89/100 en vidIQ), descripción con capítulos, fuentes, aviso de IA y créditos, 14 etiquetas, español de Latinoamérica, no es para niños, uso de IA declarado. Verificación de derechos de autor sin problemas. Miniatura principal: D «¿Quién era?» (foto del pasaporte de 1986). La prueba A/B con A, C y D queda pendiente de la verificación de funciones avanzadas del canal."
     },
     "12": {
       "estado": "pendiente",
@@ -126,7 +126,9 @@
       "nota": "Fuente terciaria; cita registros militares de EE. UU. que contradicen la versión de 1986"
     }
   ],
-  "enlaces": {},
+  "enlaces": {
+    "youtube": "https://youtu.be/mJqhICvbff0"
+  },
   "metricas": null,
   "bitacora": [
     {
@@ -244,6 +246,10 @@
     {
       "fecha": "2026-11-24",
       "texto": "Montaje v7 terminado y exportado para YouTube. Se agregó el crédito del sonido de proyector («Slide Projector Clunk», BudgetPixel AI, CC BY 4.0)."
+    },
+    {
+      "fecha": "2026-11-24",
+      "texto": "Video subido y programado para el 4 de diciembre a las 6:00 p. m. Se creó la miniatura D «¿Quién era?» con la foto del pasaporte de 1986; reemplaza a la B en la prueba A/B, que exige la verificación de funciones avanzadas de YouTube."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
