@@ -17,10 +17,10 @@
       "nota": "Top 7 de 11 a 12 minutos con asesinos de Colombia, validado con vidIQ."
     },
     "2": {
-      "estado": "pendiente",
+      "estado": "en_curso",
       "plan": "2026-11-27",
       "real": null,
-      "nota": ""
+      "nota": "Lista larga de 10 candidatos con el error que los delató y sus fuentes; 7 recomendados (Ruiz Cataño, Valencia, Ramírez Maestre, Camargo, López, Garavito y Escobar). Falta que el creador confirme los 7."
     },
     "3": {
       "estado": "pendiente",
@@ -35,10 +35,10 @@
       "nota": ""
     },
     "5": {
-      "estado": "pendiente",
+      "estado": "en_curso",
       "plan": "2026-11-30",
       "real": null,
-      "nota": ""
+      "nota": "Guion v1 de 1.534 palabras (11 a 12 minutos) en el documento del video, pendiente de aprobación."
     },
     "6": {
       "estado": "pendiente",
@@ -90,7 +90,9 @@
     }
   },
   "fuentes": [],
-  "enlaces": {},
+  "enlaces": {
+    "documento": "https://claude.ai/artifact/7c5qkCUtHJEVd8SKeThagt"
+  },
   "metricas": null,
   "bitacora": [
     {
@@ -100,6 +102,10 @@
     {
       "fecha": "2026-11-24",
       "texto": "El creador eligió el título «Los 7 asesinos más peligrosos de Colombia y el error que los delató». Siguiente paso: lista larga de casos candidatos con sus fuentes."
+    },
+    {
+      "fecha": "2026-11-24",
+      "texto": "Se armó la lista larga de 10 candidatos y se recomendaron 7. Guion v1 escrito en el documento del video (1.534 palabras, voz del piloto, niveles en voz alta y sin nombres de víctimas). Pendiente: que el creador confirme los casos y apruebe los hechos."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
