@@ -65,10 +65,10 @@
       "nota": ""
     },
     "10": {
-      "estado": "en_curso",
+      "estado": "hecho",
       "plan": "2026-12-02",
-      "real": null,
-      "nota": "Montaje v6 cortado a la voz en Filmora (pozzeto_v6_voz), 24:31: voz por párrafos con pausas fijas, 181 clips (57 con cola quieta y acercamiento lento), cortinilla después de B1_P08, rótulos en sus frases, música y efectos regenerados con la música más baja bajo la voz."
+      "real": "2026-11-24",
+      "nota": "Montaje v7 (pozzeto_v7_efectos), 24:31: blanco y negro solo en las recreaciones del bloque 4 (84 s), textura de película antigua en seis tramos de material de 1986, fundidos a negro entre bloques, parpadeos y negativos en frases clave, sonido de proyector en 28 evidencias y fotos antiguas, efectos de suspenso nuevos y la carta de 2019 entrando en «apareció un papel». Exportado en 1080p, H.264 y AAC de 320 kbps en 07_Exportados. Subtítulos: los automáticos de YouTube."
     },
     "11": {
       "estado": "pendiente",
@@ -240,6 +240,10 @@
     {
       "fecha": "2026-11-24",
       "texto": "Montaje v6 armado con la voz de IA. Al publicar hay que marcar en YouTube el contenido alterado o sintético (voz generada)."
+    },
+    {
+      "fecha": "2026-11-24",
+      "texto": "Montaje v7 terminado y exportado para YouTube. Se agregó el crédito del sonido de proyector («Slide Projector Clunk», BudgetPixel AI, CC BY 4.0)."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
