@@ -1,20 +1,20 @@
 {
   "id": "002-top7-colombia",
   "numero": 2,
-  "caso": "Top 7: casos más perturbadores de Colombia",
-  "titulo_trabajo": "Los 7 casos más perturbadores de Colombia… y la pista que los resolvió",
-  "titulo_nota": "Propuesta con vidIQ (87 de 100), empatada con «Los 7 asesinos más peligrosos de Colombia y el error que los delató» (87). La elige el creador.",
-  "angulo": "Siete casos reales de Colombia contados desde la investigación: el crimen en dos frases y la pista, el error o el documento que lo resolvió.",
+  "caso": "Top 7: asesinos más peligrosos de Colombia",
+  "titulo_trabajo": "Los 7 asesinos más peligrosos de Colombia y el error que los delató",
+  "titulo_nota": "Elegido por el creador entre cinco opciones (87 de 100 en vidIQ).",
+  "angulo": "Siete asesinos de Colombia contados desde la investigación: quiénes eran, en dos frases y sin detalle gráfico, y el error, la pista o el documento que los delató.",
   "duracion_objetivo_min": 12,
   "formato": "Top 7 en cuenta regresiva: voz con montaje de documentos, prensa y material de apoyo; cerca de 1 min 25 s por caso",
   "demanda": "«casos perturbadores»: 26.526 búsquedas mensuales; «asesinos seriales»: 13.519 (+34 %). En Colombia, «Los 3 casos más perturbadores de Colombia» suma 105,9 mil vistas en un canal de 4,7 mil suscriptores (vidIQ, 24 nov 2026)",
   "fecha_publicacion_plan": "2026-12-11",
   "pasos": {
     "1": {
-      "estado": "en_curso",
+      "estado": "hecho",
       "plan": "2026-11-25",
-      "real": null,
-      "nota": "Formato Top 7 de 11 a 12 minutos con casos de Colombia, validado con vidIQ. Falta que el creador elija el título."
+      "real": "2026-11-24",
+      "nota": "Top 7 de 11 a 12 minutos con asesinos de Colombia, validado con vidIQ."
     },
     "2": {
       "estado": "pendiente",
@@ -44,7 +44,7 @@
       "estado": "pendiente",
       "plan": "2026-12-01",
       "real": null,
-      "nota": "Título primero: cinco opciones puntuadas en vidIQ; la propuesta tiene 87 de 100."
+      "nota": "Título elegido por el creador: «Los 7 asesinos más peligrosos de Colombia y el error que los delató» (87 de 100). Las miniaturas se hacen después del guion."
     },
     "7": {
       "estado": "pendiente",
@@ -96,6 +96,10 @@
     {
       "fecha": "2026-11-24",
       "texto": "Se abrió el video 2: un Top 7 de casos de Colombia de 11 a 12 minutos. Se buscaron títulos con vidIQ y se creó la carpeta 02_Top7_Colombia en el computador. Fecha de publicación tentativa: viernes 11 de diciembre."
+    },
+    {
+      "fecha": "2026-11-24",
+      "texto": "El creador eligió el título «Los 7 asesinos más peligrosos de Colombia y el error que los delató». Siguiente paso: lista larga de casos candidatos con sus fuentes."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
