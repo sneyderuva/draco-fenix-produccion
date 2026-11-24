@@ -1,0 +1,102 @@
+{
+  "id": "002-top7-colombia",
+  "numero": 2,
+  "caso": "Top 7: casos más perturbadores de Colombia",
+  "titulo_trabajo": "Los 7 casos más perturbadores de Colombia… y la pista que los resolvió",
+  "titulo_nota": "Propuesta con vidIQ (87 de 100), empatada con «Los 7 asesinos más peligrosos de Colombia y el error que los delató» (87). La elige el creador.",
+  "angulo": "Siete casos reales de Colombia contados desde la investigación: el crimen en dos frases y la pista, el error o el documento que lo resolvió.",
+  "duracion_objetivo_min": 12,
+  "formato": "Top 7 en cuenta regresiva: voz con montaje de documentos, prensa y material de apoyo; cerca de 1 min 25 s por caso",
+  "demanda": "«casos perturbadores»: 26.526 búsquedas mensuales; «asesinos seriales»: 13.519 (+34 %). En Colombia, «Los 3 casos más perturbadores de Colombia» suma 105,9 mil vistas en un canal de 4,7 mil suscriptores (vidIQ, 24 nov 2026)",
+  "fecha_publicacion_plan": "2026-12-11",
+  "pasos": {
+    "1": {
+      "estado": "en_curso",
+      "plan": "2026-11-25",
+      "real": null,
+      "nota": "Formato Top 7 de 11 a 12 minutos con casos de Colombia, validado con vidIQ. Falta que el creador elija el título."
+    },
+    "2": {
+      "estado": "pendiente",
+      "plan": "2026-11-27",
+      "real": null,
+      "nota": ""
+    },
+    "3": {
+      "estado": "pendiente",
+      "plan": "2026-11-28",
+      "real": null,
+      "nota": ""
+    },
+    "4": {
+      "estado": "pendiente",
+      "plan": "2026-11-29",
+      "real": null,
+      "nota": ""
+    },
+    "5": {
+      "estado": "pendiente",
+      "plan": "2026-11-30",
+      "real": null,
+      "nota": ""
+    },
+    "6": {
+      "estado": "pendiente",
+      "plan": "2026-12-01",
+      "real": null,
+      "nota": "Título primero: cinco opciones puntuadas en vidIQ; la propuesta tiene 87 de 100."
+    },
+    "7": {
+      "estado": "pendiente",
+      "plan": "2026-12-03",
+      "real": null,
+      "nota": ""
+    },
+    "8": {
+      "estado": "pendiente",
+      "plan": "2026-12-04",
+      "real": null,
+      "nota": ""
+    },
+    "9": {
+      "estado": "pendiente",
+      "plan": "2026-12-05",
+      "real": null,
+      "nota": ""
+    },
+    "10": {
+      "estado": "pendiente",
+      "plan": "2026-12-08",
+      "real": null,
+      "nota": ""
+    },
+    "11": {
+      "estado": "pendiente",
+      "plan": "2026-12-11",
+      "real": null,
+      "nota": ""
+    },
+    "12": {
+      "estado": "pendiente",
+      "plan": "2026-12-12",
+      "real": null,
+      "nota": ""
+    },
+    "13": {
+      "estado": "pendiente",
+      "plan": "2026-12-18",
+      "real": null,
+      "nota": ""
+    }
+  },
+  "fuentes": [],
+  "enlaces": {},
+  "metricas": null,
+  "bitacora": [
+    {
+      "fecha": "2026-11-24",
+      "texto": "Se abrió el video 2: un Top 7 de casos de Colombia de 11 a 12 minutos. Se buscaron títulos con vidIQ y se creó la carpeta 02_Top7_Colombia en el computador. Fecha de publicación tentativa: viernes 11 de diciembre."
+    }
+  ],
+  "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
+}
