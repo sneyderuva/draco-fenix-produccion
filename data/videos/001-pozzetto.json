@@ -53,10 +53,10 @@
       "nota": "Insumos listos, con la cortinilla en versión 2: de la escena del crimen al tablero (cinta policial, balas, cuchillos, pastillas, destellos de cámara y sirenas), con la canción «Southern Gothic» de Kevin MacLeod (CC BY 4.0, crédito obligatorio). Solo falta la voz (29 nov)."
     },
     "8": {
-      "estado": "pendiente",
+      "estado": "hecho",
       "plan": "2026-11-29",
-      "real": null,
-      "nota": "Fecha límite: domingo 29. Requiere la interfaz de audio para el micrófono SM58."
+      "real": "2026-11-24",
+      "nota": "Voz generada con ElevenLabs (voz David, Eleven v4) desde el guion v8: 89 audios en 03_Voz, unos 24 minutos. Seis párrafos del Doc quedaron sin audio (B3_P10, B4_P02, B4_P19, B4_P30, B5_P05 y B6_P07)."
     },
     "9": {
       "estado": "pendiente",
@@ -68,7 +68,7 @@
       "estado": "en_curso",
       "plan": "2026-12-02",
       "real": null,
-      "nota": "Montaje guía en Filmora (proyecto pozzeto_v5_recreaciones), 22:38 de duración. Cortinilla recortada a 11,5 s, efectos y sonidos gratuitos de Filmora en todo el video y cuatro recreaciones con rótulo «RECREACIÓN» (calle, escalera, pasillo y sala) en lugar de la pantalla en negro y de parte de las fichas. Las evidencias no se tocaron. Faltan dos recreaciones, ajustar cortes a la voz y subtítulos."
+      "nota": "Montaje v6 cortado a la voz en Filmora (pozzeto_v6_voz), 24:31: voz por párrafos con pausas fijas, 181 clips (57 con cola quieta y acercamiento lento), cortinilla después de B1_P08, rótulos en sus frases, música y efectos regenerados con la música más baja bajo la voz."
     },
     "11": {
       "estado": "pendiente",
@@ -236,6 +236,10 @@
     {
       "fecha": "2026-11-22",
       "texto": "Montaje v5: cortinilla recortada, efectos de suspenso de Filmora (solo gratuitos), cuatro recreaciones sin personas con rótulo «RECREACIÓN» y corrección del plano de la carrera Séptima que se veía aplastado. Al publicar se debe marcar en YouTube el aviso de contenido alterado o sintético."
+    },
+    {
+      "fecha": "2026-11-24",
+      "texto": "Montaje v6 armado con la voz de IA. Al publicar hay que marcar en YouTube el contenido alterado o sintético (voz generada)."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
