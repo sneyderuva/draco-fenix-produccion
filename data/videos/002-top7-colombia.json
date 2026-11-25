@@ -38,7 +38,7 @@
       "estado": "espera",
       "plan": "2026-11-30",
       "real": null,
-      "nota": "Guion v2 de 15 min 21 s (2.344 palabras, ritmo del piloto) en la pestaña «Guion v2 · 15 min» del documento. Gancho reescrito el 25 de noviembre: tesis al espectador, casos reales, justicia que no llegó a tiempo y aviso del número uno. Espera la aprobación del creador."
+      "nota": "Guion v2 de 15 min 01 s (2.292 palabras, ritmo del piloto) en la pestaña «Guion v2 · 15 min» del documento. Gancho de 1 min 02 s con el principio de Locard («todo contacto deja un rastro»), sin enumerar los casos. Espera la aprobación del creador."
     },
     "6": {
       "estado": "pendiente",
@@ -114,6 +114,10 @@
     {
       "fecha": "2026-11-25",
       "texto": "Gancho del Top 7 reescrito tomando como referencia el arranque de «7 videos REALES del Universo que superan cualquier ficción» (DrossRotzank): abre con una tesis dirigida al espectador y deja abierta la historia del asesino que nunca volvió a la cárcel. El guion queda en 15 min 21 s."
+    },
+    {
+      "fecha": "2026-11-25",
+      "texto": "El creador encontró incómodo el gancho que enumeraba los casos. Se reescribió como una introducción con idea propia, a partir del arranque de «Las siete personas más odiadas del mundo» (DrossRotzank): el principio de Locard, el giro de que el rastro no sirve si nadie lo mira y el anuncio del top. El guion queda en 15 min 01 s."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
