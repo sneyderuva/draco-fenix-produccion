@@ -4,9 +4,9 @@
   "caso": "Top 7: asesinos más peligrosos de Colombia",
   "titulo_trabajo": "Los 7 asesinos más peligrosos de Colombia y el error que los delató",
   "titulo_nota": "Elegido por el creador entre cinco opciones (87 de 100 en vidIQ).",
-  "angulo": "Siete asesinos de Colombia contados desde la investigación: quiénes eran, en dos frases y sin detalle gráfico, y el error, la pista o el documento que los delató.",
-  "duracion_objetivo_min": 12,
-  "formato": "Top 7 en cuenta regresiva: voz con montaje de documentos, prensa y material de apoyo; cerca de 1 min 25 s por caso",
+  "angulo": "Siete asesinos de Colombia contados desde la investigación, del menos peor al peor según el número de víctimas: quiénes eran, detalles macabros verificados sin violencia gráfica y el error, la pista o el documento que los delató.",
+  "duracion_objetivo_min": 15,
+  "formato": "Top 7 en cuenta regresiva, del 7 al 1: voz con montaje de documentos, prensa y material de apoyo; gancho de 1 minuto, casos de 1 min 20 s a 2 min 10 s y cierre de 1 minuto",
   "demanda": "«casos perturbadores»: 26.526 búsquedas mensuales; «asesinos seriales»: 13.519 (+34 %). En Colombia, «Los 3 casos más perturbadores de Colombia» suma 105,9 mil vistas en un canal de 4,7 mil suscriptores (vidIQ, 24 nov 2026)",
   "fecha_publicacion_plan": "2026-12-11",
   "pasos": {
@@ -20,7 +20,7 @@
       "estado": "en_curso",
       "plan": "2026-11-27",
       "real": null,
-      "nota": "Lista larga de 10 candidatos con el error que los delató y sus fuentes; 7 recomendados (Ruiz Cataño, Valencia, Ramírez Maestre, Camargo, López, Garavito y Escobar). Falta que el creador confirme los 7."
+      "nota": "Top 7 ordenado de menos peor a peor por número de víctimas: 7 Ruiz Cataño, 6 Valencia, 5 Ramírez Maestre, 4 Camargo, 3 López, 2 Garavito y 1 Escobar. Falta que el creador lo confirme."
     },
     "3": {
       "estado": "pendiente",
@@ -29,16 +29,16 @@
       "nota": ""
     },
     "4": {
-      "estado": "pendiente",
+      "estado": "en_curso",
       "plan": "2026-11-29",
       "real": null,
-      "nota": ""
+      "nota": "Cifras y detalles del guion v2 cruzados con las fuentes de la tabla del documento; Garavito corregido a 172 víctimas (Fiscalía). Falta abrir cada fuente antes de grabar."
     },
     "5": {
-      "estado": "en_curso",
+      "estado": "espera",
       "plan": "2026-11-30",
       "real": null,
-      "nota": "Guion v1 de 1.534 palabras (11 a 12 minutos) en el documento del video, pendiente de aprobación."
+      "nota": "Guion v2 de 15 min 03 s (2.298 palabras, ritmo del piloto) en la pestaña «Guion v2 · 15 min» del documento: gancho nuevo y detalles macabros verificados, sin violencia gráfica. Espera la aprobación del creador."
     },
     "6": {
       "estado": "pendiente",
@@ -106,6 +106,10 @@
     {
       "fecha": "2026-11-24",
       "texto": "Se armó la lista larga de 10 candidatos y se recomendaron 7. Guion v1 escrito en el documento del video (1.534 palabras, voz del piloto, niveles en voz alta y sin nombres de víctimas). Pendiente: que el creador confirme los casos y apruebe los hechos."
+    },
+    {
+      "fecha": "2026-11-24",
+      "texto": "El creador pidió el top de menos peor a peor, un video de 15 minutos y más detalles macabros. Se ordenaron los 7 por número de víctimas (del 7, Esneda Ruiz Cataño, al 1, Pablo Escobar) y se escribió el guion v2 de 15 min 03 s con gancho nuevo, sin violencia gráfica. Garavito quedó en 172 víctimas según la Fiscalía y Escobar con la estimación de 3.000 a 5.500. El creador fijó como meta a corto plazo la monetización del canal."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."

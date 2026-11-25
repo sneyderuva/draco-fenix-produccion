@@ -3,7 +3,48 @@
   "identificador": "@Draco-fenix",
   "url": "https://www.youtube.com/@Draco-fenix",
   "lema": "No cuento el crimen. Cuento la investigación.",
-  "metricas": { "suscriptores": 0, "horas_reproduccion": 0, "videos_publicados": 0, "actualizado": "2026-11-21" },
-  "meta_monetizacion": { "suscriptores": 1000, "horas_reproduccion": 4000 },
+  "metricas": {
+    "suscriptores": 0,
+    "horas_reproduccion": 0,
+    "videos_publicados": 0,
+    "videos_90_dias": 0,
+    "vistas_shorts_90_dias": 1,
+    "actualizado": "2026-11-19",
+    "fuente": "YouTube Studio, requisitos del Programa de Socios"
+  },
+  "meta_corto_plazo": {
+    "titulo": "Monetizar el canal lo antes posible",
+    "registrada": "2026-11-24",
+    "enfoque": "Videos más viscerales que no pierdan los anuncios: tensión y detalles macabros verificados, sin violencia gráfica ni descripción de crímenes contra menores.",
+    "niveles": [
+      {
+        "nombre": "Nivel 1 · Ingresos de fans",
+        "habilita": "Membresías, Súpers y Shopping; todavía sin anuncios.",
+        "requisitos": { "suscriptores": 500, "videos_90_dias": 3, "horas_reproduccion": 3000 },
+        "alternativa": "En lugar de las horas: 3 millones de vistas de Shorts en 90 días."
+      },
+      {
+        "nombre": "Nivel 2 · Anuncios",
+        "habilita": "Ingresos por anuncios y YouTube Premium.",
+        "requisitos": { "suscriptores": 1000, "horas_reproduccion": 4000 },
+        "alternativa": "En lugar de las horas: 10 millones de vistas de Shorts en 90 días.",
+        "vence": "2027-01-31",
+        "aviso": "Desde el 1 de febrero de 2027, los canales nuevos necesitarán 8.000 horas o 20 millones de vistas de Shorts para entrar a los anuncios."
+      }
+    ],
+    "acciones": [
+      "Publicar un video largo cada semana desde el 4 de diciembre.",
+      "Sacar 2 o 3 Shorts de cada video largo, enlazados al video completo: suman suscriptores, aunque sus vistas no cuentan como horas.",
+      "Escribir con el criterio de tono de CLAUDE.md: visceral, verificado y sin violencia gráfica.",
+      "Actualizar cada lunes suscriptores, horas y videos con los datos de YouTube Studio."
+    ],
+    "hitos": [
+      { "fecha": "2026-11-24", "texto": "Meta de monetización registrada" },
+      { "fecha": "2026-12-04", "texto": "Video 1 publicado: caso Pozzetto" },
+      { "fecha": "2026-12-11", "texto": "Video 2 publicado: Top 7" },
+      { "fecha": "2026-12-18", "texto": "Video 3 publicado (propuesto): tres videos en 90 días" },
+      { "fecha": "2027-01-31", "texto": "Último día para entrar a anuncios con 4.000 horas" }
+    ]
+  },
   "meta_ingresos_usd": 10000
 }

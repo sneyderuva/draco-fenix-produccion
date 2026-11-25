@@ -56,3 +56,8 @@ dt { color: var(--suave); } dd { margin: 0; }
 .login button { width: 100%; padding: 12px; border: 0; border-radius: 8px; background: var(--ambar); color: #1c1503; font: inherit; font-weight: 700; cursor: pointer; }
 .error { color: #ef8b8b; }
 @media (max-width: 600px) { main { padding: 16px; } nav { margin-left: 0; } }
+.aviso.meta { border-color: var(--ambar); background: #2a2415; }
+.evento.meta { border-color: var(--texto); background: #26232c; }
+.acciones { margin: 0; padding-left: 20px; }
+.acciones li { margin: 6px 0; }
+tr.pasado td { color: var(--suave); }

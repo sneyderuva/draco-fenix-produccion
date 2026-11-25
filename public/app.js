@@ -38,8 +38,22 @@ function tablero() {
       ${listaPasos(v)}
     </section>`;
   }).join('') || '<p class="sub">Aún no hay videos en producción.</p>';
-  return `<h1>Tablero</h1><p class="sub">Estado de cada video en producción.</p>${aviso}${tarjetas}`;
+  const meta = datos.canal.meta_corto_plazo;
+  const metaHtml = meta
+    ? `<div class="aviso meta"><b>Meta a corto plazo: ${esc(meta.titulo)}</b><br>${esc(meta.niveles[0].nombre)}: ${resumenNivel(meta.niveles[0])}. <a href="#canal">Ver avance</a></div>`
+    : '';
+  return `<h1>Tablero</h1><p class="sub">Estado de cada video en producción.</p>${metaHtml}${aviso}${tarjetas}`;
 }
+
+// Monetización: textos y cifras de la meta a corto plazo (data/canal.json).
+const num = (n) => Number(n || 0).toLocaleString('es-CO');
+const REQUISITOS = {
+  suscriptores: ['Suscriptores', 'suscriptores'],
+  videos_90_dias: ['Videos públicos en los últimos 90 días', 'videos'],
+  horas_reproduccion: ['Horas de reproducción en los últimos 12 meses', 'horas'],
+};
+const resumenNivel = (n) => Object.entries(n.requisitos)
+  .map(([k, meta]) => `${num(datos.canal.metricas[k])} de ${num(meta)} ${REQUISITOS[k] ? REQUISITOS[k][1] : k}`).join(', ');
 
 function cronograma() {
   const hoy = new Date();
@@ -53,7 +67,9 @@ function cronograma() {
       .map((p) => `<div class="evento ${esc(pasoDe(v, p.id).estado)}">${p.id}. ${esc(p.nombre)}<small>${esc(v.caso)} · ${esc(p.responsable)}</small></div>`));
     const pub = datos.videos.filter((v) => v.fecha_publicacion_plan === iso)
       .map((v) => `<div class="evento en_curso">Publicación<small>${esc(v.caso)}</small></div>`);
-    return `<div class="dia ${iso === isoLocal(hoy) ? 'hoy' : ''}"><h4>${d.toLocaleDateString('es-CO', { weekday: 'short', day: 'numeric', month: 'short' })}</h4>${ev.concat(pub).join('') || ''}</div>`;
+    const hitos = ((datos.canal.meta_corto_plazo || {}).hitos || []).filter((h) => h.fecha === iso)
+      .map((h) => `<div class="evento meta">${esc(h.texto)}<small>Meta de monetización</small></div>`);
+    return `<div class="dia ${iso === isoLocal(hoy) ? 'hoy' : ''}"><h4>${d.toLocaleDateString('es-CO', { weekday: 'short', day: 'numeric', month: 'short' })}</h4>${ev.concat(pub, hitos).join('') || ''}</div>`;
   }).join('');
   return `<h1>Cronograma</h1>
     <div class="fila" style="margin-bottom:16px"><p class="sub" style="margin:0">Semana del ${fmtFecha(isoLocal(dias[0]))} al ${fmtFecha(isoLocal(dias[6]))}</p>
@@ -93,21 +109,30 @@ function videos() {
 }
 
 function canal() {
-  const c = datos.canal, m = c.metricas, meta = c.meta_monetizacion;
-  const pct = (a, b) => Math.min(100, Math.round((a / b) * 100));
-  return `<h1>${esc(c.nombre)}</h1><p class="sub"><a href="${esc(c.url)}" target="_blank" rel="noopener noreferrer">${esc(c.identificador)}</a> · datos al ${fmtFecha(m.actualizado, { day: 'numeric', month: 'long', year: 'numeric' })}</p>
+  const c = datos.canal, m = c.metricas, meta = c.meta_corto_plazo;
+  const largo = { day: 'numeric', month: 'long', year: 'numeric' };
+  const pct = (a, b) => Math.min(100, Math.round(((Number(a) || 0) / b) * 100));
+  const barras = (req) => Object.entries(req).map(([k, obj], i) => `
+      <div class="fila"${i ? ' style="margin-top:14px"' : ''}><span>${esc(REQUISITOS[k] ? REQUISITOS[k][0] : k)}</span><span class="lema">${num(m[k])} de ${num(obj)}</span></div>
+      <div class="barra" role="progressbar" aria-valuemin="0" aria-valuemax="${esc(obj)}" aria-valuenow="${esc(m[k] || 0)}"><i style="width:${pct(m[k], obj)}%"></i></div>`).join('');
+  const hoy = isoLocal(new Date());
+  const bloqueMeta = meta ? `<h2>Meta a corto plazo: ${esc(meta.titulo)}</h2>
+    <p class="sub">${esc(meta.enfoque)} Registrada el ${fmtFecha(meta.registrada, largo)}.</p>
+    ${meta.niveles.map((n) => `<section class="tarjeta">
+      <div class="fila"><h3>${esc(n.nombre)}</h3>${n.vence ? `<span class="etiqueta">Con las reglas actuales, hasta el ${fmtFecha(n.vence, largo)}</span>` : ''}</div>
+      <div class="lema">${esc(n.habilita)}</div>${barras(n.requisitos)}
+      <div class="lema" style="margin-top:12px">${esc(n.alternativa)}</div>
+      ${n.aviso ? `<div class="aviso" style="margin:12px 0 0">${esc(n.aviso)}</div>` : ''}
+    </section>`).join('')}
+    <h2>Plan</h2><section class="tarjeta"><ol class="acciones">${(meta.acciones || []).map((a) => `<li>${esc(a)}</li>`).join('')}</ol></section>
+    <h2>Hitos</h2><section class="tarjeta"><table><tbody>${(meta.hitos || []).map((h) => `<tr class="${h.fecha < hoy ? 'pasado' : ''}"><td style="white-space:nowrap">${fmtFecha(h.fecha, largo)}</td><td>${esc(h.texto)}</td></tr>`).join('')}</tbody></table></section>` : '';
+  return `<h1>${esc(c.nombre)}</h1><p class="sub"><a href="${esc(c.url)}" target="_blank" rel="noopener noreferrer">${esc(c.identificador)}</a> · datos al ${fmtFecha(m.actualizado, largo)}</p>
     <section class="tarjeta cifras">
-      <div class="cifra"><b>${esc(m.suscriptores)}</b><span>Suscriptores</span></div>
-      <div class="cifra"><b>${esc(m.horas_reproduccion)}</b><span>Horas de reproducción</span></div>
-      <div class="cifra"><b>${esc(m.videos_publicados)}</b><span>Videos publicados</span></div>
+      <div class="cifra"><b>${num(m.suscriptores)}</b><span>Suscriptores</span></div>
+      <div class="cifra"><b>${num(m.horas_reproduccion)}</b><span>Horas de reproducción</span></div>
+      <div class="cifra"><b>${num(m.videos_publicados)}</b><span>Videos publicados</span></div>
       <div class="cifra"><b>${datos.videos.length}</b><span>Videos en producción</span></div>
-    </section>
-    <h2>Avance hacia la monetización</h2><section class="tarjeta">
-      <div class="fila"><span>Suscriptores</span><span class="lema">${esc(m.suscriptores)} de ${esc(meta.suscriptores)}</span></div>
-      <div class="barra"><i style="width:${pct(m.suscriptores, meta.suscriptores)}%"></i></div>
-      <div class="fila" style="margin-top:14px"><span>Horas de reproducción</span><span class="lema">${esc(m.horas_reproduccion)} de ${esc(meta.horas_reproduccion)}</span></div>
-      <div class="barra"><i style="width:${pct(m.horas_reproduccion, meta.horas_reproduccion)}%"></i></div>
-    </section>`;
+    </section>${bloqueMeta}`;
 }
 
 const VISTAS = { tablero, cronograma, videos, canal };
