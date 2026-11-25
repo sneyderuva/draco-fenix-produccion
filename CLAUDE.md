@@ -30,3 +30,11 @@ Meta a corto plazo del creador (24 de noviembre de 2026): monetizar pronto, con 
 - Otros temas sensibles (abuso sexual, violencia doméstica, suicidio) se pueden nombrar sin detalle gráfico: desde enero de 2026 reciben anuncios completos.
 - Título, miniatura y primeros segundos: tensión sí, imagen o palabra gráfica no.
 - El asesino nunca es el héroe: la protagonista es la investigación.
+
+## Instagram (@dracofenix_)
+
+Perfil de creador («Creador(a) digital») configurado el 25 de noviembre de 2026: nombre «Draco Fénix», la misma foto del canal de YouTube y la presentación «Crimen real contado desde la investigación. Videos completos en YouTube ↓». El enlace a YouTube solo se agrega desde la app del celular.
+
+- Reels propios, con el mismo criterio de tono: casos en 60 segundos (otros casos, con el error que los delató), datos macabros (un detalle verificado, con su fuente en pantalla), expedientes abiertos (casos sin resolver y desaparecidos) y tragedias o catástrofes con su investigación.
+- Ganchos: cada video de YouTube tiene uno o más reels que terminan invitando al video completo.
+- Ningún reel se publica sin que el creador lo apruebe.
