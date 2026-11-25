@@ -38,7 +38,7 @@
       "estado": "espera",
       "plan": "2026-11-30",
       "real": null,
-      "nota": "Guion v2 de 15 min 03 s (2.298 palabras, ritmo del piloto) en la pestaña «Guion v2 · 15 min» del documento: gancho nuevo y detalles macabros verificados, sin violencia gráfica. Espera la aprobación del creador."
+      "nota": "Guion v2 de 15 min 21 s (2.344 palabras, ritmo del piloto) en la pestaña «Guion v2 · 15 min» del documento. Gancho reescrito el 25 de noviembre: tesis al espectador, casos reales, justicia que no llegó a tiempo y aviso del número uno. Espera la aprobación del creador."
     },
     "6": {
       "estado": "pendiente",
@@ -110,6 +110,10 @@
     {
       "fecha": "2026-11-24",
       "texto": "El creador pidió el top de menos peor a peor, un video de 15 minutos y más detalles macabros. Se ordenaron los 7 por número de víctimas (del 7, Esneda Ruiz Cataño, al 1, Pablo Escobar) y se escribió el guion v2 de 15 min 03 s con gancho nuevo, sin violencia gráfica. Garavito quedó en 172 víctimas según la Fiscalía y Escobar con la estimación de 3.000 a 5.500. El creador fijó como meta a corto plazo la monetización del canal."
+    },
+    {
+      "fecha": "2026-11-25",
+      "texto": "Gancho del Top 7 reescrito tomando como referencia el arranque de «7 videos REALES del Universo que superan cualquier ficción» (DrossRotzank): abre con una tesis dirigida al espectador y deja abierta la historia del asesino que nunca volvió a la cárcel. El guion queda en 15 min 21 s."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
