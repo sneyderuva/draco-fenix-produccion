@@ -35,6 +35,8 @@ Meta a corto plazo del creador (24 de noviembre de 2026): monetizar pronto, con 
 
 Perfil de creador («Creador(a) digital») configurado el 25 de noviembre de 2026: nombre «Draco Fénix», la misma foto del canal de YouTube y la presentación «Crimen real contado desde la investigación. Videos completos en YouTube ↓». El enlace a YouTube solo se agrega desde la app del celular.
 
+Conectado a vidIQ el 25 de noviembre de 2026 (cuenta 29274461912211840): puede publicar reels y leer estadísticas.
+
 - Reels propios, con el mismo criterio de tono: casos en 60 segundos (otros casos, con el error que los delató), datos macabros (un detalle verificado, con su fuente en pantalla), expedientes abiertos (casos sin resolver y desaparecidos) y tragedias o catástrofes con su investigación.
 - Ganchos: cada video de YouTube tiene uno o más reels que terminan invitando al video completo.
 - Ningún reel se publica sin que el creador lo apruebe.
