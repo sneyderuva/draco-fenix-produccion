@@ -29,10 +29,10 @@
       "nota": "Material real: 25 fotos de lugares con licencia libre (R01 a R25) en 05_Evidencias, con 00_fuentes_y_licencias.csv; 19 notas de prensa verificadas por caso (P01 a P19) en la pestaña «Material real» del doc; cartela G01 de 46.612 muertes en Medellín. Faltan las capturas de titulares y las fotos de personas, que toma el creador."
     },
     "4": {
-      "estado": "en_curso",
+      "estado": "espera",
       "plan": "2026-11-27",
       "real": null,
-      "nota": "Cifras y detalles del guion v2 cruzados con las fuentes de la tabla del documento; Garavito corregido a 172 víctimas (Fiscalía). Falta abrir cada fuente antes de grabar."
+      "nota": "Verificación terminada el 26 de noviembre (tabla en la pestaña «Material real» del documento): todo se sostiene salvo dos datos de López. Las 110 víctimas son de la condena en Ecuador, no de tres países, y no fueron «unos sesenta cuerpos» sino 53 tumbas. Falta que el creador regrabe esos dos párrafos; el texto corregido está en el documento."
     },
     "5": {
       "estado": "hecho",
@@ -59,16 +59,16 @@
       "nota": "Voz completa en ElevenLabs v4: 50 clips ordenados por sección y párrafo en 03_Voz, con registro en 00_registro_audios.csv (16,8 minutos sin tomas repetidas)."
     },
     "9": {
-      "estado": "pendiente",
+      "estado": "hecho",
       "plan": "2026-11-27",
-      "real": null,
-      "nota": ""
+      "real": "2026-11-26",
+      "nota": "Voz limpia y nivelada (filtro de graves, control de eses, silencios recortados y cada clip a -17 LUFS); música tétrica distinta por asesino (9 temas de Kevin MacLeod, CC BY 4.0) que baja sola bajo la voz; golpes de transición y la cortinilla del canal. Mezcla final a -14 LUFS. Pistas separadas (voz, música, efectos) en 06_Edicion_Filmora/sonido/mezcla."
     },
     "10": {
-      "estado": "pendiente",
+      "estado": "en_curso",
       "plan": "2026-11-29",
       "real": null,
-      "nota": ""
+      "nota": "Montaje v1 listo en 07_Exportados/top7_montaje_v1.mp4: 17:48, 1080p a 30 fps, H.264 y AAC de 320 kbps. 234 planos cortados a la palabra de la voz (lista con tiempos en 06_Edicion_Filmora/00_planos_montaje.csv); fotos reales con rótulo de lugar y crédito, recreaciones con rótulo RECREACIÓN, sellos y rótulos del piloto, tarjetas de cifras y fundido a negro entre casos. Capítulos y créditos para la descripción en 07_Exportados. Falta la revisión del creador y cambiar dos párrafos de López cuando se regraben. Subtítulos: los automáticos de YouTube."
     },
     "11": {
       "estado": "pendiente",
@@ -150,6 +150,10 @@
     {
       "fecha": "2026-11-25",
       "texto": "Material real del video 2: 25 lugares con licencia, 19 notas de prensa y la cartela de Medellín."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "Montaje v1 terminado (17:48) y copiado a 07_Exportados. Se reemplazaron tomas casi negras del material de archivo, se aclararon las de noche y se cerró la verificación de hechos: hay que regrabar dos párrafos de López."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
