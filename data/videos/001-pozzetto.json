@@ -59,10 +59,10 @@
       "nota": "Voz generada con ElevenLabs (voz David, Eleven v4) desde el guion v8: 89 audios en 03_Voz, unos 24 minutos. Seis párrafos del Doc quedaron sin audio (B3_P10, B4_P02, B4_P19, B4_P30, B5_P05 y B6_P07)."
     },
     "9": {
-      "estado": "pendiente",
+      "estado": "hecho",
       "plan": "2026-11-30",
-      "real": null,
-      "nota": ""
+      "real": "2026-11-25",
+      "nota": "Cerrado por el creador el 25 de noviembre: el audio del video exportado quedó listo."
     },
     "10": {
       "estado": "hecho",
