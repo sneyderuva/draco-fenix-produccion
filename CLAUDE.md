@@ -31,6 +31,12 @@ Meta a corto plazo del creador (24 de noviembre de 2026): monetizar pronto, con 
 - Título, miniatura y primeros segundos: tensión sí, imagen o palabra gráfica no.
 - El asesino nunca es el héroe: la protagonista es la investigación.
 
+## Voz (ElevenLabs)
+
+- Modelo Eleven v4 y voz «David - Deep, Attractive, Mysterious», con los mismos ajustes del piloto.
+- El guion de voz va sin códigos: cada sección se copia completa y sale en un solo audio. Las etiquetas de emoción van en inglés y entre corchetes.
+- La base es [serious] y [thoughtful]. [hushed] se usa muy pocas veces, solo en un momento puntual, y [whispers] no se usa.
+
 ## Instagram (@dracofenix_)
 
 Perfil de creador («Creador(a) digital») configurado el 25 de noviembre de 2026: nombre «Draco Fénix», la misma foto del canal de YouTube y la presentación «Crimen real contado desde la investigación. Videos completos en YouTube ↓». El enlace a YouTube solo se agrega desde la app del celular.
