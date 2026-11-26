@@ -41,10 +41,10 @@
       "nota": "Guion v2 aprobado por el creador el 25 de noviembre para avanzar: 15 min 01 s, con el lema actual. Quedan dos ajustes propuestos en el documento por aceptar."
     },
     "6": {
-      "estado": "pendiente",
+      "estado": "en_curso",
       "plan": "2026-11-28",
       "real": null,
-      "nota": "Título elegido por el creador: «Los 7 asesinos más peligrosos de Colombia y el error que los delató» (87 de 100). Las miniaturas se hacen después del guion."
+      "nota": "Título elegido por el creador: «Los 7 asesinos más peligrosos de Colombia y el error que los delató» (87 de 100). Seis miniaturas en 08_Miniatura y en el lienzo de miniaturas: A «7 errores», B «Un maletín», C «Un solo error», D «La llamada» (falta la foto de Pablo Escobar con el teléfono, que pone el creador), E «El olor» y F «Lo soltaron». Para la prueba A/B de YouTube se eligen tres."
     },
     "7": {
       "estado": "en_curso",
@@ -91,7 +91,8 @@
   },
   "fuentes": [],
   "enlaces": {
-    "documento": "https://claude.ai/artifact/7c5qkCUtHJEVd8SKeThagt"
+    "documento": "https://claude.ai/artifact/7c5qkCUtHJEVd8SKeThagt",
+    "miniaturas": "https://claude.ai/artifact/G5LwwCuwxew95aNtjc9fR3"
   },
   "metricas": null,
   "bitacora": [
@@ -170,6 +171,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "Se entregó el proyecto de Filmora top7_v2.wfp: abre en Filmora 16 con la línea de tiempo completa (17:47) y la biblioteca del video 2; la guía de 06_Edicion_Filmora ahora explica cómo abrirlo."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "Se hicieron seis miniaturas para la prueba A/B, sin rostros reales; la D espera la foto de Escobar que pone el creador. El creador pidió más material real (caras, pruebas de Fiscalía y lugares) sin tocar el guion, y una pista de efectos de sonido más rica."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
