@@ -71,10 +71,10 @@
       "nota": "Montaje v5 en 07_Exportados/top7_montaje_v5.mp4 (20:13): fotos reales de los siete asesinos, cada una justo después de su nombre y con el medio que la publicó; 41 fotos de lugares; créditos completos (141 s), que ahora cierran con las siete fotos de prensa; tarjeta final de 20 s. Proyecto top7_v5.wfp con voz, música y tres pistas de efectos separadas, listo en 02_Top7_Colombia."
     },
     "11": {
-      "estado": "pendiente",
+      "estado": "en_curso",
       "plan": "2026-12-01",
       "real": null,
-      "nota": "Plan: martes 1 de diciembre de 2026, 6:00 p. m. (Bogotá), antes del piloto (viernes 4, 6:00 p. m.). Enlace a Pozzetto en la descripción, comentario fijado con su estreno y pantalla final hacia Pozzetto desde el 4."
+      "nota": "Subido el 26 de noviembre en 1440p (07_Exportados/top7_montaje_v5_1440p.mp4): https://youtu.be/KRsjtXdE3cY. Programado como público para el martes 1 de diciembre de 2026, 6:00 p. m. (Bogotá), sin estreno; prueba A/B de miniaturas G, H e I; descripción con capítulos y créditos (4.729 caracteres); 15 etiquetas; Noticias y política; español (Latinoamérica); no creado para niños; uso de IA declarado. Falta: pantalla final y comentario fijado hacia Pozzetto cuando salga el 4 de diciembre."
     },
     "12": {
       "estado": "pendiente",
@@ -92,7 +92,8 @@
   "fuentes": [],
   "enlaces": {
     "documento": "https://claude.ai/artifact/7c5qkCUtHJEVd8SKeThagt",
-    "miniaturas": "https://claude.ai/artifact/G5LwwCuwxew95aNtjc9fR3"
+    "miniaturas": "https://claude.ai/artifact/G5LwwCuwxew95aNtjc9fR3",
+    "youtube": "https://youtu.be/KRsjtXdE3cY"
   },
   "metricas": null,
   "bitacora": [
@@ -207,6 +208,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "Consulta del creador sobre mostrar material censurado (guías de anunciantes de YouTube): cuerpos totalmente difuminados en un video educativo pueden tener anuncios completos; heridas visibles o la descripción detallada de una muerte, anuncios limitados; escenas del crimen sin contexto o sangre abundante, sin anuncios; menores en angustia con gore, sin anuncios desde marzo de 2026. Falta que el creador decida si entra como regla del canal."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "Video 2 subido a YouTube en 1440p (https://youtu.be/KRsjtXdE3cY) y programado para el martes 1 de diciembre a las 6:00 p. m., con la prueba A/B de miniaturas G, H e I. Los capítulos van como «7. Esneda…» en vez de «#7» para que YouTube no los tome como hashtags."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
