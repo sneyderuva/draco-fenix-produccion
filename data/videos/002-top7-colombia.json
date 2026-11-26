@@ -53,10 +53,10 @@
       "nota": ""
     },
     "8": {
-      "estado": "pendiente",
+      "estado": "espera",
       "plan": "2026-12-04",
       "real": null,
-      "nota": ""
+      "nota": "Hoja lista en 03_Voz (00_textos_para_voz): 82 textos con su código, 12.836 caracteres. Voz David en ElevenLabs con los ajustes del piloto. Los audios descargados se dejan en 03_Voz y después se reconocen y renombran solos."
     },
     "9": {
       "estado": "pendiente",
@@ -126,6 +126,10 @@
     {
       "fecha": "2026-11-25",
       "texto": "El creador aprobó el guion v2 para avanzar con la preparación del video y dejó el lema actual."
+    },
+    {
+      "fecha": "2026-11-25",
+      "texto": "Se preparó la hoja para generar la voz del Top 7 en ElevenLabs, como en el piloto: 82 textos con código (B1 gancho, B2 a B8 los siete casos, B9 cierre). El creador decidió no aceptar las dos propuestas pendientes del guion."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
