@@ -65,10 +65,10 @@
       "nota": "Voz limpia y nivelada (filtro de graves, control de eses, silencios recortados y cada clip a -17 LUFS); música tétrica distinta por asesino (9 temas de Kevin MacLeod, CC BY 4.0) que baja sola bajo la voz; golpes de transición y la cortinilla del canal. Mezcla final a -14 LUFS. Pistas separadas (voz, música, efectos) en 06_Edicion_Filmora/sonido/mezcla."
     },
     "10": {
-      "estado": "en_curso",
+      "estado": "hecho",
       "plan": "2026-11-29",
-      "real": null,
-      "nota": "Montaje v2 listo en 07_Exportados/top7_montaje_v2.mp4: 17:47, 1080p a 30 fps, H.264 y AAC de 320 kbps, mezcla a -14 LUFS, con los párrafos de López regrabados y la tarjeta de 110 víctimas corregida («atribuidas por la justicia de Ecuador»). Para editar en Filmora: los 233 planos numerados en 06_Edicion_Filmora/planos_v2, las pistas separadas en 06_Edicion_Filmora/sonido/mezcla, la lista de planos con tiempos en 00_planos_montaje.csv y la guía 00_guia_Filmora.txt. Capítulos y créditos para la descripción en 07_Exportados; la v1 quedó en 07_Exportados/_anteriores. Falta la revisión del creador. Subtítulos: los automáticos de YouTube."
+      "real": "2026-11-26",
+      "nota": "Montaje v2 aprobado por el creador el 26 de noviembre: 07_Exportados/top7_montaje_v2.mp4, 17:47, 1080p a 30 fps, H.264 y AAC de 320 kbps, mezcla a -14 LUFS, con los párrafos de López regrabados y la tarjeta de 110 víctimas corregida. Para editar en Filmora: los 233 planos numerados en 06_Edicion_Filmora/planos_v2, las pistas separadas en 06_Edicion_Filmora/sonido/mezcla, la lista de planos en 00_planos_montaje.csv y la guía 00_guia_Filmora.txt. Capítulos y créditos para la descripción en 07_Exportados. Subtítulos: los automáticos de YouTube."
     },
     "11": {
       "estado": "pendiente",
@@ -162,6 +162,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "Se entregaron los 233 planos numerados del montaje v2 y la guía para editarlo en Filmora; quedó en Gmail el borrador del correo para pedir el permiso de la foto de la mochila (D63)."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "El creador aprobó el montaje v2. El correo para pedir el permiso de la foto de la mochila (D63) lo envía él desde el borrador de Gmail."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
