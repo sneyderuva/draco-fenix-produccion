@@ -47,16 +47,16 @@
       "nota": "Título elegido por el creador: «Los 7 asesinos más peligrosos de Colombia y el error que los delató» (87 de 100). Las miniaturas se hacen después del guion."
     },
     "7": {
-      "estado": "pendiente",
+      "estado": "en_curso",
       "plan": "2026-12-03",
       "real": null,
-      "nota": ""
+      "nota": "Inventario de material de apoyo en la pestaña «Material de apoyo» del doc: 104 tomas gratuitas por buscar (Pexels, Pixabay, Mixkit), sin evidencias."
     },
     "8": {
       "estado": "espera",
       "plan": "2026-12-04",
       "real": null,
-      "nota": "Hoja lista en 03_Voz (00_textos_para_voz): 82 textos con su código, 12.836 caracteres. Voz David en ElevenLabs con los ajustes del piloto. Los audios descargados se dejan en 03_Voz y después se reconocen y renombran solos."
+      "nota": "Guion con emociones para ElevenLabs v4 en la pestaña ELEVENLABS del doc: nueve secciones sin códigos, un audio por sección, a 03_Voz."
     },
     "9": {
       "estado": "pendiente",
@@ -130,6 +130,14 @@
     {
       "fecha": "2026-11-25",
       "texto": "Se preparó la hoja para generar la voz del Top 7 en ElevenLabs, como en el piloto: 82 textos con código (B1 gancho, B2 a B8 los siete casos, B9 cierre). El creador decidió no aceptar las dos propuestas pendientes del guion."
+    },
+    {
+      "fecha": "2026-11-25",
+      "texto": "Guion de voz pasado a Eleven v4: sin códigos y con etiquetas de emoción y pausas; mismas palabras del guion aprobado."
+    },
+    {
+      "fecha": "2026-11-25",
+      "texto": "Inventario de material de apoyo listo para buscar."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
