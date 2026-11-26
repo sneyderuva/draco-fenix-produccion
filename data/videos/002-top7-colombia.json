@@ -23,10 +23,10 @@
       "nota": "Top 7 confirmado por el creador: del 7 (Esneda Ruiz Cataño) al 1 (Pablo Escobar), ordenado por número de víctimas."
     },
     "3": {
-      "estado": "en_curso",
+      "estado": "hecho",
       "plan": "2026-11-27",
-      "real": null,
-      "nota": "Material real: 41 fotos de lugares con licencia libre (R01 a R41) en 05_Evidencias/fotos_de_lugares, con 00_fuentes_y_licencias.csv al día. 19 notas de prensa verificadas (P01 a P19). Fotos de personas en 05_Evidencias/caras_y_pruebas: Esneda (caras de las policías censuradas), Valencia, López, Garavito y Escobar, ya en el montaje v4. Faltan: fotos de Ramírez y Camargo, el caso de la foto 3 y la fuente exacta de cada foto (solo Valencia la tiene: El Colombiano, 2015). De la página de Semana de 1993 solo va el titular, sin los cadáveres."
+      "real": "2026-11-26",
+      "nota": "Material real completo: 41 fotos de lugares con licencia libre (R01 a R41, 00_fuentes_y_licencias.csv), 19 notas de prensa verificadas (P01 a P19) y las fotos de los siete asesinos en 05_Evidencias/caras_y_pruebas, cada una con el medio y el enlace de donde salió (00_fuentes.txt). Caras de terceros difuminadas en las fotos de Esneda y Ramírez. De la página de Semana de 1993 solo va el titular, sin los cadáveres."
     },
     "4": {
       "estado": "hecho",
@@ -41,10 +41,10 @@
       "nota": "Guion v2 aprobado por el creador el 25 de noviembre para avanzar: 15 min 01 s, con el lema actual. Quedan dos ajustes propuestos en el documento por aceptar."
     },
     "6": {
-      "estado": "en_curso",
+      "estado": "hecho",
       "plan": "2026-11-28",
-      "real": null,
-      "nota": "Título elegido por el creador: «Los 7 asesinos más peligrosos de Colombia y el error que los delató». Prueba A/B elegida por el creador: G «La llamada», H «Un grito» (López) e I «Un zapato» (Garavito), listas en 08_Miniatura/prueba_AB. Antes de publicar falta la fuente de las tres fotos."
+      "real": "2026-11-26",
+      "nota": "Título elegido por el creador: «Los 7 asesinos más peligrosos de Colombia y el error que los delató». Prueba A/B elegida por el creador: G «La llamada» (Escobar, foto de Semana, 1993), H «Un grito» (López) e I «Un zapato» (Garavito), con fotos de El Tiempo (2023) y Semana (1999); listas en 08_Miniatura/prueba_AB."
     },
     "7": {
       "estado": "en_curso",
@@ -62,13 +62,13 @@
       "estado": "hecho",
       "plan": "2026-11-27",
       "real": "2026-11-26",
-      "nota": "Pista de efectos v4: 613 efectos de Mixkit y del proyector (máquina de escribir, papel, proyector, golpes, barridos, latidos, subidas y ambientes) en tres pistas: golpes y transiciones, foley, ambientes; cada foto real entra con obturador y un destello. Nivel por sonoridad respecto a la voz y atenuación automática para no taparla; las subidas llegan a su clímax en cada tarjeta. Voz con limitador y mezcla final a -14 LUFS, -1,8 dBTP."
+      "nota": "Pista de efectos v5: 625 efectos de Mixkit y del proyector (máquina de escribir, papel, proyector, golpes, barridos, latidos, subidas y ambientes) en tres pistas: golpes y transiciones, foley, ambientes; cada foto real entra con obturador y un destello, y en los créditos suena el proyector en cada foto. Nivel por sonoridad respecto a la voz y atenuación automática para no taparla. Voz con limitador y mezcla final a -14 LUFS, -2 dBTP."
     },
     "10": {
       "estado": "en_curso",
       "plan": "2026-11-29",
       "real": null,
-      "nota": "Montaje v4 en 07_Exportados/top7_montaje_v4.mp4 (19:56): fotos reales de cinco de los siete asesinos (Esneda, Valencia, López, Garavito y Escobar), cada una justo después de su nombre y con su crédito; 41 fotos de lugares, créditos completos (124 s) y tarjeta final de 20 s. Proyecto top7_v4.wfp con voz, música y tres pistas de efectos separadas, abierto y revisado en Filmora. Faltan las fotos de Ramírez y Camargo."
+      "nota": "Montaje v5 en 07_Exportados/top7_montaje_v5.mp4 (20:13): fotos reales de los siete asesinos, cada una justo después de su nombre y con el medio que la publicó; 41 fotos de lugares; créditos completos (141 s), que ahora cierran con las siete fotos de prensa; tarjeta final de 20 s. Proyecto top7_v5.wfp con voz, música y tres pistas de efectos separadas, listo en 02_Top7_Colombia."
     },
     "11": {
       "estado": "pendiente",
@@ -195,6 +195,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "Montaje v4: las fotos reales de cinco asesinos entran después de cada nombre. El proyecto top7_v4.wfp se abrió en Filmora y las caras se ven en la vista previa (revisadas Esneda, Garavito y Escobar). El material de las versiones 2 y 3 quedó en 99_Archivo_de_trabajo/edicion_anterior."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "Montaje v5: entran las fotos de Ramírez Maestre (la del traslado, con las caras de terceros difuminadas) y de Camargo. El creador confirma que las fotos de los siete salieron de las notas de prensa P01 a P18; el medio de cada una va en su rótulo, en siete diapositivas nuevas de créditos (141 s en total) y en la descripción (4.741 caracteres, dentro del límite de YouTube). Duración: 20:13."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
