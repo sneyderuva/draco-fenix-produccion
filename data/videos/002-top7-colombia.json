@@ -8,7 +8,7 @@
   "duracion_objetivo_min": 15,
   "formato": "Top 7 en cuenta regresiva, del 7 al 1: voz con montaje de documentos, prensa y material de apoyo; gancho de 1 minuto, casos de 1 min 20 s a 2 min 10 s y cierre de 1 minuto",
   "demanda": "«casos perturbadores»: 26.526 búsquedas mensuales; «asesinos seriales»: 13.519 (+34 %). En Colombia, «Los 3 casos más perturbadores de Colombia» suma 105,9 mil vistas en un canal de 4,7 mil suscriptores (vidIQ, 24 nov 2026)",
-  "fecha_publicacion_plan": "2026-12-01",
+  "fecha_publicacion_plan": "2026-11-29",
   "pasos": {
     "1": {
       "estado": "hecho",
@@ -72,9 +72,9 @@
     },
     "11": {
       "estado": "en_curso",
-      "plan": "2026-12-01",
+      "plan": "2026-11-29",
       "real": null,
-      "nota": "Subido el 26 de noviembre en 1440p (07_Exportados/top7_montaje_v5_1440p.mp4): https://youtu.be/KRsjtXdE3cY. Programado como público para el martes 1 de diciembre de 2026, 6:00 p. m. (Bogotá), sin estreno; prueba A/B de miniaturas G, H e I; descripción con capítulos y créditos (4.729 caracteres); 15 etiquetas; Noticias y política; español (Latinoamérica); no creado para niños; uso de IA declarado. Falta: pantalla final y comentario fijado hacia Pozzetto cuando salga el 4 de diciembre."
+      "nota": "Subido el 26 de noviembre en 1440p (07_Exportados/top7_montaje_v5_1440p.mp4): https://youtu.be/KRsjtXdE3cY. Programado como público para el domingo 29 de noviembre de 2026, 6:00 p. m. (Bogotá), sin estreno; prueba A/B de miniaturas G, H e I; descripción con capítulos y créditos (4.729 caracteres); 15 etiquetas; Noticias y política; español (Latinoamérica); no creado para niños; uso de IA declarado. Falta: pantalla final y comentario fijado hacia Pozzetto cuando salga el 4 de diciembre."
     },
     "12": {
       "estado": "pendiente",
@@ -212,6 +212,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "Video 2 subido a YouTube en 1440p (https://youtu.be/KRsjtXdE3cY) y programado para el martes 1 de diciembre a las 6:00 p. m., con la prueba A/B de miniaturas G, H e I. Los capítulos van como «7. Esneda…» en vez de «#7» para que YouTube no los tome como hashtags."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "El creador movió la publicación del video 2 al domingo 29 de noviembre a las 6:00 p. m.; YouTube ya la tiene programada para esa fecha. El permiso de la foto de la mochila (D63) debe llegar antes del domingo."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
