@@ -68,7 +68,7 @@
       "estado": "hecho",
       "plan": "2026-11-29",
       "real": "2026-11-26",
-      "nota": "Montaje v2 aprobado por el creador el 26 de noviembre: 07_Exportados/top7_montaje_v2.mp4, 17:47, 1080p a 30 fps, H.264 y AAC de 320 kbps, mezcla a -14 LUFS, con los párrafos de López regrabados y la tarjeta de 110 víctimas corregida. Para editar en Filmora: los 233 planos numerados en 06_Edicion_Filmora/planos_v2, las pistas separadas en 06_Edicion_Filmora/sonido/mezcla, la lista de planos en 00_planos_montaje.csv y la guía 00_guia_Filmora.txt. Capítulos y créditos para la descripción en 07_Exportados. Subtítulos: los automáticos de YouTube."
+      "nota": "Montaje v2 aprobado por el creador el 26 de noviembre: 07_Exportados/top7_montaje_v2.mp4, 17:47, 1080p a 30 fps, H.264 y AAC de 320 kbps, mezcla a -14 LUFS, con los párrafos de López regrabados y la tarjeta de 110 víctimas corregida. Para editar en Filmora: los 233 planos numerados en 06_Edicion_Filmora/planos_v2, las pistas separadas en 06_Edicion_Filmora/sonido/mezcla, la lista de planos en 00_planos_montaje.csv y la guía 00_guia_Filmora.txt. Capítulos y créditos para la descripción en 07_Exportados. Subtítulos: los automáticos de YouTube. Proyecto de Filmora listo y probado en Filmora 16: 02_Top7_Colombia/top7_v2.wfp, con Video 1 (233 planos), Audio 1 (voz), Audio 2 (música) y Audio 3 (efectos y cortinilla); la biblioteca trae solo el material del video 2."
     },
     "11": {
       "estado": "pendiente",
@@ -166,6 +166,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "El creador aprobó el montaje v2. El correo para pedir el permiso de la foto de la mochila (D63) lo envía él desde el borrador de Gmail."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "Se entregó el proyecto de Filmora top7_v2.wfp: abre en Filmora 16 con la línea de tiempo completa (17:47) y la biblioteca del video 2; la guía de 06_Edicion_Filmora ahora explica cómo abrirlo."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
