@@ -50,7 +50,7 @@
       "estado": "en_curso",
       "plan": "2026-11-27",
       "real": null,
-      "nota": "Stock en Canva Pro: 79 piezas (67 videos y 12 fotos) descargadas en 04_Material_de_apoyo con nombres D01 a D79, en el orden del guion. D63 rehecha con la foto de una mochila rosada y negra de Arte y Artesanías (todos los derechos reservados): el creador pide el permiso a la tienda antes de publicar. Material real en curso según la pestaña «Material real»."
+      "nota": "Stock en Canva Pro: 79 piezas (67 videos y 12 fotos) descargadas en 04_Material_de_apoyo con nombres D01 a D79, en el orden del guion. D63 rehecha con la foto de una mochila rosada y negra de Arte y Artesanías (todos los derechos reservados): el creador pide el permiso a la tienda antes de publicar; el correo quedó como borrador en Gmail, dirigido a myriamcvg80@gmail.com y con plazo de respuesta al sábado 28 de noviembre. Material real en curso según la pestaña «Material real»."
     },
     "8": {
       "estado": "hecho",
@@ -68,7 +68,7 @@
       "estado": "en_curso",
       "plan": "2026-11-29",
       "real": null,
-      "nota": "Montaje v2 listo en 07_Exportados/top7_montaje_v2.mp4: 17:47, 1080p a 30 fps, H.264 y AAC de 320 kbps, mezcla a -14 LUFS, con los párrafos de López regrabados y la tarjeta de 110 víctimas corregida («atribuidas por la justicia de Ecuador»). 233 planos cortados a la palabra de la voz (lista en 06_Edicion_Filmora/00_planos_montaje.csv); pistas separadas en 06_Edicion_Filmora/sonido/mezcla; capítulos y créditos para la descripción en 07_Exportados. La v1 quedó en 07_Exportados/_anteriores. Falta la revisión del creador. Subtítulos: los automáticos de YouTube."
+      "nota": "Montaje v2 listo en 07_Exportados/top7_montaje_v2.mp4: 17:47, 1080p a 30 fps, H.264 y AAC de 320 kbps, mezcla a -14 LUFS, con los párrafos de López regrabados y la tarjeta de 110 víctimas corregida («atribuidas por la justicia de Ecuador»). Para editar en Filmora: los 233 planos numerados en 06_Edicion_Filmora/planos_v2, las pistas separadas en 06_Edicion_Filmora/sonido/mezcla, la lista de planos con tiempos en 00_planos_montaje.csv y la guía 00_guia_Filmora.txt. Capítulos y créditos para la descripción en 07_Exportados; la v1 quedó en 07_Exportados/_anteriores. Falta la revisión del creador. Subtítulos: los automáticos de YouTube."
     },
     "11": {
       "estado": "pendiente",
@@ -158,6 +158,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "Pendientes cerrados: se regrabaron en ElevenLabs los párrafos 2 y 5 de López con los datos corregidos, se armó el montaje v2 (17:47) y se copió a 07_Exportados; se borraron las partes temporales de la copia. El permiso de la foto de la mochila (D63) lo pide el creador."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "Se entregaron los 233 planos numerados del montaje v2 y la guía para editarlo en Filmora; quedó en Gmail el borrador del correo para pedir el permiso de la foto de la mochila (D63)."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
