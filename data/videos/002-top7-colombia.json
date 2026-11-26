@@ -29,10 +29,10 @@
       "nota": "Material real: 25 fotos de lugares con licencia libre (R01 a R25) en 05_Evidencias, con 00_fuentes_y_licencias.csv; 19 notas de prensa verificadas por caso (P01 a P19) en la pestaña «Material real» del doc; cartela G01 de 46.612 muertes en Medellín. Faltan las capturas de titulares y las fotos de personas, que toma el creador."
     },
     "4": {
-      "estado": "espera",
+      "estado": "hecho",
       "plan": "2026-11-27",
-      "real": null,
-      "nota": "Verificación terminada el 26 de noviembre (tabla en la pestaña «Material real» del documento): todo se sostiene salvo dos datos de López. Las 110 víctimas son de la condena en Ecuador, no de tres países, y no fueron «unos sesenta cuerpos» sino 53 tumbas. Falta que el creador regrabe esos dos párrafos; el texto corregido está en el documento."
+      "real": "2026-11-26",
+      "nota": "Verificación terminada el 26 de noviembre (tabla en la pestaña «Material real» del documento). Los dos datos de López que no se sostenían se corrigieron en el guion y se regrabaron: las 110 víctimas son de la condena en Ecuador y aparecieron más de cincuenta cuerpos (53 tumbas, según AP)."
     },
     "5": {
       "estado": "hecho",
@@ -50,13 +50,13 @@
       "estado": "en_curso",
       "plan": "2026-11-27",
       "real": null,
-      "nota": "Stock en Canva Pro: 79 piezas (67 videos y 12 fotos) descargadas en 04_Material_de_apoyo con nombres D01 a D79, en el orden del guion. D63 rehecha con la foto de una mochila rosada y negra (Arte y Artesanías, todos los derechos reservados: pedir permiso antes de publicar). Material real en curso según la pestaña «Material real»."
+      "nota": "Stock en Canva Pro: 79 piezas (67 videos y 12 fotos) descargadas en 04_Material_de_apoyo con nombres D01 a D79, en el orden del guion. D63 rehecha con la foto de una mochila rosada y negra de Arte y Artesanías (todos los derechos reservados): el creador pide el permiso a la tienda antes de publicar. Material real en curso según la pestaña «Material real»."
     },
     "8": {
       "estado": "hecho",
       "plan": "2026-11-25",
-      "real": "2026-11-25",
-      "nota": "Voz completa en ElevenLabs v4: 50 clips ordenados por sección y párrafo en 03_Voz, con registro en 00_registro_audios.csv (16,8 minutos sin tomas repetidas)."
+      "real": "2026-11-26",
+      "nota": "Voz completa en ElevenLabs v4: 51 clips ordenados por sección y párrafo en 03_Voz, con registro en 00_registro_audios.csv (16,6 minutos sin tomas repetidas). El 26 de noviembre se regrabaron los párrafos 2 y 5 de López con los datos corregidos (06_Lopez_02_regrabado y 06_Lopez_05_regrabado); el clip anterior del párrafo 5 quedó en 03_Voz/_anteriores."
     },
     "9": {
       "estado": "hecho",
@@ -68,7 +68,7 @@
       "estado": "en_curso",
       "plan": "2026-11-29",
       "real": null,
-      "nota": "Montaje v1 listo en 07_Exportados/top7_montaje_v1.mp4: 17:48, 1080p a 30 fps, H.264 y AAC de 320 kbps. 234 planos cortados a la palabra de la voz (lista con tiempos en 06_Edicion_Filmora/00_planos_montaje.csv); fotos reales con rótulo de lugar y crédito, recreaciones con rótulo RECREACIÓN, sellos y rótulos del piloto, tarjetas de cifras y fundido a negro entre casos. Capítulos y créditos para la descripción en 07_Exportados. Falta la revisión del creador y cambiar dos párrafos de López cuando se regraben. Subtítulos: los automáticos de YouTube."
+      "nota": "Montaje v2 listo en 07_Exportados/top7_montaje_v2.mp4: 17:47, 1080p a 30 fps, H.264 y AAC de 320 kbps, mezcla a -14 LUFS, con los párrafos de López regrabados y la tarjeta de 110 víctimas corregida («atribuidas por la justicia de Ecuador»). 233 planos cortados a la palabra de la voz (lista en 06_Edicion_Filmora/00_planos_montaje.csv); pistas separadas en 06_Edicion_Filmora/sonido/mezcla; capítulos y créditos para la descripción en 07_Exportados. La v1 quedó en 07_Exportados/_anteriores. Falta la revisión del creador. Subtítulos: los automáticos de YouTube."
     },
     "11": {
       "estado": "pendiente",
@@ -154,6 +154,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "Montaje v1 terminado (17:48) y copiado a 07_Exportados. Se reemplazaron tomas casi negras del material de archivo, se aclararon las de noche y se cerró la verificación de hechos: hay que regrabar dos párrafos de López."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "Pendientes cerrados: se regrabaron en ElevenLabs los párrafos 2 y 5 de López con los datos corregidos, se armó el montaje v2 (17:47) y se copió a 07_Exportados; se borraron las partes temporales de la copia. El permiso de la foto de la mochila (D63) lo pide el creador."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
