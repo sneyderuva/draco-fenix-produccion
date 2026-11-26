@@ -17,16 +17,16 @@
       "nota": "Top 7 de 11 a 12 minutos con asesinos de Colombia, validado con vidIQ."
     },
     "2": {
-      "estado": "en_curso",
+      "estado": "hecho",
       "plan": "2026-11-27",
-      "real": null,
-      "nota": "Top 7 ordenado de menos peor a peor por número de víctimas: 7 Ruiz Cataño, 6 Valencia, 5 Ramírez Maestre, 4 Camargo, 3 López, 2 Garavito y 1 Escobar. Falta que el creador lo confirme."
+      "real": "2026-11-25",
+      "nota": "Top 7 confirmado por el creador: del 7 (Esneda Ruiz Cataño) al 1 (Pablo Escobar), ordenado por número de víctimas."
     },
     "3": {
-      "estado": "pendiente",
+      "estado": "en_curso",
       "plan": "2026-11-28",
       "real": null,
-      "nota": ""
+      "nota": "Siguiente: fotos reales, prensa y documentos de cada caso, con fuente y licencia, según el criterio visual del canal."
     },
     "4": {
       "estado": "en_curso",
@@ -35,10 +35,10 @@
       "nota": "Cifras y detalles del guion v2 cruzados con las fuentes de la tabla del documento; Garavito corregido a 172 víctimas (Fiscalía). Falta abrir cada fuente antes de grabar."
     },
     "5": {
-      "estado": "espera",
+      "estado": "hecho",
       "plan": "2026-11-30",
-      "real": null,
-      "nota": "Guion v2 de 15 min 01 s (2.291 palabras, ritmo del piloto) en la pestaña «Guion v2 · 15 min» del documento. Gancho aprobado por el creador el 25 de noviembre (principio de Locard). Falta su visto bueno al resto del guion para pasar a grabación."
+      "real": "2026-11-25",
+      "nota": "Guion v2 aprobado por el creador el 25 de noviembre para avanzar: 15 min 01 s, con el lema actual. Quedan dos ajustes propuestos en el documento por aceptar."
     },
     "6": {
       "estado": "pendiente",
@@ -122,6 +122,10 @@
     {
       "fecha": "2026-11-25",
       "texto": "El creador aprobó el gancho del Top 7 y ajustó su primera frase («En 1910, un médico llamado Edmond Locard…»)."
+    },
+    {
+      "fecha": "2026-11-25",
+      "texto": "El creador aprobó el guion v2 para avanzar con la preparación del video y dejó el lema actual."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
