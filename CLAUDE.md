@@ -8,6 +8,11 @@ App de seguimiento del canal de YouTube Draco Fénix (crimen real narrado desde 
 - Un video nuevo es un archivo `data/videos/NNN-slug.json` con la misma estructura que `001-pozzetto.json`.
 - Nunca subir `.env` ni contraseñas. No guardar guiones completos ni datos personales de víctimas en este repositorio; solo enlaces y resúmenes.
 
+## Orden de trabajo
+
+- La investigación y la verificación de hechos (pasos 2 a 4) se terminan antes de escribir el guion (paso 5): cada dato del guion queda con su fuente abierta y revisada.
+- La voz no se graba mientras quede un dato sin verificar.
+
 ## Criterio visual del canal
 
 Referencia del creador: el canal Fusgo. Se mezclan imágenes reales con material de apoyo, según lo que diga la voz.
