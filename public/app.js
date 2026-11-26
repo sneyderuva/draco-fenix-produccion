@@ -126,13 +126,14 @@ function canal() {
     </section>`).join('')}
     <h2>Plan</h2><section class="tarjeta"><ol class="acciones">${(meta.acciones || []).map((a) => `<li>${esc(a)}</li>`).join('')}</ol></section>
     <h2>Hitos</h2><section class="tarjeta"><table><tbody>${(meta.hitos || []).map((h) => `<tr class="${h.fecha < hoy ? 'pasado' : ''}"><td style="white-space:nowrap">${fmtFecha(h.fecha, largo)}</td><td>${esc(h.texto)}</td></tr>`).join('')}</tbody></table></section>` : '';
+  const ideas = (c.ideas || []).length ? `<h2>Ideas guardadas</h2><section class="tarjeta"><table><tbody>${c.ideas.map((i) => `<tr><td style="white-space:nowrap">${fmtFecha(i.registrada, largo)}</td><td><span class="etiqueta">${esc(i.formato)}</span></td><td>${esc(i.tema)}${i.nota ? `<div class="lema">${esc(i.nota)}</div>` : ''}</td></tr>`).join('')}</tbody></table></section>` : '';
   return `<h1>${esc(c.nombre)}</h1><p class="sub"><a href="${esc(c.url)}" target="_blank" rel="noopener noreferrer">${esc(c.identificador)}</a> · datos al ${fmtFecha(m.actualizado, largo)}</p>
     <section class="tarjeta cifras">
       <div class="cifra"><b>${num(m.suscriptores)}</b><span>Suscriptores</span></div>
       <div class="cifra"><b>${num(m.horas_reproduccion)}</b><span>Horas de reproducción</span></div>
       <div class="cifra"><b>${num(m.videos_publicados)}</b><span>Videos publicados</span></div>
       <div class="cifra"><b>${datos.videos.length}</b><span>Videos en producción</span></div>
-    </section>${bloqueMeta}`;
+    </section>${bloqueMeta}${ideas}`;
 }
 
 const VISTAS = { tablero, cronograma, videos, canal };

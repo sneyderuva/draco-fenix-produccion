@@ -47,5 +47,13 @@
       { "fecha": "2027-01-31", "texto": "Último día para entrar a anuncios con 4.000 horas" }
     ]
   },
-  "meta_ingresos_usd": 10000
+  "meta_ingresos_usd": 10000,
+  "ideas": [
+    {
+      "registrada": "2026-11-25",
+      "formato": "Short",
+      "tema": "El secuestro de 84 personas en Cartagena",
+      "nota": "Guardada para después. Antes de escribirlo hay que precisar el caso: fecha y una fuente que confirme la cifra."
+    }
+  ]
 }
