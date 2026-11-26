@@ -30,9 +30,10 @@ Meta a corto plazo del creador (24 de noviembre de 2026): monetizar pronto, con 
 
 - Visceral sí: abrir en el momento de más tensión, frases cortas, pausas y detalles macabros verificados (el olor que delató un escondite, lo que guardaba el asesino, una frase suya, una cifra que estremece).
 - Cada detalle macabro tiene fuente y se dice una vez, sin describir heridas, sangre ni sufrimiento.
-- Nada de sangre, heridas, cadáveres ni restos en pantalla, tampoco en recreaciones: YouTube no paga anuncios en contenido impactante con gore o partes del cuerpo.
+- Material real del caso (escena del crimen, evidencia, un cuerpo cubierto): decisión del creador del 26 de noviembre de 2026. Solo difuminado por completo, de modo que no se distinga sangre, heridas, el cuerpo ni la cara de la víctima; unos pocos segundos y mientras la voz explica la investigación. Nunca en la miniatura, el título ni el gancho (primeros 30 segundos), y nunca de víctimas menores de edad. Guías de anunciantes de YouTube: cuerpos totalmente difuminados en un video educativo reciben anuncios completos; con heridas visibles, anuncios limitados; fotos de escenas del crimen sin contexto, sin anuncios.
+- Sin difuminar, nada de sangre, heridas, cadáveres ni restos en pantalla, tampoco en recreaciones: YouTube no paga anuncios en contenido impactante con gore o partes del cuerpo.
 - Crímenes contra menores: el hecho, la cifra y la investigación, nunca cómo ocurrieron. El contenido centrado en el abuso infantil sigue sin anuncios completos.
-- Otros temas sensibles (abuso sexual, violencia doméstica, suicidio) se pueden nombrar sin detalle gráfico: desde enero de 2026 reciben anuncios completos.
+- Otros temas sensibles (abuso sexual, violencia doméstica, suicidio) se pueden nombrar de paso y sin detalle gráfico: así reciben anuncios completos. Si uno de ellos es el foco de un segmento, los anuncios se limitan aunque el tratamiento sea documental.
 - Título, miniatura y primeros segundos: tensión sí, imagen o palabra gráfica no.
 - El asesino nunca es el héroe: la protagonista es la investigación.
 
