@@ -50,7 +50,7 @@
       "estado": "en_curso",
       "plan": "2026-12-03",
       "real": null,
-      "nota": "Inventario de material de apoyo en la pestaña «Material de apoyo» del doc: 104 tomas gratuitas por buscar (Pexels, Pixabay, Mixkit), sin evidencias."
+      "nota": "Stock en Canva Pro: 79 diapositivas (65 videos y 14 fotos) en el diseño «Video 2 · Los 7 asesinos más peligrosos de Colombia», listadas en la pestaña «Stock en Canva» del doc. Material real por buscar en la pestaña «Material real»."
     },
     "8": {
       "estado": "espera",
@@ -138,6 +138,10 @@
     {
       "fecha": "2026-11-25",
       "texto": "Inventario de material de apoyo listo para buscar."
+    },
+    {
+      "fecha": "2026-11-25",
+      "texto": "Stock del video 2 montado en Canva Pro: una toma por diapositiva, en el orden del guion."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
