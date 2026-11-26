@@ -44,7 +44,7 @@
       "estado": "en_curso",
       "plan": "2026-11-28",
       "real": null,
-      "nota": "Título elegido por el creador: «Los 7 asesinos más peligrosos de Colombia y el error que los delató». Nueve miniaturas en 08_Miniatura y en el lienzo (A a I); H «Un grito» (López) e I «Un zapato» (Garavito) usan las fotos reales que envió el creador, con textos tomados del guion. Favorita del creador: G, «La llamada». Faltan las fuentes de las fotos de G, H e I."
+      "nota": "Título elegido por el creador: «Los 7 asesinos más peligrosos de Colombia y el error que los delató». Prueba A/B elegida por el creador: G «La llamada», H «Un grito» (López) e I «Un zapato» (Garavito), listas en 08_Miniatura/prueba_AB. Antes de publicar falta la fuente de las tres fotos."
     },
     "7": {
       "estado": "en_curso",
@@ -183,6 +183,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "Carpetas del PC ordenadas con la misma estructura en los dos videos (01 a 09 y 99_Archivo_de_trabajo, con un 00_LEEME.txt en cada uno). En 06_Edicion_Filmora del video 2 quedaron los planos, el sonido y los 609 efectos sueltos de la versión 3. Los proyectos de Filmora vigentes siguen encontrando todos sus archivos. Fotos de personas recibidas: casos 7, 6, 3 y 2."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "El creador eligió G, H e I para la prueba A/B de miniaturas (quedaron en 08_Miniatura/prueba_AB)."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
