@@ -8,7 +8,7 @@
   "duracion_objetivo_min": 15,
   "formato": "Top 7 en cuenta regresiva, del 7 al 1: voz con montaje de documentos, prensa y material de apoyo; gancho de 1 minuto, casos de 1 min 20 s a 2 min 10 s y cierre de 1 minuto",
   "demanda": "«casos perturbadores»: 26.526 búsquedas mensuales; «asesinos seriales»: 13.519 (+34 %). En Colombia, «Los 3 casos más perturbadores de Colombia» suma 105,9 mil vistas en un canal de 4,7 mil suscriptores (vidIQ, 24 nov 2026)",
-  "fecha_publicacion_plan": "2026-12-11",
+  "fecha_publicacion_plan": "2026-12-01",
   "pasos": {
     "1": {
       "estado": "hecho",
@@ -24,13 +24,13 @@
     },
     "3": {
       "estado": "en_curso",
-      "plan": "2026-11-28",
+      "plan": "2026-11-27",
       "real": null,
       "nota": "Siguiente: fotos reales, prensa y documentos de cada caso, con fuente y licencia, según el criterio visual del canal."
     },
     "4": {
       "estado": "en_curso",
-      "plan": "2026-11-29",
+      "plan": "2026-11-27",
       "real": null,
       "nota": "Cifras y detalles del guion v2 cruzados con las fuentes de la tabla del documento; Garavito corregido a 172 víctimas (Fiscalía). Falta abrir cada fuente antes de grabar."
     },
@@ -42,49 +42,49 @@
     },
     "6": {
       "estado": "pendiente",
-      "plan": "2026-12-01",
+      "plan": "2026-11-28",
       "real": null,
       "nota": "Título elegido por el creador: «Los 7 asesinos más peligrosos de Colombia y el error que los delató» (87 de 100). Las miniaturas se hacen después del guion."
     },
     "7": {
       "estado": "en_curso",
-      "plan": "2026-12-03",
+      "plan": "2026-11-27",
       "real": null,
-      "nota": "Stock en Canva Pro: 79 diapositivas (65 videos y 14 fotos) en el diseño «Video 2 · Los 7 asesinos más peligrosos de Colombia», listadas en la pestaña «Stock en Canva» del doc. Material real por buscar en la pestaña «Material real»."
+      "nota": "Stock en Canva Pro: 79 piezas (67 videos y 12 fotos) descargadas en 04_Material_de_apoyo con nombres D01 a D79, en el orden del guion. D63 rehecha con la foto de una mochila rosada y negra (Arte y Artesanías, todos los derechos reservados: pedir permiso antes de publicar). Material real en curso según la pestaña «Material real»."
     },
     "8": {
-      "estado": "espera",
-      "plan": "2026-12-04",
+      "estado": "en_curso",
+      "plan": "2026-11-25",
       "real": null,
-      "nota": "Guion con emociones para ElevenLabs v4 en la pestaña ELEVENLABS del doc: nueve secciones sin códigos, un audio por sección, a 03_Voz."
+      "nota": "Voz en ElevenLabs v4: 49 clips ordenados por sección y párrafo en 03_Voz, con registro en 00_registro_audios.csv (16,5 minutos sin tomas repetidas). Falta el párrafo 4 de Esneda («Y después de cada entierro, la viuda iba a cobrar…»)."
     },
     "9": {
       "estado": "pendiente",
-      "plan": "2026-12-05",
+      "plan": "2026-11-27",
       "real": null,
       "nota": ""
     },
     "10": {
       "estado": "pendiente",
-      "plan": "2026-12-08",
+      "plan": "2026-11-29",
       "real": null,
       "nota": ""
     },
     "11": {
       "estado": "pendiente",
-      "plan": "2026-12-11",
+      "plan": "2026-12-01",
       "real": null,
-      "nota": ""
+      "nota": "Plan: martes 1 de diciembre de 2026, 6:00 p. m. (Bogotá), antes del piloto (viernes 4, 6:00 p. m.). Enlace a Pozzetto en la descripción, comentario fijado con su estreno y pantalla final hacia Pozzetto desde el 4."
     },
     "12": {
       "estado": "pendiente",
-      "plan": "2026-12-12",
+      "plan": "2026-12-02",
       "real": null,
       "nota": ""
     },
     "13": {
       "estado": "pendiente",
-      "plan": "2026-12-18",
+      "plan": "2026-12-08",
       "real": null,
       "nota": ""
     }
@@ -142,6 +142,10 @@
     {
       "fecha": "2026-11-25",
       "texto": "Stock del video 2 montado en Canva Pro: una toma por diapositiva, en el orden del guion."
+    },
+    {
+      "fecha": "2026-11-25",
+      "texto": "Voz grabada y ordenada, stock descargado y publicación movida al martes 1 de diciembre a las 6:00 p. m., antes del piloto."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
