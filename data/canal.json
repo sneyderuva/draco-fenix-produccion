@@ -20,31 +20,85 @@
       {
         "nombre": "Nivel 1 · Ingresos de fans",
         "habilita": "Membresías, Súpers y Shopping; todavía sin anuncios.",
-        "requisitos": { "suscriptores": 500, "videos_90_dias": 3, "horas_reproduccion": 3000 },
+        "requisitos": {
+          "suscriptores": 500,
+          "videos_90_dias": 3,
+          "horas_reproduccion": 3000
+        },
         "alternativa": "En lugar de las horas: 3 millones de vistas de Shorts en 90 días."
       },
       {
         "nombre": "Nivel 2 · Anuncios",
         "habilita": "Ingresos por anuncios y YouTube Premium.",
-        "requisitos": { "suscriptores": 1000, "horas_reproduccion": 4000 },
+        "requisitos": {
+          "suscriptores": 1000,
+          "horas_reproduccion": 4000
+        },
         "alternativa": "En lugar de las horas: 10 millones de vistas de Shorts en 90 días.",
         "vence": "2027-01-31",
         "aviso": "Desde el 1 de febrero de 2027, los canales nuevos necesitarán 8.000 horas o 20 millones de vistas de Shorts para entrar a los anuncios."
       }
     ],
     "acciones": [
-      "Publicar un video largo cada semana desde el 4 de diciembre.",
-      "Sacar 2 o 3 Shorts de cada video largo, enlazados al video completo: suman suscriptores, aunque sus vistas no cuentan como horas.",
+      "Publicar dos videos largos por semana, jueves y domingo a las 6:00 p. m. (Bogotá), desde el 29 de noviembre de 2026; única excepción: Pozzetto, el viernes 4 de diciembre (40 años de la masacre).",
+      "Sacar de 2 a 4 Shorts y Reels de cada video largo, enlazados al video completo: suman suscriptores, aunque sus vistas no cuentan como horas.",
       "Publicar reels en Instagram (@dracofenix_): casos en 60 segundos, datos macabros, expedientes abiertos y tragedias con investigación, más un gancho para cada video de YouTube.",
       "Escribir con el criterio de tono de CLAUDE.md: visceral, verificado y sin violencia gráfica.",
       "Actualizar cada lunes suscriptores, horas y videos con los datos de YouTube Studio."
     ],
     "hitos": [
-      { "fecha": "2026-11-24", "texto": "Meta de monetización registrada" },
-      { "fecha": "2026-12-04", "texto": "Video 1 publicado: caso Pozzetto" },
-      { "fecha": "2026-12-11", "texto": "Video 2 publicado: Top 7" },
-      { "fecha": "2026-12-18", "texto": "Video 3 publicado (propuesto): tres videos en 90 días" },
-      { "fecha": "2027-01-31", "texto": "Último día para entrar a anuncios con 4.000 horas" }
+      {
+        "fecha": "2026-11-24",
+        "texto": "Meta de monetización registrada"
+      },
+      {
+        "fecha": "2026-11-26",
+        "texto": "Meta de publicación: dos videos por semana, jueves y domingo"
+      },
+      {
+        "fecha": "2026-11-29",
+        "texto": "Video 2 publicado: Top 7 (domingo, 6:00 p. m.)"
+      },
+      {
+        "fecha": "2026-12-04",
+        "texto": "Video 1 publicado: caso Pozzetto, 40 años (excepción: viernes)"
+      },
+      {
+        "fecha": "2026-12-06",
+        "texto": "Video 3 (caso por elegir): tres videos en 90 días, requisito del nivel 1"
+      },
+      {
+        "fecha": "2026-12-10",
+        "texto": "Video 4 (caso por elegir)"
+      },
+      {
+        "fecha": "2026-12-13",
+        "texto": "Video 5 (caso por elegir)"
+      },
+      {
+        "fecha": "2026-12-17",
+        "texto": "Video 6 (caso por elegir)"
+      },
+      {
+        "fecha": "2026-12-20",
+        "texto": "Video 7 (caso por elegir)"
+      },
+      {
+        "fecha": "2026-12-24",
+        "texto": "Video 8 (caso por elegir): cae en Nochebuena, revisar la fecha"
+      },
+      {
+        "fecha": "2026-12-27",
+        "texto": "Video 9 (caso por elegir)"
+      },
+      {
+        "fecha": "2026-12-31",
+        "texto": "Video 10 (caso por elegir): cae en Nochevieja, revisar la fecha"
+      },
+      {
+        "fecha": "2027-01-31",
+        "texto": "Último día para entrar a anuncios con 4.000 horas"
+      }
     ]
   },
   "meta_ingresos_usd": 10000,

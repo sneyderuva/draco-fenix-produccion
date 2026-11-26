@@ -37,6 +37,18 @@ Meta a corto plazo del creador (24 de noviembre de 2026): monetizar pronto, con 
 - Título, miniatura y primeros segundos: tensión sí, imagen o palabra gráfica no.
 - El asesino nunca es el héroe: la protagonista es la investigación.
 
+## Calendario de publicación
+
+Meta del creador (26 de noviembre de 2026): dos videos largos por semana, jueves y domingo a las 6:00 p. m. (Bogotá), desde el domingo 29 de noviembre de 2026. Única excepción: Pozzetto sale el viernes 4 de diciembre de 2026, el día de los 40 años de la masacre, en lugar del jueves 3.
+
+- Siempre hay dos videos en curso: uno en investigación y verificación, y otro en guion, voz y montaje. Cada video empieza su investigación al menos 10 días antes de su fecha.
+- Cada video largo da de 2 a 4 cortes verticales 9:16 para Shorts y Reels, que terminan invitando al video completo.
+
+## Carpetas del PC
+
+- No se borran carpetas ni archivos de producción (planos, voz, evidencias, material de apoyo, sonido y versiones anteriores): de ahí salen los cortes 9:16 para Shorts y Reels. Lo que ya no se usa pasa a 99_Archivo_de_trabajo; solo se borran las partes temporales de las copias al PC.
+- Los cortes verticales de cada video van en su carpeta 10_Shorts_y_Reels.
+
 ## Voz (ElevenLabs)
 
 - Modelo Eleven v4 y voz «David - Deep, Attractive, Mysterious», con los mismos ajustes del piloto.
