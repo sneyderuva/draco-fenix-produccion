@@ -26,7 +26,7 @@
       "estado": "en_curso",
       "plan": "2026-11-27",
       "real": null,
-      "nota": "Material real: 41 fotos de lugares con licencia libre (R01 a R41) en 05_Evidencias, con 00_fuentes_y_licencias.csv al día; R34 y R36 se cambiaron porque eran copias de R12 y R15. 19 notas de prensa verificadas (P01 a P19). Caras y pruebas: el creador las está entregando en 05_Evidencias/caras_y_pruebas (Esneda lista, con las caras de las policías censuradas; faltan confirmar casos de las fotos 2, 3 y 4). De la página de Semana de 1993 solo va el titular, sin los cadáveres."
+      "nota": "Material real: 41 fotos de lugares con licencia libre (R01 a R41) en 05_Evidencias/fotos_de_lugares, con 00_fuentes_y_licencias.csv al día. 19 notas de prensa verificadas (P01 a P19). Fotos de personas en 05_Evidencias/caras_y_pruebas: Esneda (caras de las policías censuradas), Valencia, López, Garavito y Escobar, ya en el montaje v4. Faltan: fotos de Ramírez y Camargo, el caso de la foto 3 y la fuente exacta de cada foto (solo Valencia la tiene: El Colombiano, 2015). De la página de Semana de 1993 solo va el titular, sin los cadáveres."
     },
     "4": {
       "estado": "hecho",
@@ -62,13 +62,13 @@
       "estado": "hecho",
       "plan": "2026-11-27",
       "real": "2026-11-26",
-      "nota": "Pista de efectos v3: 609 efectos de Mixkit y del proyector (máquina de escribir, papel, proyector, golpes, barridos, latidos, subidas y ambientes) en tres pistas: golpes y transiciones, foley, ambientes. Nivel por sonoridad respecto a la voz y atenuación automática para no taparla; las subidas llegan a su clímax en cada tarjeta. Voz con limitador (se recortaba en el gancho) y mezcla final a -14 LUFS, -1,8 dBTP."
+      "nota": "Pista de efectos v4: 613 efectos de Mixkit y del proyector (máquina de escribir, papel, proyector, golpes, barridos, latidos, subidas y ambientes) en tres pistas: golpes y transiciones, foley, ambientes; cada foto real entra con obturador y un destello. Nivel por sonoridad respecto a la voz y atenuación automática para no taparla; las subidas llegan a su clímax en cada tarjeta. Voz con limitador y mezcla final a -14 LUFS, -1,8 dBTP."
     },
     "10": {
       "estado": "en_curso",
       "plan": "2026-11-29",
       "real": null,
-      "nota": "Montaje v3 en 07_Exportados/top7_montaje_v3.mp4 (19:56): pista de efectos nueva, 41 fotos reales de lugares y créditos completos, un crédito por diapositiva (124 s), antes de la tarjeta final de 20 s para la pantalla final de YouTube. Falta integrar las caras cuando el creador confirme los casos, y el proyecto de Filmora con las pistas de efectos."
+      "nota": "Montaje v4 en 07_Exportados/top7_montaje_v4.mp4 (19:56): fotos reales de cinco de los siete asesinos (Esneda, Valencia, López, Garavito y Escobar), cada una justo después de su nombre y con su crédito; 41 fotos de lugares, créditos completos (124 s) y tarjeta final de 20 s. Proyecto top7_v4.wfp con voz, música y tres pistas de efectos separadas, abierto y revisado en Filmora. Faltan las fotos de Ramírez y Camargo."
     },
     "11": {
       "estado": "pendiente",
@@ -191,6 +191,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "Licencia de la voz: el creador confirma que el piloto (Pozzetto) se generó con plan pago. Los audios del video 2 se guardaron entre el 25 de noviembre a las 10:27 p. m. y el 26 a las 6:42 a. m., antes de que empezara el ciclo actual del plan gratuito (26 de noviembre, 11:19 a. m.); queda por confirmar en el historial de facturación de ElevenLabs que el plan pago seguía activo en esas horas. Desde ahora, la voz para videos monetizados se genera solo con plan pago."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "Montaje v4: las fotos reales de cinco asesinos entran después de cada nombre. El proyecto top7_v4.wfp se abrió en Filmora y las caras se ven en la vista previa (revisadas Esneda, Garavito y Escobar). El material de las versiones 2 y 3 quedó en 99_Archivo_de_trabajo/edicion_anterior."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
