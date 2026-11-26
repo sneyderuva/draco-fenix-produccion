@@ -26,7 +26,7 @@
       "estado": "en_curso",
       "plan": "2026-11-27",
       "real": null,
-      "nota": "Siguiente: fotos reales, prensa y documentos de cada caso, con fuente y licencia, según el criterio visual del canal."
+      "nota": "Material real: 25 fotos de lugares con licencia libre (R01 a R25) en 05_Evidencias, con 00_fuentes_y_licencias.csv; 19 notas de prensa verificadas por caso (P01 a P19) en la pestaña «Material real» del doc; cartela G01 de 46.612 muertes en Medellín. Faltan las capturas de titulares y las fotos de personas, que toma el creador."
     },
     "4": {
       "estado": "en_curso",
@@ -53,10 +53,10 @@
       "nota": "Stock en Canva Pro: 79 piezas (67 videos y 12 fotos) descargadas en 04_Material_de_apoyo con nombres D01 a D79, en el orden del guion. D63 rehecha con la foto de una mochila rosada y negra (Arte y Artesanías, todos los derechos reservados: pedir permiso antes de publicar). Material real en curso según la pestaña «Material real»."
     },
     "8": {
-      "estado": "en_curso",
+      "estado": "hecho",
       "plan": "2026-11-25",
-      "real": null,
-      "nota": "Voz en ElevenLabs v4: 49 clips ordenados por sección y párrafo en 03_Voz, con registro en 00_registro_audios.csv (16,5 minutos sin tomas repetidas). Falta el párrafo 4 de Esneda («Y después de cada entierro, la viuda iba a cobrar…»)."
+      "real": "2026-11-25",
+      "nota": "Voz completa en ElevenLabs v4: 50 clips ordenados por sección y párrafo en 03_Voz, con registro en 00_registro_audios.csv (16,8 minutos sin tomas repetidas)."
     },
     "9": {
       "estado": "pendiente",
@@ -146,6 +146,10 @@
     {
       "fecha": "2026-11-25",
       "texto": "Voz grabada y ordenada, stock descargado y publicación movida al martes 1 de diciembre a las 6:00 p. m., antes del piloto."
+    },
+    {
+      "fecha": "2026-11-25",
+      "texto": "Material real del video 2: 25 lugares con licencia, 19 notas de prensa y la cartela de Medellín."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
