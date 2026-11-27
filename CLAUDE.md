@@ -21,6 +21,7 @@ Referencia del creador: el canal Fusgo. Se mezclan imágenes reales con material
 - Idea general o contexto (problemas de plata, soledad, una ciudad de noche, un trámite): foto o video de archivo («stock») acorde al tema, o una recreación sin personas.
 - Menos diapositivas de texto y nada de pantallas en negro largas: cada frase del guion debe tener una imagen que la acompañe.
 - Las evidencias (cartas, páginas de prensa, pasaportes, sellos) no se tapan ni se reemplazan.
+- Material real de baja resolución (menos de 1280 px de ancho, como el video de cámaras corporales de Defensa del video 3): no va a pantalla completa. Se enmarca y se centra, a no más de 2,5 veces su tamaño original, con su rótulo de fuente, lugar y fecha (decisión del creador del 26 de noviembre de 2026).
 - El material de archivo nunca se presenta como si fuera del caso. Las recreaciones llevan el rótulo «RECREACIÓN».
 - Los videos ya subidos no se modifican: las mejoras se aplican desde el siguiente video (decisión del creador del 26 de noviembre de 2026).
 - Desde el video 3: cortinilla v3 (fotos reales de stock en lugar de ilustraciones), la carpeta del expediente para «Abramos el expediente» y las fichas de verificación EN DEBATE, CONFIRMADO y ¿PURA CARRETA?. Están en 00_Plantilla_canal; la carpeta se genera con el número y el asunto de cada video.
