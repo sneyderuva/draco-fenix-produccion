@@ -23,16 +23,16 @@
       "nota": "Investigación ampliada el 26 de noviembre: 45 hechos fechados (17 confirmados, 27 atribuidos y 1 pendiente) en la pestaña Investigación de la propuesta. La tabla de 32 datos clave queda con 19 confirmados y 13 atribuidos."
     },
     "3": {
-      "estado": "en_curso",
+      "estado": "hecho",
       "plan": "2026-11-29",
-      "real": null,
-      "nota": "En la carpeta: ficha del FBI con «Captured» y dos cortes del pódcast del FBI. Faltan 10 piezas (inventario en la propuesta): 9 necesitan permiso de descarga del creador, entre ellas la ficha del FBI en español y las fotos de evidencia del Departamento de Justicia, y el mapa se hace aquí."
+      "real": "2026-11-26",
+      "nota": "En 03_Chapo_Isidro/05_Evidencias: 65 piezas nuevas en 9 carpetas con su registro de fuentes y licencias (00_fuentes_y_licencias.txt) e inventario para el montaje. Destacan el video de cámaras corporales de Defensa (87 s), 12 fotos oficiales de la captura y la llegada a la CDMX, el cartel de recompensa en español, el comunicado del DOJ del 21 de noviembre, documentos del Tesoro censurados por el canal, 8 titulares de prensa sin publicidad, el mapa de la Operación Centella en capas y 6 fotos de lugares con licencia libre. La carpeta 99 es solo de consulta."
     },
     "4": {
       "estado": "hecho",
       "plan": "2026-11-29",
       "real": "2026-11-26",
-      "nota": "Aprobado por el creador el 26 de noviembre (pestaña «Investigación» de la propuesta). Antes de grabar la voz se cierran: el resultado de la audiencia del 28 de noviembre, la versión estenográfica de la conferencia del 23 (saldo y nombre «Operativo Centella»), el comunicado del Tesoro de 2013 y la nota de Infobae sobre San Diego."
+      "nota": "Aprobado por el creador el 26 de noviembre (pestaña «Investigación» de la propuesta). Cerrados el 26: saldo oficial y nombre «Operación Centella» (versión estenográfica del 23: 16 agresores y 4 militares muertos, 10 heridos, 361 elementos y 14 aeronaves), la cifra del Tesoro de 2013 y San Diego (lo procesa la Fiscalía del Distrito Sur de California). Sigue abierto: la audiencia del sábado 28 de noviembre, que ajusta el cierre del guion antes de grabar."
     },
     "5": {
       "estado": "pendiente",
@@ -233,6 +233,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "Decisión del creador: un mismo material de archivo sale como máximo dos veces por video, nunca seguido y con al menos un minuto de distancia; si falta, se busca más material en lugar de repetir. Aplica desde el video 3 y para todos los siguientes. Se agregó una revisión automática de la lista de planos que frena el render si algo se repite (el video 2, ya subido, tenía 20 clips con tres usos o más)."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "Evidencias del video 3 entregadas en el PC: video oficial del operativo, fotos de Defensa con los ojos cubiertos, documentos de EE. UU. y de México, versiones censuradas (familiares ocultos, con la aclaración al pie), titulares limpios, mapa en capas y lugares reales con licencia libre. Todo con fuente, fecha y uso permitido en 00_fuentes_y_licencias.txt."
     }
   ],
   "contexto": "Tercer video del canal y primero fuera de Colombia. El caso sigue abierto (juicio en México y extradición pedida por EE. UU.), así que el video lleva fecha de corte."
