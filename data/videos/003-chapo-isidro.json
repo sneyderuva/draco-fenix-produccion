@@ -20,7 +20,7 @@
       "estado": "en_curso",
       "plan": "2026-11-28",
       "real": null,
-      "nota": "Arranca el 26 de noviembre con 20 datos clave: 10 confirmados, 5 atribuidos y 5 por verificar (tabla en la propuesta)."
+      "nota": "Primer día (26 nov): 22 datos clave, 13 confirmados con documentos oficiales, 8 atribuidos y 1 por verificar (la detención de julio de 2014). Tabla en la propuesta."
     },
     "3": {
       "estado": "pendiente",
@@ -134,6 +134,21 @@
       "titulo": "Infobae: el documento de San Diego (24 nov 2026)",
       "url": "https://www.infobae.com/mexico/2026/11/24/por-que-estaba-libre-el-chapo-isidro-habria-comparecido-ante-una-corte-de-san-diego-en-2025/",
       "nota": "Leída"
+    },
+    {
+      "titulo": "Tesoro de EE. UU.: comunicado de enero de 2013 sobre la organización Meza Flores",
+      "url": "https://home.treasury.gov/news/press-releases/tg1824",
+      "nota": "Leída: parentescos (padres, esposa, hermana y tres tíos), detención de su tío Agustín en julio de 2012 y giro de las tres empresas"
+    },
+    {
+      "titulo": "Tesoro de EE. UU.: organigrama de la organización Meza Flores (enero de 2013)",
+      "url": "https://ofac.treasury.gov/media/14421/download",
+      "nota": "Leída"
+    },
+    {
+      "titulo": "Riodoce, traducido por Borderland Beat: la suspensión por 5.000 pesos (septiembre de 2017)",
+      "url": "https://borderlandbeat.com/2017/09/chapo-isidro-free-on-5000-peso-bond.html",
+      "nota": "Leída: amparo de 2017, operativo de julio de 2014 y detenciones de sus tíos"
     }
   ],
   "enlaces": {
@@ -152,6 +167,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "El creador prefirió el título «El Chapo Isidro antes del Chapo Isidro» (81/100) y aprobó la propuesta. Arranca la investigación para el domingo 6 de diciembre."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "Primer día de investigación: el Tesoro confirma que «El Charmín» era tío del capo y no su sobrino, y registra Navojoa en Sinaloa por error. Riodoce reporta que en 2017 un juez frenó una orden de captura por un depósito de 5.000 pesos. Se creó la carpeta 03_Chapo_Isidro en el PC."
     }
   ],
   "contexto": "Tercer video del canal y primero fuera de Colombia. El caso sigue abierto (juicio en México y extradición pedida por EE. UU.), así que el video lleva fecha de corte."
