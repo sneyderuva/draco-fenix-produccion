@@ -1,11 +1,12 @@
 #!/usr/bin/env node
 // Revisa la lista de planos de un video antes de renderizar.
-// Regla del creador (26 de noviembre de 2026, desde el video 3): un mismo material de archivo
-// («stock») sale como máximo dos veces en un video, nunca en planos seguidos y con al menos
-// 60 segundos entre una aparición y la otra. Las recreaciones cuentan como material de archivo.
+// Regla del creador (27 de noviembre de 2026, desde el video 3): ningún material de archivo
+// («stock») se repite en un video; todo sale de Canva Pro. Las recreaciones cuentan como material
+// de archivo. Antes (26 de noviembre) se permitían dos apariciones, nunca en planos seguidos y con
+// al menos 60 segundos entre una y otra: con --max 2 se revisa esa regla anterior.
 // Las evidencias y los lugares reales pueden volver cuando la voz los retoma, pero no en planos seguidos.
 //
-// Uso: node scripts/revisar_planos.mjs <planos.json> [--max 2] [--separacion 60]
+// Uso: node scripts/revisar_planos.mjs <planos.json> [--max 1] [--separacion 60]
 // Cada plano: { vis, ini, fin, tipo?, fuente?, encuadre? }
 //   tipo: archivo | recreacion | real | grafico. Si falta, se deduce del prefijo de «vis»:
 //         D = archivo, R = real, el resto (C, E, T, G, X, L, K, F, CORTINILLA…) = gráfico del canal.
@@ -20,11 +21,11 @@ const opcion = (nombre, porDefecto) => {
   const i = args.indexOf(nombre);
   return i >= 0 ? Number(args.splice(i, 2)[1]) : porDefecto;
 };
-const MAX = opcion('--max', 2);
+const MAX = opcion('--max', 1);
 const SEPARACION = opcion('--separacion', 60);
 const ruta = args[0];
 if (!ruta) {
-  console.error('Uso: node scripts/revisar_planos.mjs <planos.json> [--max 2] [--separacion 60]');
+  console.error('Uso: node scripts/revisar_planos.mjs <planos.json> [--max 1] [--separacion 60]');
   process.exit(2);
 }
 const datos = JSON.parse(fs.readFileSync(ruta, 'utf8'));

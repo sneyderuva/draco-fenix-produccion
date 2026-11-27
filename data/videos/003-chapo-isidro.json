@@ -47,10 +47,10 @@
       "nota": "Título preferido: «El Chapo Isidro antes del Chapo Isidro». Miniaturas por hacer: A «4 VECES LIBRE», B «¿QUIÉN ERA?» y C «TODA LA FAMILIA»."
     },
     "7": {
-      "estado": "pendiente",
+      "estado": "en_curso",
       "plan": "2026-12-02",
       "real": null,
-      "nota": "Adelantados para el montaje: carpeta «Abramos el expediente» N.º 003 (03_Chapo_Isidro/06_Edicion_Filmora/insumos), fichas de verificación EN DEBATE, CONFIRMADO y ¿PURA CARRETA? y cortinilla v3 (00_Plantilla_canal). Conteo hecho con el guion v1: 26 búsquedas en Canva Pro (una es recreación) y 2 imágenes de archivo de la carpeta 09 para 29 planos, sin repetir salvo las luces de fiesta del gancho y el cierre; 19 gráficos del canal por hacer. Lista en 02_Guion/04_material_de_archivo.md."
+      "nota": "Decisión del creador del 27 de noviembre: todo el material de apoyo sale de Canva Pro y ningún clip de archivo se repite. Guion v1 ajustado: 144 planos, 48 de archivo con 48 clips distintos (D01 a D48; uno es recreación) y revisar_planos sin errores con una aparición por clip. Los helicópteros de la carpeta 09 pasan a clips de Canva y los planos de archivo de 10 s o más se partieron en dos clips. Lista de búsqueda en español y en inglés, con la duración de cada plano, en 02_Guion/04_material_de_archivo.md y 05_busqueda_canva.json. Falta la sesión de Canva en un navegador del PC (Chrome con la extensión de Claude o el navegador de la app de escritorio) para buscar los clips y exportarlos a 04_Material_de_apoyo. Ya adelantados: carpeta «Abramos el expediente» N.º 003, fichas de verificación y cortinilla v3. Faltan los 19 gráficos del canal."
     },
     "8": {
       "estado": "en_curso",
@@ -249,6 +249,10 @@
     {
       "fecha": "2026-11-27",
       "texto": "Voz del video 3 grabada desde la conexión con ElevenLabs: 10 de 11 secciones, con registro y notas para el montaje en 03_Voz. Lo que queda del plan Starter alcanza para la parte que falta y un video más antes del 26 de diciembre."
+    },
+    {
+      "fecha": "2026-11-27",
+      "texto": "Video 3: material de archivo sin ninguna repetición, 48 clips de Canva Pro (uno por plano). La descarga espera la sesión de Canva en el PC."
     }
   ],
   "contexto": "Tercer video del canal y primero fuera de Colombia. El caso sigue abierto (juicio en México y extradición pedida por EE. UU.), así que el video lleva fecha de corte."
