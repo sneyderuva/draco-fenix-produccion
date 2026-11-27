@@ -35,10 +35,10 @@
       "nota": "Aprobado por el creador el 26 de noviembre (pestaña «Investigación» de la propuesta). Cerrados el 26: saldo oficial y nombre «Operación Centella» (versión estenográfica del 23: 16 agresores y 4 militares muertos, 10 heridos, 361 elementos y 14 aeronaves), la cifra del Tesoro de 2013 y San Diego (lo procesa la Fiscalía del Distrito Sur de California). Sigue abierto: la audiencia del sábado 28 de noviembre, que ajusta el cierre del guion antes de grabar."
     },
     "5": {
-      "estado": "espera",
+      "estado": "hecho",
       "plan": "2026-11-30",
-      "real": null,
-      "nota": "Guion v1 entregado el 27 de noviembre para aprobación (03_Chapo_Isidro/02_Guion en el PC): gancho y nueve bloques en orden cronológico, unos 18 minutos y 2.673 palabras, 16 fichas de verificación y 4 cortes 9:16 marcados. Texto para la voz en 11 audios, unos 15.540 caracteres. La parte 2 del bloque 9 espera la frase de la audiencia del sábado 28."
+      "real": "2026-11-27",
+      "nota": "Aprobado por el creador el 27 de noviembre, al pedir la voz completa después de la prueba. Guion v1 en 03_Chapo_Isidro/02_Guion: gancho y nueve bloques, unos 18 minutos y medio con la cortinilla y los audios del FBI. Después de la prueba de voz se ajustó una frase («cerca de 73 kilos»)."
     },
     "6": {
       "estado": "pendiente",
@@ -53,10 +53,10 @@
       "nota": "Adelantados para el montaje: carpeta «Abramos el expediente» N.º 003 (03_Chapo_Isidro/06_Edicion_Filmora/insumos), fichas de verificación EN DEBATE, CONFIRMADO y ¿PURA CARRETA? y cortinilla v3 (00_Plantilla_canal). Conteo hecho con el guion v1: 26 búsquedas en Canva Pro (una es recreación) y 2 imágenes de archivo de la carpeta 09 para 29 planos, sin repetir salvo las luces de fiesta del gancho y el cierre; 19 gráficos del canal por hacer. Lista en 02_Guion/04_material_de_archivo.md."
     },
     "8": {
-      "estado": "pendiente",
+      "estado": "en_curso",
       "plan": "2026-12-01",
       "real": null,
-      "nota": "Plan Starter de ElevenLabs activo en la cuenta del conector desde el 26 de noviembre: 35.356 caracteres disponibles (30.000 del plan más 5.356 que quedaban del gratuito) y licencia comercial. Alcanza para este video (unos 14.000) y para el siguiente."
+      "nota": "10 de 11 audios grabados el 27 de noviembre en 03_Chapo_Isidro/03_Voz (voz David, Eleven v4, estabilidad 0,17 y similitud 0,87; 14 min 58 s), revisados contra el guion con 0,96 a 0,99 de coincidencia. Bloque 1 regrabado y dos parches (Choix y Culiacán). Falta la parte 2 del bloque 9, después de la audiencia del sábado 28. Créditos: 16.252 de 35.356 usados; quedan 19.104 hasta el 26 de diciembre."
     },
     "9": {
       "estado": "pendiente",
@@ -245,6 +245,10 @@
     {
       "fecha": "2026-11-27",
       "texto": "Guion v1 del video 3 listo para aprobación: el hilo es la familia (tíos, sanciones de 2013 y los mensajes sobre fiestas que, según The New York Times, ayudaron a ubicarlo). Solo hechos de la verificación aprobada; la lista previa de planos pasa revisar_planos.mjs sin errores."
+    },
+    {
+      "fecha": "2026-11-27",
+      "texto": "Voz del video 3 grabada desde la conexión con ElevenLabs: 10 de 11 secciones, con registro y notas para el montaje en 03_Voz. Lo que queda del plan Starter alcanza para la parte que falta y un video más antes del 26 de diciembre."
     }
   ],
   "contexto": "Tercer video del canal y primero fuera de Colombia. El caso sigue abierto (juicio en México y extradición pedida por EE. UU.), así que el video lleva fecha de corte."
