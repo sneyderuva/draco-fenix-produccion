@@ -22,6 +22,8 @@ Referencia del creador: el canal Fusgo. Se mezclan imágenes reales con material
 - Menos diapositivas de texto y nada de pantallas en negro largas: cada frase del guion debe tener una imagen que la acompañe.
 - Las evidencias (cartas, páginas de prensa, pasaportes, sellos) no se tapan ni se reemplazan.
 - El material de archivo nunca se presenta como si fuera del caso. Las recreaciones llevan el rótulo «RECREACIÓN».
+- Los videos ya subidos no se modifican: las mejoras se aplican desde el siguiente video (decisión del creador del 26 de noviembre de 2026).
+- Desde el video 3: cortinilla v3 (fotos reales de stock en lugar de ilustraciones), la carpeta del expediente para «Abramos el expediente» y las fichas de verificación EN DEBATE, CONFIRMADO y ¿PURA CARRETA?. Están en 00_Plantilla_canal; la carpeta se genera con el número y el asunto de cada video.
 - Canva Pro contratado por el creador el 25 de noviembre de 2026: sus fotos y videos de archivo son la fuente principal del material de apoyo. Fuera de Canva, solo recursos gratuitos; ninguna otra compra sin que el creador la pida.
 
 ## Tono y meta de monetización

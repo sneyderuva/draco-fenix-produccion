@@ -50,7 +50,7 @@
       "estado": "pendiente",
       "plan": "2026-12-02",
       "real": null,
-      "nota": ""
+      "nota": "Adelantados para el montaje: carpeta «Abramos el expediente» N.º 003 (03_Chapo_Isidro/06_Edicion_Filmora/insumos), fichas de verificación EN DEBATE, CONFIRMADO y ¿PURA CARRETA? y cortinilla v3 (00_Plantilla_canal). Falta el resto de insumos, después del guion."
     },
     "8": {
       "estado": "pendiente",
@@ -217,6 +217,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "Gancho nuevo en la propuesta, al estilo del video 2: contexto de México (ACLED 2025, INEGI 2025, Registro Nacional de Personas Desaparecidas) y paso al personaje con su ficha del FBI. Cada cifra va con su fuente."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "Sellos premium para los próximos videos: carpeta del expediente en cartulina manila con el sello en tinta roja («Abramos el expediente», N.º 003) y fichas de verificación clavadas con chincheta (EN DEBATE, CONFIRMADO y ¿PURA CARRETA?). Cortinilla v3 con fotos reales de stock de Canva Pro (marcadores de evidencia, tarjeta de huellas y esposas) en lugar de las ilustradas. Por decisión del creador, los videos ya subidos no se modifican."
     }
   ],
   "contexto": "Tercer video del canal y primero fuera de Colombia. El caso sigue abierto (juicio en México y extradición pedida por EE. UU.), así que el video lleva fecha de corte."
