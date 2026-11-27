@@ -56,7 +56,7 @@
       "estado": "pendiente",
       "plan": "2026-12-01",
       "real": null,
-      "nota": "Depende de confirmar el plan pago de ElevenLabs."
+      "nota": "Plan Starter de ElevenLabs activo en la cuenta del conector desde el 26 de noviembre: 35.356 caracteres disponibles (30.000 del plan más 5.356 que quedaban del gratuito) y licencia comercial. Alcanza para este video (unos 14.000) y para el siguiente."
     },
     "9": {
       "estado": "pendiente",
@@ -181,6 +181,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "El creador entregó la ficha del FBI, ya marcada «Captured», y el pódcast «Inside the FBI» del 14 de febrero de 2025. Del pódcast salieron dos cortes de menos de 20 segundos, sin música de fondo."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "El creador pagó el plan Starter de ElevenLabs en la cuenta conectada: 35.356 caracteres disponibles. Queda resuelta la voz del video 3."
     }
   ],
   "contexto": "Tercer video del canal y primero fuera de Colombia. El caso sigue abierto (juicio en México y extradición pedida por EE. UU.), así que el video lleva fecha de corte."
