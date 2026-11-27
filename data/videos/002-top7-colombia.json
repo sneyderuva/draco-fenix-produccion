@@ -47,10 +47,10 @@
       "nota": "Título elegido por el creador: «Los 7 asesinos más peligrosos de Colombia y el error que los delató». Prueba A/B elegida por el creador: G «La llamada» (Escobar, foto de Semana, 1993), H «Un grito» (López) e I «Un zapato» (Garavito), con fotos de El Tiempo (2023) y Semana (1999); listas en 08_Miniatura/prueba_AB."
     },
     "7": {
-      "estado": "en_curso",
+      "estado": "hecho",
       "plan": "2026-11-27",
-      "real": null,
-      "nota": "Stock en Canva Pro: 79 piezas (67 videos y 12 fotos) descargadas en 04_Material_de_apoyo con nombres D01 a D79, en el orden del guion. D63 rehecha con la foto de una mochila rosada y negra de Arte y Artesanías (todos los derechos reservados): el creador pide el permiso a la tienda antes de publicar; el correo quedó como borrador en Gmail, dirigido a myriamcvg80@gmail.com y con plazo de respuesta al sábado 28 de noviembre. Material real en curso según la pestaña «Material real»."
+      "real": "2026-11-26",
+      "nota": "Insumos completos (confirmado por el creador el 26 de noviembre): stock de Canva Pro en 04_Material_de_apoyo (79 piezas, D01 a D79, en el orden del guion), material real y fotos de los casos. El creador ya tiene la respuesta de la tienda sobre la foto de la mochila (D63)."
     },
     "8": {
       "estado": "hecho",
@@ -65,16 +65,16 @@
       "nota": "Pista de efectos v5: 625 efectos de Mixkit y del proyector (máquina de escribir, papel, proyector, golpes, barridos, latidos, subidas y ambientes) en tres pistas: golpes y transiciones, foley, ambientes; cada foto real entra con obturador y un destello, y en los créditos suena el proyector en cada foto. Nivel por sonoridad respecto a la voz y atenuación automática para no taparla. Voz con limitador y mezcla final a -14 LUFS, -2 dBTP."
     },
     "10": {
-      "estado": "en_curso",
+      "estado": "hecho",
       "plan": "2026-11-29",
-      "real": null,
-      "nota": "Montaje v5 en 07_Exportados/top7_montaje_v5.mp4 (20:13): fotos reales de los siete asesinos, cada una justo después de su nombre y con el medio que la publicó; 41 fotos de lugares; créditos completos (141 s), que ahora cierran con las siete fotos de prensa; tarjeta final de 20 s. Proyecto top7_v5.wfp con voz, música y tres pistas de efectos separadas, listo en 02_Top7_Colombia."
+      "real": "2026-11-26",
+      "nota": "Montaje terminado (v5) en 07_Exportados/top7_montaje_v5.mp4 (20:13): fotos reales de los siete asesinos, cada una justo después de su nombre y con el medio que la publicó; 41 fotos de lugares; créditos completos (141 s), que cierran con las siete fotos de prensa; tarjeta final de 20 s. Proyecto top7_v5.wfp con voz, música y tres pistas de efectos separadas, en 02_Top7_Colombia."
     },
     "11": {
-      "estado": "en_curso",
+      "estado": "hecho",
       "plan": "2026-11-29",
-      "real": null,
-      "nota": "Subido el 26 de noviembre en 1440p (07_Exportados/top7_montaje_v5_1440p.mp4): https://youtu.be/KRsjtXdE3cY. Programado como público para el domingo 29 de noviembre de 2026, 6:00 p. m. (Bogotá), sin estreno; prueba A/B de miniaturas G, H e I; descripción con capítulos y créditos (4.729 caracteres); 15 etiquetas; Noticias y política; español (Latinoamérica); no creado para niños; uso de IA declarado. Falta: pantalla final y comentario fijado hacia Pozzetto cuando salga el 4 de diciembre."
+      "real": "2026-11-26",
+      "nota": "Subido el 26 de noviembre en 1440p (07_Exportados/top7_montaje_v5_1440p.mp4) y programado como público para el domingo 29 de noviembre de 2026, 6:00 p. m. (Bogotá), sin estreno: https://youtu.be/KRsjtXdE3cY. Prueba A/B de miniaturas G, H e I; descripción con capítulos y créditos (4.729 caracteres); 15 etiquetas; Noticias y política; español (Latinoamérica); no creado para niños; uso de IA declarado. Cuando salga Pozzetto (4 de diciembre): pantalla final y comentario fijado hacia ese video."
     },
     "12": {
       "estado": "pendiente",
@@ -216,6 +216,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "El creador movió la publicación del video 2 al domingo 29 de noviembre a las 6:00 p. m.; YouTube ya la tiene programada para esa fecha. El permiso de la foto de la mochila (D63) debe llegar antes del domingo."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "El creador confirmó que los insumos y el montaje están terminados y que el video está programado: pasos 7, 10 y 11 cerrados."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."

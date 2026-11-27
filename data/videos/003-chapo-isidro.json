@@ -29,10 +29,10 @@
       "nota": "En la carpeta: ficha del FBI con «Captured» y dos cortes del pódcast del FBI. Faltan 10 piezas (inventario en la propuesta): 9 necesitan permiso de descarga del creador, entre ellas la ficha del FBI en español y las fotos de evidencia del Departamento de Justicia, y el mapa se hace aquí."
     },
     "4": {
-      "estado": "pendiente",
+      "estado": "hecho",
       "plan": "2026-11-29",
-      "real": null,
-      "nota": "Se revisa con el creador al cerrar el paso 3. Antes de la voz: resultado de la audiencia del 28 de noviembre y versión estenográfica de la mañanera del 23."
+      "real": "2026-11-26",
+      "nota": "Aprobado por el creador el 26 de noviembre (pestaña «Investigación» de la propuesta). Antes de grabar la voz se cierran: el resultado de la audiencia del 28 de noviembre, la versión estenográfica de la conferencia del 23 (saldo y nombre «Operativo Centella»), el comunicado del Tesoro de 2013 y la nota de Infobae sobre San Diego."
     },
     "5": {
       "estado": "pendiente",
@@ -225,6 +225,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "Cortinilla v3 con sonido nuevo: sin swoosh; las fotos y los papeles suenan a papel y a hoja que se pasa, como pidió el creador para todos los videos que vienen. La versión anterior quedó en 00_Plantilla_canal/99_Archivo_de_trabajo."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "El creador aprobó la verificación (paso 4) y autorizó descargar todo el material real y oficial posible (audio, video y fotos)."
     }
   ],
   "contexto": "Tercer video del canal y primero fuera de Colombia. El caso sigue abierto (juicio en México y extradición pedida por EE. UU.), así que el video lleva fecha de corte."
