@@ -50,7 +50,7 @@
       "estado": "en_curso",
       "plan": "2026-12-02",
       "real": null,
-      "nota": "Decisión del creador del 27 de noviembre: todo el material de apoyo sale de Canva Pro y ningún clip de archivo se repite. Guion v1 ajustado: 144 planos, 48 de archivo con 48 clips distintos (D01 a D48; uno es recreación) y revisar_planos sin errores con una aparición por clip. Los helicópteros de la carpeta 09 pasan a clips de Canva y los planos de archivo de 10 s o más se partieron en dos clips. Lista de búsqueda en español y en inglés, con la duración de cada plano, en 02_Guion/04_material_de_archivo.md y 05_busqueda_canva.json. Falta la sesión de Canva en un navegador del PC (Chrome con la extensión de Claude o el navegador de la app de escritorio) para buscar los clips y exportarlos a 04_Material_de_apoyo. Ya adelantados: carpeta «Abramos el expediente» N.º 003, fichas de verificación y cortinilla v3. Faltan los 19 gráficos del canal."
+      "nota": "Decisión del creador del 27 de noviembre: todo el material de apoyo sale de Canva Pro y ningún clip de archivo se repite. Guion v1 ajustado: 144 planos, 48 de archivo con 48 clips distintos (D01 a D48; uno es recreación) y revisar_planos sin errores con una aparición por clip. Lista de búsqueda en 02_Guion/04_material_de_archivo.md y 05_busqueda_canva.json. Falta la sesión de Canva en un navegador del PC (Chrome con la extensión de Claude o el navegador de la app de escritorio) para buscar los clips y exportarlos a 04_Material_de_apoyo. Gráficos del canal listos: 28 planos animados en el estilo del expediente (papel, máquina de escribir, sellos e hilo rojo) en 06_Edicion_Filmora/insumos/graficos_v3, con su vista general y su lista; falta G-AUDIENCIA, con el resultado del 28. Ya adelantados: carpeta «Abramos el expediente» N.º 003, fichas de verificación, cortinilla v3 y mapas."
     },
     "8": {
       "estado": "en_curso",
@@ -253,6 +253,10 @@
     {
       "fecha": "2026-11-27",
       "texto": "Video 3: material de archivo sin ninguna repetición, 48 clips de Canva Pro (uno por plano). La descarga espera la sesión de Canva en el PC."
+    },
+    {
+      "fecha": "2026-11-27",
+      "texto": "Video 3: 28 gráficos animados del canal en el estilo del expediente (índice de ACLED, detenciones con sello LIBRE, árbol de la familia, círculo cercano, saldo del operativo y pantalla final, entre otros). Falta el de la audiencia del 28."
     }
   ],
   "contexto": "Tercer video del canal y primero fuera de Colombia. El caso sigue abierto (juicio en México y extradición pedida por EE. UU.), así que el video lleva fecha de corte."
