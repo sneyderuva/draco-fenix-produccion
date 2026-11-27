@@ -20,19 +20,19 @@
       "estado": "hecho",
       "plan": "2026-11-28",
       "real": "2026-11-26",
-      "nota": "Investigación cerrada el 26 de noviembre: 32 datos clave, 18 confirmados con documentos o declaraciones oficiales, 13 atribuidos y 1 por verificar («Serafín», ¿su primo?). Tabla en la propuesta."
+      "nota": "Investigación ampliada el 26 de noviembre: 45 hechos fechados (17 confirmados, 27 atribuidos y 1 pendiente) en la pestaña Investigación de la propuesta. La tabla de 32 datos clave queda con 19 confirmados y 13 atribuidos."
     },
     "3": {
       "estado": "en_curso",
       "plan": "2026-11-29",
       "real": null,
-      "nota": "En la carpeta: ficha del FBI con «Captured» y dos cortes del pódcast del FBI. Faltan 8 piezas (inventario en la propuesta): 7 necesitan permiso de descarga del creador y el mapa se hace aquí."
+      "nota": "En la carpeta: ficha del FBI con «Captured» y dos cortes del pódcast del FBI. Faltan 10 piezas (inventario en la propuesta): 9 necesitan permiso de descarga del creador, entre ellas la ficha del FBI en español y las fotos de evidencia del Departamento de Justicia, y el mapa se hace aquí."
     },
     "4": {
       "estado": "pendiente",
       "plan": "2026-11-29",
       "real": null,
-      "nota": ""
+      "nota": "Se revisa con el creador al cerrar el paso 3. Antes de la voz: resultado de la audiencia del 28 de noviembre y versión estenográfica de la mañanera del 23."
     },
     "5": {
       "estado": "pendiente",
@@ -209,6 +209,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "Investigación cerrada. Hallazgos: «El Charmín» era su tío; el Tesoro ubica Navojoa en Sinaloa por error; el FBI cuenta 20 años de carrera, primero como traficante independiente; la Sedena registra una detención el 9 de julio de 2014 y al día siguiente él escapó de un operativo con 12 muertos; jueces frenaron sus órdenes de captura en 2017 y 2021."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "Investigación ampliada en la pestaña Investigación: 45 hechos con fecha y fuente. Correcciones: Estados Unidos atribuye el decomiso récord de fentanilo a los Inzunza, no a él; su tío Agustín fue extraditado en 2015; «Serafín» es su primo, según la FGR. Nuevo: el 3 de noviembre de 2025 lo dieron por capturado en La Brecha y no era cierto; según The New York Times, lo ubicaron con drones y mensajes familiares; la inteligencia militar tenía fotos aéreas de sus cabañas desde 2022. Fuera del guion: el video «Nos tocó, ya se acabó esto» y el nombre «Operación Centella», sin confirmar."
     }
   ],
   "contexto": "Tercer video del canal y primero fuera de Colombia. El caso sigue abierto (juicio en México y extradición pedida por EE. UU.), así que el video lleva fecha de corte."
