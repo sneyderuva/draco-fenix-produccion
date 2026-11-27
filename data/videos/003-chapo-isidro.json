@@ -23,10 +23,10 @@
       "nota": "Primer día (26 nov): 22 datos clave, 13 confirmados con documentos oficiales, 8 atribuidos y 1 por verificar (la detención de julio de 2014). Tabla en la propuesta."
     },
     "3": {
-      "estado": "pendiente",
+      "estado": "en_curso",
       "plan": "2026-11-29",
       "real": null,
-      "nota": "Ficha del FBI, documentos del Tesoro y de la Justicia de EE. UU. y material oficial de la Defensa. Las fotos de personas las aporta el creador."
+      "nota": "Ficha del FBI con la marca «Captured», entregada por el creador el 26 nov (05_Evidencias/caras_y_pruebas, con recorte sin sello para miniaturas). Pódcast «Inside the FBI» (14 feb 2025), dominio público: clip 1 de 17 s (orígenes) y clip 2 de 11 s (cierre), con subtítulos en español (05_Evidencias/audio_FBI)."
     },
     "4": {
       "estado": "pendiente",
@@ -149,10 +149,16 @@
       "titulo": "Riodoce, traducido por Borderland Beat: la suspensión por 5.000 pesos (septiembre de 2017)",
       "url": "https://borderlandbeat.com/2017/09/chapo-isidro-free-on-5000-peso-bond.html",
       "nota": "Leída: amparo de 2017, operativo de julio de 2014 y detenciones de sus tíos"
+    },
+    {
+      "titulo": "FBI: pódcast «Inside the FBI», Top Ten Fugitive Fausto Isidro Meza-Flores (14 feb 2025)",
+      "url": "https://www.fbi.gov/podcasts",
+      "nota": "Archivo entregado por el creador; transcrito. Dominio público (Departamento de Justicia)"
     }
   ],
   "enlaces": {
-    "documento": "https://claude.ai/artifact/NPPWFek8KJBeSuMs3eJtTE"
+    "documento": "https://claude.ai/artifact/NPPWFek8KJBeSuMs3eJtTE",
+    "canva": "https://www.canva.com/design/DAHcEGRgHvI/Z8iu1hIktV0mMWmKAGnHgw/edit"
   },
   "metricas": null,
   "bitacora": [
@@ -171,6 +177,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "Primer día de investigación: el Tesoro confirma que «El Charmín» era tío del capo y no su sobrino, y registra Navojoa en Sinaloa por error. Riodoce reporta que en 2017 un juez frenó una orden de captura por un depósito de 5.000 pesos. Se creó la carpeta 03_Chapo_Isidro en el PC."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "El creador entregó la ficha del FBI, ya marcada «Captured», y el pódcast «Inside the FBI» del 14 de febrero de 2025. Del pódcast salieron dos cortes de menos de 20 segundos, sin música de fondo."
     }
   ],
   "contexto": "Tercer video del canal y primero fuera de Colombia. El caso sigue abierto (juicio en México y extradición pedida por EE. UU.), así que el video lleva fecha de corte."
