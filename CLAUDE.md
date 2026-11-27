@@ -57,6 +57,10 @@ Meta del creador (26 de noviembre de 2026): dos videos largos por semana, jueves
 - El guion de voz va sin códigos: cada sección se copia completa y sale en un solo audio. Las etiquetas de emoción van en inglés y entre corchetes.
 - La base es [serious] y [thoughtful]. [hushed] se usa muy pocas veces, solo en un momento puntual, y [whispers] no se usa.
 
+## Efectos de sonido
+
+- Nada de swoosh ni whoosh: suenan burlescos y le quitan seriedad al video (decisión del creador del 26 de noviembre de 2026). Las entradas y las transiciones suenan a papel: pasar hoja, papel que se desliza o acetato. La cortinilla v3 ya va así.
+
 ## Instagram (@dracofenix_)
 
 Perfil de creador («Creador(a) digital») configurado el 25 de noviembre de 2026: nombre «Draco Fénix», la misma foto del canal de YouTube y la presentación «Crimen real contado desde la investigación. Videos completos en YouTube ↓». El enlace a YouTube solo se agrega desde la app del celular.
