@@ -35,10 +35,10 @@
       "nota": "Aprobado por el creador el 26 de noviembre (pestaña «Investigación» de la propuesta). Cerrados el 26: saldo oficial y nombre «Operación Centella» (versión estenográfica del 23: 16 agresores y 4 militares muertos, 10 heridos, 361 elementos y 14 aeronaves), la cifra del Tesoro de 2013 y San Diego (lo procesa la Fiscalía del Distrito Sur de California). Sigue abierto: la audiencia del sábado 28 de noviembre, que ajusta el cierre del guion antes de grabar."
     },
     "5": {
-      "estado": "pendiente",
+      "estado": "espera",
       "plan": "2026-11-30",
       "real": null,
-      "nota": "Gancho propuesto el 26 de noviembre (1 min 05 s), en la propuesta: México no está en guerra y aun así es cuarto en el índice de conflictos de ACLED 2025; luego, la ficha del FBI que solo dice «México». El guion completo se escribe cuando el creador apruebe el paso 4."
+      "nota": "Guion v1 entregado el 27 de noviembre para aprobación (03_Chapo_Isidro/02_Guion en el PC): gancho y nueve bloques en orden cronológico, unos 18 minutos y 2.673 palabras, 16 fichas de verificación y 4 cortes 9:16 marcados. Texto para la voz en 11 audios, unos 15.540 caracteres. La parte 2 del bloque 9 espera la frase de la audiencia del sábado 28."
     },
     "6": {
       "estado": "pendiente",
@@ -50,7 +50,7 @@
       "estado": "pendiente",
       "plan": "2026-12-02",
       "real": null,
-      "nota": "Adelantados para el montaje: carpeta «Abramos el expediente» N.º 003 (03_Chapo_Isidro/06_Edicion_Filmora/insumos), fichas de verificación EN DEBATE, CONFIRMADO y ¿PURA CARRETA? y cortinilla v3 (00_Plantilla_canal). Falta el resto de insumos, después del guion. Regla nueva: ningún material de archivo sale más de dos veces; con el guion listo se cuentan las frases que piden archivo y se consigue un clip distinto para cada una antes del montaje (revisión con scripts/revisar_planos.mjs)."
+      "nota": "Adelantados para el montaje: carpeta «Abramos el expediente» N.º 003 (03_Chapo_Isidro/06_Edicion_Filmora/insumos), fichas de verificación EN DEBATE, CONFIRMADO y ¿PURA CARRETA? y cortinilla v3 (00_Plantilla_canal). Conteo hecho con el guion v1: 26 búsquedas en Canva Pro (una es recreación) y 2 imágenes de archivo de la carpeta 09 para 29 planos, sin repetir salvo las luces de fiesta del gancho y el cierre; 19 gráficos del canal por hacer. Lista en 02_Guion/04_material_de_archivo.md."
     },
     "8": {
       "estado": "pendiente",
@@ -241,6 +241,10 @@
     {
       "fecha": "2026-11-27",
       "texto": "Evidencias del video 3 completas (112 archivos), como pidió el creador antes de pasar al guion. Wikimedia bloqueó las descargas desde el equipo de trabajo; se bajaron desde el PC del creador con las mismas licencias libres. Regla nueva: el material real de baja resolución va enmarcado y centrado, no a pantalla completa."
+    },
+    {
+      "fecha": "2026-11-27",
+      "texto": "Guion v1 del video 3 listo para aprobación: el hilo es la familia (tíos, sanciones de 2013 y los mensajes sobre fiestas que, según The New York Times, ayudaron a ubicarlo). Solo hechos de la verificación aprobada; la lista previa de planos pasa revisar_planos.mjs sin errores."
     }
   ],
   "contexto": "Tercer video del canal y primero fuera de Colombia. El caso sigue abierto (juicio en México y extradición pedida por EE. UU.), así que el video lleva fecha de corte."
