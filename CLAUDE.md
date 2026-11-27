@@ -26,6 +26,17 @@ Referencia del creador: el canal Fusgo. Se mezclan imágenes reales con material
 - Desde el video 3: cortinilla v3 (fotos reales de stock en lugar de ilustraciones), la carpeta del expediente para «Abramos el expediente» y las fichas de verificación EN DEBATE, CONFIRMADO y ¿PURA CARRETA?. Están en 00_Plantilla_canal; la carpeta se genera con el número y el asunto de cada video.
 - Canva Pro contratado por el creador el 25 de noviembre de 2026: sus fotos y videos de archivo son la fuente principal del material de apoyo. Fuera de Canva, solo recursos gratuitos; ninguna otra compra sin que el creador la pida.
 
+### Material de archivo sin repetir (decisión del creador del 26 de noviembre de 2026, desde el video 3)
+
+Repetir el mismo material de archivo le quita seriedad al video y desconecta a la audiencia.
+
+- Cada foto o video de archivo («stock») sale como máximo dos veces en un video, nunca en planos seguidos y con al menos 60 segundos entre una aparición y la otra. La segunda vez lleva otro encuadre o movimiento. Las recreaciones cuentan igual.
+- Si faltan imágenes, se busca más material (Canva Pro primero, luego recursos gratuitos) o se usa una evidencia real; nunca se rellena repitiendo.
+- Al buscar el material de un video, se cuentan las frases del guion que piden material de archivo y se consigue un clip distinto para cada una antes de armar el montaje. La segunda aparición es la excepción, no el plan.
+- Las evidencias y los lugares reales pueden volver cuando la voz los retoma, pero no en planos seguidos; al volver, se muestra otra parte del documento o con otro encuadre.
+- Cada plano de la lista lleva `tipo` (archivo, recreacion, real o grafico), `fuente` (el archivo o el ID de Canva; dos recortes del mismo clip comparten fuente) y `encuadre`.
+- Antes de renderizar, `node scripts/revisar_planos.mjs <planos.json>` debe pasar sin errores. Referencia: el video 2 (ya subido, no se modifica) usó 70 clips de archivo en 145 planos y 20 de ellos salieron tres veces o más; el tablero con hilo rojo salió 8 veces.
+
 ## Tono y meta de monetización
 
 Meta a corto plazo del creador (24 de noviembre de 2026): monetizar pronto, con videos más viscerales que no pierdan los anuncios. El avance se ve en la sección Canal del tablero (`meta_corto_plazo` en `data/canal.json`).

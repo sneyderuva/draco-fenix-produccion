@@ -50,7 +50,7 @@
       "estado": "pendiente",
       "plan": "2026-12-02",
       "real": null,
-      "nota": "Adelantados para el montaje: carpeta «Abramos el expediente» N.º 003 (03_Chapo_Isidro/06_Edicion_Filmora/insumos), fichas de verificación EN DEBATE, CONFIRMADO y ¿PURA CARRETA? y cortinilla v3 (00_Plantilla_canal). Falta el resto de insumos, después del guion."
+      "nota": "Adelantados para el montaje: carpeta «Abramos el expediente» N.º 003 (03_Chapo_Isidro/06_Edicion_Filmora/insumos), fichas de verificación EN DEBATE, CONFIRMADO y ¿PURA CARRETA? y cortinilla v3 (00_Plantilla_canal). Falta el resto de insumos, después del guion. Regla nueva: ningún material de archivo sale más de dos veces; con el guion listo se cuentan las frases que piden archivo y se consigue un clip distinto para cada una antes del montaje (revisión con scripts/revisar_planos.mjs)."
     },
     "8": {
       "estado": "pendiente",
@@ -229,6 +229,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "El creador aprobó la verificación (paso 4) y autorizó descargar todo el material real y oficial posible (audio, video y fotos)."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "Decisión del creador: un mismo material de archivo sale como máximo dos veces por video, nunca seguido y con al menos un minuto de distancia; si falta, se busca más material en lugar de repetir. Aplica desde el video 3 y para todos los siguientes. Se agregó una revisión automática de la lista de planos que frena el render si algo se repite (el video 2, ya subido, tenía 20 clips con tres usos o más)."
     }
   ],
   "contexto": "Tercer video del canal y primero fuera de Colombia. El caso sigue abierto (juicio en México y extradición pedida por EE. UU.), así que el video lleva fecha de corte."
