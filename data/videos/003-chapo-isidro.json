@@ -17,16 +17,16 @@
       "nota": "Propuesta aprobada por el creador el 26 de noviembre: tema, fecha (domingo 6 de diciembre) y enfoque «Antes del Chapo»."
     },
     "2": {
-      "estado": "en_curso",
+      "estado": "hecho",
       "plan": "2026-11-28",
-      "real": null,
-      "nota": "Primer día (26 nov): 22 datos clave, 13 confirmados con documentos oficiales, 8 atribuidos y 1 por verificar (la detención de julio de 2014). Tabla en la propuesta."
+      "real": "2026-11-26",
+      "nota": "Investigación cerrada el 26 de noviembre: 32 datos clave, 18 confirmados con documentos o declaraciones oficiales, 13 atribuidos y 1 por verificar («Serafín», ¿su primo?). Tabla en la propuesta."
     },
     "3": {
       "estado": "en_curso",
       "plan": "2026-11-29",
       "real": null,
-      "nota": "Ficha del FBI con la marca «Captured», entregada por el creador el 26 nov (05_Evidencias/caras_y_pruebas, con recorte sin sello para miniaturas). Pódcast «Inside the FBI» (14 feb 2025), dominio público: clip 1 de 17 s (orígenes) y clip 2 de 11 s (cierre), con subtítulos en español (05_Evidencias/audio_FBI)."
+      "nota": "En la carpeta: ficha del FBI con «Captured» y dos cortes del pódcast del FBI. Faltan 8 piezas (inventario en la propuesta): 7 necesitan permiso de descarga del creador y el mapa se hace aquí."
     },
     "4": {
       "estado": "pendiente",
@@ -154,6 +154,26 @@
       "titulo": "FBI: pódcast «Inside the FBI», Top Ten Fugitive Fausto Isidro Meza-Flores (14 feb 2025)",
       "url": "https://www.fbi.gov/podcasts",
       "nota": "Archivo entregado por el creador; transcrito. Dominio público (Departamento de Justicia)"
+    },
+    {
+      "titulo": "Excélsior: cronología de 2026",
+      "url": "https://www.excelsior.com.mx/nacional/cronologia-chapo-isidro-2026-excelsior",
+      "nota": "Leída: El Pichón, El Sagitario, Chacala, El 24, El Yukito y la captura"
+    },
+    {
+      "titulo": "Riodoce: «Se esfuma el Chapo Isidro», diez días de operativos (20 jul 2014)",
+      "url": "https://riodoce.mx/2014/07/20/se-esfuma-el-chapo-isidro-diez-dias-de-operativos-en-el-norte/",
+      "nota": "Operativo de julio de 2014: 12 muertos y él escapó"
+    },
+    {
+      "titulo": "Riodoce: «El Chapo Isidro vuelve a burlar a la FGR» (9 mar 2021)",
+      "url": "https://riodoce.mx/2021/03/09/el-chapo-isidro-vuelve-a-burlar-a-la-fgr/",
+      "nota": "Segunda orden de captura revocada"
+    },
+    {
+      "titulo": "Proceso: del lugarteniente al líder de los Beltrán Leyva (21 nov 2026)",
+      "url": "https://www.proceso.com.mx/nacional/2026/11/21/chapo-isidro-de-lugarteniente-a-lider-de-los-beltran-leyva-384104.html",
+      "nota": "Operativo de Choix, abril de 2010"
     }
   ],
   "enlaces": {
@@ -185,6 +205,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "El creador pagó el plan Starter de ElevenLabs en la cuenta conectada: 35.356 caracteres disponibles. Queda resuelta la voz del video 3."
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "Investigación cerrada. Hallazgos: «El Charmín» era su tío; el Tesoro ubica Navojoa en Sinaloa por error; el FBI cuenta 20 años de carrera, primero como traficante independiente; la Sedena registra una detención el 9 de julio de 2014 y al día siguiente él escapó de un operativo con 12 muertos; jueces frenaron sus órdenes de captura en 2017 y 2021."
     }
   ],
   "contexto": "Tercer video del canal y primero fuera de Colombia. El caso sigue abierto (juicio en México y extradición pedida por EE. UU.), así que el video lleva fecha de corte."
