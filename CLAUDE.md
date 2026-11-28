@@ -62,6 +62,8 @@ Meta del creador (26 de noviembre de 2026): dos videos largos por semana, jueves
 
 - No se borran carpetas ni archivos de producción (planos, voz, evidencias, material de apoyo, sonido y versiones anteriores): de ahí salen los cortes 9:16 para Shorts y Reels. Lo que ya no se usa pasa a 99_Archivo_de_trabajo; solo se borran las partes temporales de las copias al PC.
 - Los cortes verticales de cada video van en su carpeta 10_Shorts_y_Reels.
+- Copias al PC: los videos e imágenes viajan dentro de paquetes .tar.gz (enviados sueltos, los MP4 llegan alterados) y se verifican con md5 al desempacar. Los paquetes y partes temporales quedan en `_to_delete` de la carpeta del video hasta que el creador los borre.
+- Cada video lleva su proyecto de Filmora en 06_Edicion_Filmora (planos en orden en Video 1; voz, música y efectos en tres pistas de audio), además del MP4 exportado en 07_Exportados.
 
 ## Voz (ElevenLabs)
 
