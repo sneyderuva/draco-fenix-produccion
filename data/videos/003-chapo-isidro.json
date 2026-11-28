@@ -80,7 +80,7 @@
       "estado": "en_curso",
       "plan": "2026-12-07",
       "real": null,
-      "nota": "Cuatro cortes 9:16 aprobados por el creador el 28 de noviembre (10_Shorts_y_Reels): S01 «¿Dónde nació?», S02 «4 detenciones», S03 «5.000 pesos» y S04 «La noche del 20». Se publican después del estreno del 6 de diciembre, enlazados al video completo."
+      "nota": "Cuatro cortes 9:16 aprobados por el creador el 28 de noviembre (10_Shorts_y_Reels): S01 «¿Dónde nació?», S02 «4 detenciones», S03 «5.000 pesos» y S04 «La noche del 20». Se publican después del estreno del 6 de diciembre, enlazados al video completo. Carrusel de Instagram de 6 imágenes (1080 × 1350) en 10_Shorts_y_Reels/carrusel_instagram: portada, cuatro detenciones, el precio, la noche del 20, cómo lo encontraron y cierre; espera la aprobación del creador."
     },
     "13": {
       "estado": "pendiente",
@@ -269,6 +269,10 @@
     {
       "fecha": "2026-11-28",
       "texto": "Video 3: el creador aprobó el montaje v1, el título, las miniaturas y los cuatro cortes 9:16."
+    },
+    {
+      "fecha": "2026-11-28",
+      "texto": "Carrusel de Instagram de 6 imágenes listo para aprobación, con texto sugerido; se edita en el lienzo «Carruseles de Instagram · Draco Fénix»."
     }
   ],
   "contexto": "Tercer video del canal y primero fuera de Colombia. El caso sigue abierto (juicio en México y extradición pedida por EE. UU.), así que el video lleva fecha de corte."

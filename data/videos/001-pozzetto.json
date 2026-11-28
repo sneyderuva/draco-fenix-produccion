@@ -80,7 +80,7 @@
       "estado": "en_curso",
       "plan": "2026-12-05",
       "real": null,
-      "nota": "Dos cortes 9:16 para aprobación en 10_Shorts_y_Reels: P01 «Pasó el día despidiéndose» (0:42) y P02 «¿Veterano de Vietnam?» (0:56), con el aviso en pantalla de que la carta de 2019 circula en internet y el canal no la ha podido verificar. Un tercero, el del «superespía», quedó en 99_Archivo_de_trabajo/cortes_descartados_v1 porque se sostiene con solo dos imágenes. Se publican después del estreno del 4 de diciembre, con aprobación del creador."
+      "nota": "Dos cortes 9:16 para aprobación en 10_Shorts_y_Reels: P01 «Pasó el día despidiéndose» (0:42) y P02 «¿Veterano de Vietnam?» (0:56), con el aviso en pantalla de que la carta de 2019 circula en internet y el canal no la ha podido verificar. Un tercero, el del «superespía», quedó en 99_Archivo_de_trabajo/cortes_descartados_v1 porque se sostiene con solo dos imágenes. Se publican después del estreno del 4 de diciembre, con aprobación del creador. Carrusel de Instagram de 7 imágenes (1080 × 1350) en 10_Shorts_y_Reels/carrusel_instagram: portada, las despedidas, mesa 20, el «superespía», Vietnam, la carta de 2019 y cierre; espera la aprobación del creador."
     },
     "13": {
       "estado": "pendiente",
@@ -258,6 +258,10 @@
     {
       "fecha": "2026-11-28",
       "texto": "Cortes 9:16 de Pozzetto listos para aprobación (dos Shorts de 42 y 56 segundos, audio a −14 LUFS), sacados del video ya subido sin modificarlo. Los tramos se cortaron en el PC y las partes temporales quedaron en 01_Pozzetto/_to_delete."
+    },
+    {
+      "fecha": "2026-11-28",
+      "texto": "Carrusel de Instagram de 7 imágenes listo para aprobación, con texto sugerido; se edita en el lienzo «Carruseles de Instagram · Draco Fénix»."
     }
   ],
   "contexto": "El 4 de diciembre de 2026 se cumplen 40 años del caso. Netflix estrenó una serie inspirada en él en diciembre de 2025."
