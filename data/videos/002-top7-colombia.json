@@ -77,10 +77,10 @@
       "nota": "Subido el 26 de noviembre en 1440p (07_Exportados/top7_montaje_v5_1440p.mp4) y programado como público para el domingo 29 de noviembre de 2026, 6:00 p. m. (Bogotá), sin estreno: https://youtu.be/KRsjtXdE3cY. Prueba A/B de miniaturas G, H e I; descripción con capítulos y créditos (4.729 caracteres); 15 etiquetas; Noticias y política; español (Latinoamérica); no creado para niños; uso de IA declarado. Cuando salga Pozzetto (4 de diciembre): pantalla final y comentario fijado hacia ese video."
     },
     "12": {
-      "estado": "pendiente",
+      "estado": "en_curso",
       "plan": "2026-12-02",
       "real": null,
-      "nota": ""
+      "nota": "Tres cortes 9:16 para aprobación en 10_Shorts_y_Reels: S01 «5 minutos al teléfono» (Escobar, 0:57), S02 «3 esposos, 3 seguros» (Esneda Ruiz Cataño, 0:55) y S03 «El celular de una víctima» (Ramírez Maestre, 0:45). Solo casos con víctimas adultas; los de víctimas menores de edad no van en cortes. Se publican uno por día desde el estreno del 29 de noviembre, con aprobación del creador y enlazados al video completo."
     },
     "13": {
       "estado": "pendiente",
@@ -220,6 +220,10 @@
     {
       "fecha": "2026-11-26",
       "texto": "El creador confirmó que los insumos y el montaje están terminados y que el video está programado: pasos 7, 10 y 11 cerrados."
+    },
+    {
+      "fecha": "2026-11-28",
+      "texto": "Cortes 9:16 del video 2 listos para aprobación: tres Shorts de 45 a 57 segundos sacados del video publicado, sin modificarlo, con el texto sugerido de cada uno en 00_LEEME_shorts_video2.txt. En el corte de Esneda se borró el rótulo EN DEBATE que el video largo deja dos segundos sobre la foto de Antioquia, porque la frase del veneno no entra."
     }
   ],
   "contexto": "Segundo video del canal, una semana después del piloto (caso Pozzetto, 4 de diciembre). El formato de lista busca público amplio y lo lleva al documental largo; cada caso sirve después como Short."
