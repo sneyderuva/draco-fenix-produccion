@@ -41,10 +41,10 @@
       "nota": "Aprobado por el creador el 27 de noviembre, al pedir la voz completa después de la prueba. Guion v1 en 03_Chapo_Isidro/02_Guion: gancho y nueve bloques, unos 18 minutos y medio con la cortinilla y los audios del FBI. Después de la prueba de voz se ajustó una frase («cerca de 73 kilos»)."
     },
     "6": {
-      "estado": "espera",
+      "estado": "hecho",
       "plan": "2026-11-30",
-      "real": null,
-      "nota": "Título: «El Chapo Isidro antes del Chapo Isidro», el preferido del creador (vidIQ 81 de 100). Miniaturas en 08_Miniatura (1280 × 720 y 1920 × 1080) con hoja de comparación: A «4 VECES LIBRE», B «¿QUIÉN ERA?», C «TODA LA FAMILIA» y D de reserva «LA NOCHE DEL 20». Esperan la aprobación del creador."
+      "real": "2026-11-28",
+      "nota": "Aprobado por el creador el 28 de noviembre. Título: «El Chapo Isidro antes del Chapo Isidro» (vidIQ 81 de 100). Miniaturas en 08_Miniatura para la prueba de YouTube: A «4 VECES LIBRE», B «¿QUIÉN ERA?» y C «TODA LA FAMILIA»; D «LA NOCHE DEL 20» de reserva."
     },
     "7": {
       "estado": "en_curso",
@@ -65,10 +65,10 @@
       "nota": "Voz limpiada (paso alto y de-esser), recortada, con pausas de 2 s donde el guion las pide y nivelada a −18 LUFS; audios del FBI a −19 LUFS. Máster con música y efectos: −14 LUFS y pico real de −2,1 dBTP."
     },
     "10": {
-      "estado": "espera",
+      "estado": "en_curso",
       "plan": "2026-12-04",
       "real": null,
-      "nota": "Versión 1 lista el 27 de noviembre: 07_Exportados/video3_chapo_isidro_v1.mp4 (18:40, 1080p, −14 LUFS) y proyecto de Filmora 06_Edicion_Filmora/chapo_isidro_v1.wfp con los 143 planos (planos_v1) y tres pistas de audio, abierto y revisado en Filmora sin medios faltantes. Subtítulos en 07_Exportados. Falta la frase de la audiencia (minuto 16:42) y la aprobación del creador."
+      "nota": "Versión 1 aprobada por el creador el 28 de noviembre: 07_Exportados/video3_chapo_isidro_v1.mp4 (18:40, 1080p, −14 LUFS), subtítulos y proyecto de Filmora 06_Edicion_Filmora/chapo_isidro_v1.wfp con los 143 planos y tres pistas de audio. Falta solo la frase de la audiencia del 28 (minuto 16:42), que cambia el cierre."
     },
     "11": {
       "estado": "en_curso",
@@ -77,10 +77,10 @@
       "nota": "Descripción con capítulos, fuentes, aviso y créditos (4.823 caracteres) y comentario fijado en 09_Publicacion. Subida y programación el 5 de diciembre; publicación el domingo 6 a las 6:00 p. m. (Bogotá)."
     },
     "12": {
-      "estado": "espera",
+      "estado": "en_curso",
       "plan": "2026-12-07",
       "real": null,
-      "nota": "Cuatro cortes 9:16 en 10_Shorts_y_Reels: S01 «¿Dónde nació?» (0:55), S02 «4 detenciones» (0:51), S03 «5.000 pesos» (0:30) y S04 «La noche del 20» (0:37), con texto sugerido. Ninguno se publica sin la aprobación del creador."
+      "nota": "Cuatro cortes 9:16 aprobados por el creador el 28 de noviembre (10_Shorts_y_Reels): S01 «¿Dónde nació?», S02 «4 detenciones», S03 «5.000 pesos» y S04 «La noche del 20». Se publican después del estreno del 6 de diciembre, enlazados al video completo."
     },
     "13": {
       "estado": "pendiente",
@@ -265,6 +265,10 @@
     {
       "fecha": "2026-11-28",
       "texto": "Video 3: montaje v1 de 18:40 exportado y proyecto de Filmora armado y abierto en el PC; subtítulos, descripción con capítulos, título, miniaturas A, B y C y cuatro cortes 9:16 listos para la aprobación del creador. Pendiente: la frase de la audiencia del 28."
+    },
+    {
+      "fecha": "2026-11-28",
+      "texto": "Video 3: el creador aprobó el montaje v1, el título, las miniaturas y los cuatro cortes 9:16."
     }
   ],
   "contexto": "Tercer video del canal y primero fuera de Colombia. El caso sigue abierto (juicio en México y extradición pedida por EE. UU.), así que el video lleva fecha de corte."
